@@ -54,7 +54,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "http://chillyistkult.de"
+url: "http://www.chillyistkult.de"
 baseurl: ""
 
 # Includes
