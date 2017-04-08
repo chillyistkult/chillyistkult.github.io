@@ -4,6 +4,7 @@ date: 2016-02-25 19:36
 title: "Reisebericht Thailand"
 description: Elebnisbericht eines Backpackingabenteuers durch Thailand
 comments: true
+mood: happy
 category: 
 - Reisen
 - Asien
