@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-02-25 19:36
-title: "Reisebericht Thailand: Bangkok und Südthailand"
+title: "Reisebericht Thailand: Bangkok und das Inselparadies"
 description: Ein Reise- und Erfahrungsbericht über ein Backpackingabenteuer in Bangkok und Südthailand
 comments: true
 mood: happy
