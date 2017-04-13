@@ -21,7 +21,7 @@ Wie fast alles auf unserer Reise, lief auch der Flug am Morgen Richtung Bangkok 
 haben unser Hotel wieder im selben Viertel gebucht, wo wir auch schon am Anfang unserer Reise übernachtet haben. 
 Sukhumvit liegt einfach strategisch günstig und man erreicht beide internationale Flughäfen in kurzer Zeit. Die 
 Fahrt mit dem Taxi führte uns Mitten in die Rushhour Bangkoks und das Taximeter tickte erbarmungslos gegen uns. Nach 
-einer gefühlten Ewigkeit sind wir dann im ersten und einzigem 4-Sterne Hotel unserer Reise, dem Well Hotel, 
+einer gefühlten Ewigkeit sind wir dann im ersten und einzigem 4-Sterne Hotel unserer Reise, dem [Well Hotel](http://www.booking.com/hotel/th/well-bangkok.html?aid=1269594&no_rooms=1&group_adults=2&room1=A%2CA), 
 angekommen. Wir wollten uns zum Abschluss einfach nochmal richtig was gönnen.
 
 Unser gesetztes Ziel für den Tag war es unser komplettes restliches Bargeld auf den Kopf zu hauen und zwar bis auf 
@@ -455,7 +455,7 @@ Kilometer entfernten Schmelztiegel Bangkok wieder.
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/4uD365" title="Tints of Blue Bangkok"><img src="https://c1.staticflickr.com/1/749/33900452805_36b00071c1_n.jpg" width="240" height="320" alt="Tints of Blue Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser Hotel "Tints of Blue" gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme 
+Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser [Hotel "Tints of Blue"](http://www.booking.com/hotel/th/tints-of-blue.html?aid=1269594&no_rooms=1&group_adults=2&room1=A%2CA) gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme 
 (und das wohlgemerkt ohne Google Maps und diesen ganzen neumodischen Apps :-).
 
 Im Hotel stellte sich heraus das unser Zimmer erst um 14:00 Uhr bezugsfertig ist, d.h. wir hatten noch zwei Stunden 
