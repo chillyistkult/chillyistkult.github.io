@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-02-25 19:36
-title: "Reisebericht Thailand"
+title: "Reisebericht Thailand: Inselhopping für Anfänger"
 description: Elebnisbericht eines Backpackingabenteuers durch Thailand
 comments: true
 mood: happy
@@ -345,7 +345,7 @@ Geschlagene 2 Stunden liefen und kletterten wir auf einem unbefestigten Trampelp
 dichten Dschungel. Von unserem Ziel leider keine Spur. Körperlich überanstrengt entschieden wir uns zur Rückkehr. 
 Einen schönen Ort zum entspannen am Wasserfall haben wir dennoch gefunden.
 
-Unser verspätetes Mittagessen gab es in der Bamboo Bar und Grill. Das von uns zufällig gewählte Restaurant war die 
+Unser verspätetes Mittagessen gab es in der [Bamboo Bar und Grill](https://www.tripadvisor.de/Restaurant_Review-g1182465-d4004252-Reviews-Bamboo_Grill_Bar-Mae_Nam_Ko_Samui_Surat_Thani_Province.html). Das von uns zufällig gewählte Restaurant war die 
 bekannte Lokalität des Auswanderers Matthias Bück von Goodbye Deutschland. Das BBQ war sehr lecker, deutsche 
 Gründlichkeit zieht eben bei deutschen Urlaubern.
 
@@ -443,9 +443,9 @@ ging es auch direkt weiter zum Reiseziel unserer Wahl - Bangkok! Ein paar Blockb
 "Der Marsianer" nicht im Kino angeschaut) ging auch schon die Sonne über Thailand auf und wir befanden uns im 9.200 
 Kilometer entfernten Schmelztiegel Bangkok wieder.
 
-Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser Hotel "Tints of Blue" gefahren. Da 
-ich echt gut im Navigieren bin ging das auch komplett ohne Probleme (und das wohlgemerkt ohne Google Maps und diesen 
-ganzen neumodischen Apps :-).
+Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser [Hotel "Tints of Blue"]
+(http://booking.com/aad8c526ae895) gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme 
+(und das wohlgemerkt ohne Google Maps und diesen ganzen neumodischen Apps :-).
 
 Im Hotel stellte sich heraus das unser Zimmer erst um 14:00 Uhr bezugsfertig ist, d.h. wir hatten noch zwei Stunden 
 Zeit uns etwas zu Essen zu organisieren. Abenteuerlustig haben wir uns direkt in den nächstbesten Thaifood-Imbiss 
