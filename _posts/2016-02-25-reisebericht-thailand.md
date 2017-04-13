@@ -395,6 +395,10 @@ Thaifood-Festivals, das vor dem Central World Plaza stattgefunden hat. Die Snack
 vorstellen wie lecker mariniert-gekochtes Schweinefleisch sein kann, auch wenn das mit der Schärfedosierung in 
 Thailand einfach nicht so funktioniert wie man sich das als Tourist vorstellt.
 
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/80k23N" title="Bangkok Street Food Festival"><img src="https://c1.staticflickr.com/3/2808/33900456645_43bdcbe300.jpg" width="500" height="375" alt="Bangkok Street Food Festival"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Morgen geht es dann mit dem Taxi zum Flughafen und mit Flieger, Bus und Fähre nach Koh Samui. Also stay tuned!
 
 # Tag 2 - Bangkok Reloaded
@@ -421,6 +425,10 @@ konnte im Schatten etwas Kraft und Ruhe tanken.
 
 Die nächste Station sollte dann eigentlich das Nationalmuseum von Bangkok sein. Geschlossen am Wochenende...? Jep!
 
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/t4w13y" title="Wat Benchamabophit"><img src="https://c1.staticflickr.com/3/2859/33900455265_e782de8208_n.jpg" width="240" height="320" alt="Wat Benchamabophit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Wieder zu Fuß machten wir uns nun auf den Weg zur Khao San Road, der berühmten Vergnügungsmeile! Hier sind 
 hauptsächlich junge und jung gebliebene Touristen unterwegs und dem entsprechend ist das Angebot an Bars, Essen und 
 eben Vergnügen groß. Nach einem gar nicht mal so guten Mittagessen, ging es weiter mit einem Tuk Tuk zu einer kleinen 
@@ -443,8 +451,11 @@ ging es auch direkt weiter zum Reiseziel unserer Wahl - Bangkok! Ein paar Blockb
 "Der Marsianer" nicht im Kino angeschaut) ging auch schon die Sonne über Thailand auf und wir befanden uns im 9.200 
 Kilometer entfernten Schmelztiegel Bangkok wieder.
 
-Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser [Hotel "Tints of Blue"]
-(http://booking.com/aad8c526ae895) gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme 
+<figure class="alignright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/4uD365" title="Tints of Blue Bangkok"><img src="https://c1.staticflickr.com/1/749/33900452805_36b00071c1_n.jpg" width="240" height="320" alt="Tints of Blue Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser Hotel "Tints of Blue" gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme 
 (und das wohlgemerkt ohne Google Maps und diesen ganzen neumodischen Apps :-).
 
 Im Hotel stellte sich heraus das unser Zimmer erst um 14:00 Uhr bezugsfertig ist, d.h. wir hatten noch zwei Stunden 
@@ -458,6 +469,10 @@ größer. Alleine der nur vier Stationen von uns entfernte Siam Square, den wir 
 beherbergt drei riesige Shopping-Malls. Eines davon, das Central World Plaza, ist sogar das größte Südostasiens. Auf 
 den Straßen tummeln sich neben unglaublichen vielen Autos seit den Abendstunden auch viele Händler die Ihre Waren 
 (oder wie wir es nennen: Ramsch) versuchen an den Mann zu bringen.
+
+<figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/c0enZ6" title="Rushhour Bangkok"><img src="https://c1.staticflickr.com/4/3804/33900454045_bda775bc5e_z.jpg" width="640" height="480" alt="Rushhour Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Für Heute war uns das nach dem langen Flug auch erst einmal genug und morgen gibt es dann die volle Packung Kultur 
 und einen kleinen Abstecher zur Khao San Road am Abend.
