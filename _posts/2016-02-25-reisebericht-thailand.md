@@ -185,7 +185,15 @@ Auch heute ist es um Benny nicht viel besser bestellt. Es ist sehr heiß bei Tag
 Wir hatten uns für den heutigen Tag eine Rollertour für den Nordosten vorgenommen. Die Insel ist sehr bergig aber durch die vieler Orts neuen Straßen gut befahrbar. Koh Phangang ist im Vergleich zu Koh Samui wirklich eine Wohltat. 
 Es ist weitestgehend sauber und naturbelassen. Links und rechts an den Straßen sieht man den wild wuchernden Dschungel.
 
+<figure class="algincenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515652850/in/album-72157680321616691/" title="Koh Phangan Roads"><img src="https://c1.staticflickr.com/3/2867/33515652850_e52c926d80_z.jpg" width="640" height="480" alt="Koh Phangan Roads"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Es gab zwei Strände, an denen wir an diesem Tag unsere Zeit verbracht haben. Als Erstes waren wir am flachen Haad Thong Nai Pan Yai Strand. Große Sandbänke die meilenweit ins Meer hineinragen. Der zweite Strand liegt in dem Ort Haad Than Sadet. In einer kleinen Bucht flankiert von Bergen, zu der nur wenige Touristen ihren Weg finden, war es wie in einer Oase. Einfach Wunderschön! Aber nichts geht ohne etwas Abenteuer: Und das war es, dass Restaurant mit Aussicht hoch oben am Berghang zu der ein recht versteckter Weg über Felsen am Strand führte.
+
+<figure class="algincenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33087519973/in/album-72157680321616691/" title="Haad Than Sadet Beach"><img src="https://c1.staticflickr.com/4/3703/33087519973_bbdca31300_z.jpg" width="640" height="480" alt="Haad Than Sadet Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Am Abend gab es dann in unserem Resort ein hauseigenes BBQ vom Chef persönlich zubereitet. Sehr lecker wir haben richtig reingehauen.
 
@@ -197,12 +205,19 @@ Die Überfahrt war kurz und schmerzlos und schon von weitem sahen wir das Koh Ta
 
 Nach unserer Ankunft am Hafen erwarteten uns die üblichen Scharen an Taxifahrer die wirklich jeden Touristen, der aus dem Boot kam, fragten wo dieser denn hinwolle. Aber dieses Mal waren wir clever und mieteten uns einen Roller direkt am Hafen um die Taxifahrt zum Hotel und später wieder zurück zu sparen.
 
-Normalerweise muss man in Thailand wenn man als Tourist einen Roller mieten will seinen Reisepass als Kaution hinterlegen. Damit haben dich die Vermieter natürlich am Wickel, da der Reisepass mit Abstand das wichtigste Dokument ist, ohne den man auch nicht mehr ausreisen kann - das wissen die Vermieter natürlich. Nach kurzen Verhandlungen und der Ansage das ich auf keinen Fall meinen Reisepass abgebe, akzeptierte der Vermieter auch 5000 Baht (ca. 130€) und 
-meinen EU-Führerschein als Kaution, was natürlich im Falle das irgendwas schief oder kaputt geht für uns wesentlich günstiger und unkomplizierter ist. Denn die Verträge sind schon heftig, die Roller sind nicht versichert, das heißt du musst für jeden Schaden aufkommen. Bei Diebstahl werden z.B. vertraglich vereinbarte 50000 Baht (ca. 1300€) fällig und selbst ein Kratzer kostet dich schon um die 2500 Baht (ca. 64€).
+Normalerweise muss man in Thailand wenn man als Tourist einen Roller mieten will seinen Reisepass als Kaution hinterlegen. Damit haben dich die Vermieter natürlich am Wickel, da der Reisepass mit Abstand das wichtigste Dokument ist, ohne den man auch nicht mehr ausreisen kann - das wissen die Vermieter natürlich. Nach kurzen Verhandlungen und der Ansage das ich auf keinen Fall meinen Reisepass abgebe, akzeptierte der Vermieter auch 5000 Baht (ca. 130€) und meinen EU-Führerschein als Kaution, was natürlich im Falle das irgendwas schief oder kaputt geht für uns wesentlich günstiger und unkomplizierter ist. Denn die Verträge sind schon heftig, die Roller sind nicht versichert, das heißt du musst für jeden Schaden aufkommen. Bei Diebstahl werden z.B. vertraglich vereinbarte 50000 Baht (ca. 1300€) fällig und selbst ein Kratzer kostet dich schon um die 2500 Baht (ca. 64€).
+
+<figure class="alginright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257920232/in/dateposted-public/" title="Koh Tao Seaview Resort"><img src="https://c1.staticflickr.com/5/4190/34257920232_b25bc2011b_n.jpg" width="320" height="240" alt="Koh Tao Seaview Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu viele Sorgen machen. Unser Hotel, das Koh Tao Seaview Resort, liegt diesmal nicht am Strand sondern hoch oben in den Bergen. Der Ausblick von unserer kleinen aber feinen Hütte über den dicht bewachsenen Jungle und das Meer ist einfach fantastisch. Wir haben sogar eine Hängematte auf unserem kleinen Balkon!
 
 Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben dort angeschaut. Und wow der Strand macht in den Abendstunden echt was her!
+
+<figure class="algincenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515653640/in/dateposted-public/" title="Sairee Beach"><img src="https://c1.staticflickr.com/3/2916/33515653640_239482e421_z.jpg" width="640" height="480" alt="Sairee Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 # Tag 12 - Sonnenuntergang
 
@@ -214,8 +229,11 @@ Danach sind wir zum Ta Thong Beach aufgebrochen, der touristisch im Prinzip kaum
 Der kleine Strand bot außerdem eine perfekte Location um unsere Hängematte erneut auszuprobieren - diesmal ohne Palmen zu entwurzeln. Am Nachmittag haben wir dann noch einen Abstecher zum benachbarten Sai Nuan Beach unternommen 
 um auch dort die Schnorchelqualität unter die Lupe zu nehmen. War ebenfalls sehr schön, reichte aber immer noch nicht an die Riffe in Ägypten ran - aber wir haben ja hier noch ein paar Tage!
 
-Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut noch Großes vor: Den Sonnenuntergang auf einem versteckten Aussichtspunkt hoch oben in den Bergen genießen! Um zu dem Aussichtspunkt zu gelangen mussten wir einiges an Offroad-Strecken und Kletterei überwinden aber es hat sich sowas von gelohnt. Zwischen zwei riesigen Felsbrocken hindurchgezwängt befanden wir uns auf einem vorgelagerten Boulder über den Baumkronen und mit einem 200° Panorama-Blick über die Insel. Die untergehende Sonne taucht das Meer in ein rot-gelbe 
-Szenerie und die vielen Boote in der Bucht sahen von hier oben einfach nur winzig aus. Fast schon surreal und einmalig!
+Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut noch Großes vor: Den Sonnenuntergang auf einem versteckten Aussichtspunkt hoch oben in den Bergen genießen! Um zu dem Aussichtspunkt zu gelangen mussten wir einiges an Offroad-Strecken und Kletterei überwinden aber es hat sich sowas von gelohnt. Zwischen zwei riesigen Felsbrocken hindurchgezwängt befanden wir uns auf einem vorgelagerten Boulder über den Baumkronen und mit einem 200° Panorama-Blick über die Insel. Die untergehende Sonne taucht das Meer in ein rot-gelbe Szenerie und die vielen Boote in der Bucht sahen von hier oben einfach nur winzig aus. Fast schon surreal und einmalig!
+
+<figure class="algincenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257919582/in/dateposted-public/" title="Koh Tao Panorama"><img src="https://c1.staticflickr.com/5/4162/34257919582_39c75cb95c_z.jpg" width="640" height="142" alt="Koh Tao Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 # Tag 13 - Sonnenbrände
 
@@ -223,8 +241,7 @@ Wir haben uns auf Koh Tao "eingelebt". Die engen Bergstraßen fahren sich mittle
 
 Heute haben wir die Shark Bay besucht, die aber nicht etwa so heißt weil es dort Haie gibt, sondern weil eine kleine vorgelagerte Insel aussieht wie eine Haifischflosse. Die Strände hier auf Koh Tao sind eher grobsandig und mit Korallenresten übersät. Das Schnorcheln entlang der Riffe am Strand macht vor allem mir sehr viel Spaß und man entdeckt doch hin und wieder mal einen etwas größeren Fisch.
 
-Am Nachmittag sind wir noch zur Tanote Bay gefahren, die nur über eine Sandpiste zu erreichen ist. In der Mitte der Bucht ist ein etwa 10 Meter hoher Felsen, von dem man ins Meer springen kann. Das habe ich mich noch nicht getraut, aber morgen machen wir die GoPro startklar für eine Runde Klippenspringen. Aufjedenfall ist die Bucht bisher das Schnorchel-Highlight gewesen. Die weitreichenden Riffe sind mit kleinen Gräben durchzogen und das Wasser ist hier 
-etwas tiefer, was auch größeren Fischen einen Lebensraum bietet. Der Tag hat bei uns Spuren in Form von echt miesen Sonnenbränden hinterlassen, wer hätte gedacht das uns das passieren könnte! Wir kommen morgen trotzdem nochmal wieder!
+Am Nachmittag sind wir noch zur Tanote Bay gefahren, die nur über eine Sandpiste zu erreichen ist. In der Mitte der Bucht ist ein etwa 10 Meter hoher Felsen, von dem man ins Meer springen kann. Das habe ich mich noch nicht getraut, aber morgen machen wir die GoPro startklar für eine Runde Klippenspringen. Aufjedenfall ist die Bucht bisher das Schnorchel-Highlight gewesen. Die weitreichenden Riffe sind mit kleinen Gräben durchzogen und das Wasser ist hier etwas tiefer, was auch größeren Fischen einen Lebensraum bietet. Der Tag hat bei uns Spuren in Form von echt miesen Sonnenbränden hinterlassen, wer hätte gedacht das uns das passieren könnte! Wir kommen morgen trotzdem nochmal wieder!
 
 Am Abend sind wir vom Hafen in Mae Haad zum Ort Sairee am Strand spazieren gegangen. Haben wir auf Koh Samui noch gedacht das Feuershows etwas besonderes sind, so merkt man hier das eigentlich jede Beachbar, die etwas auf sich hält, einen oder meist mehrere Feuerartisten beschäftigt. Fairerweise müssen wir aber sagen das die Darbietung auf Koh Samui bisher die Beste war!
 
@@ -232,8 +249,11 @@ Am Abend sind wir vom Hafen in Mae Haad zum Ort Sairee am Strand spazieren gegan
 
 Nach einem ausgewogenen Frühstück mit Toast, Rührei, Bacon, Tee und Orangensaft führte unser Weg zum Hafen die Fährtickets reservieren. Denn morgen geht es in die Provinz Krabi, genauer gesagt nach Ao Nang, gelegen an der Westküste Thailands. Der Trip wird um die sieben Stunden dauern, sodass wir dort erst am frühen Abend ankommen.
 
-Den letzten Tag auf Koh Tao haben wir genutzt um den letzten größeren Strand der Insel zu erkunden. Die Ao Leuk Bay, auf die wir jeden Morgen von unserer Frühstücksterasse blicken, ist ein feinsandiger Strand, was für die Insel eher 
-selten ist. Auch die Riffe sind hier anders, irgendwie mehr so wie in Ägypten, Felsen wechseln sich mit feinstem Sand ab und Fische sind schon unmittelbar nach dem betreten des Wassers zu sehen.
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575198474/in/dateposted-public/" title="Ao Leuk Bay Snorkeling"><img src="https://c1.staticflickr.com/5/4165/33575198474_5039c78dfe_n.jpg" width="320" height="240" alt="Ao Leuk Bay Snorkeling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Den letzten Tag auf Koh Tao haben wir genutzt um den letzten größeren Strand der Insel zu erkunden. Die Ao Leuk Bay, auf die wir jeden Morgen von unserer Frühstücksterasse blicken, ist ein feinsandiger Strand, was für die Insel eher selten ist. Auch die Riffe sind hier anders, irgendwie mehr so wie in Ägypten, Felsen wechseln sich mit feinstem Sand ab und Fische sind schon unmittelbar nach dem betreten des Wassers zu sehen.
 
 Am späten Nachmittag sind wir dann nochmal zur Tanote Bay aufgebrochen, denn da war ja noch was mit dem Klippenspringen. Ich bin nicht von der Klippe gesprungen, aber nicht weil mir diese mit etwa sieben Metern zu hoch war, sondern weil mir der Aufstieg an einem nassen Seil und einer doch recht steilen Felswand nur in Badehose etwas waghalsig erschien. Dafür ist meine bezaubernde Freundin noch einmal mit mir Schnorcheln gegangen und wir haben ein 
 paar gute Aufnahmen mit der GoPro hinbekommen.
@@ -248,10 +268,11 @@ Nachdem wir gestern nach einem Code RED (riesengroße Spinne im Bungalow) recht 
 
 Nach einem Zwischenstopp in Koh Phangan, wechselten wir in Koh Samui unser Fährboot. Es war wieder mal ein sehr heisser Tag, sodass uns das klimatisierte Speedboot Richtung Donsak Pier gerade recht kam. Benny schlief nach der kurzen Nacht an meiner Schulter ein.
 
-Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus nach Krabi-City. Wir lernten noch am Busbahnhof ein nettes deutsches Mädel kennen. Mehr Leute als wir drei wollten nicht nach Ao Nang, sodass wir allein in einem 40–Mann Bus abfuhren. In Krabi angekommen gab es dann noch eine kurze Tour mit einem Kleinbus zum Resort - es ist mittlerweile 17:30 Uhr.
+<figure class="alignright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744082862/in/dateposted-public/" title="Vipa Tropical Resort"><img src="https://c1.staticflickr.com/1/588/33744082862_e8987fe1f6_n.jpg" width="240" height="320" alt="Vipa Tropical Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
-Das in einem tropischen Garten gelegene [Vipa Tropical Resort](http://www.booking.com/hotel/th/vipa-tropical-resort.html?aid=1269594&no_rooms=1&group_adults=1) ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir 
-nach einem ausgiebigen Abendessen auch für ein paar Bahnen direkt eingeweiht.
+Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus nach Krabi-City. Wir lernten noch am Busbahnhof ein nettes deutsches Mädel kennen. Mehr Leute als wir drei wollten nicht nach Ao Nang, sodass wir allein in einem 40–Mann Bus abfuhren. In Krabi angekommen gab es dann noch eine kurze Tour mit einem Kleinbus zum Resort - es ist mittlerweile 17:30 Uhr. Das in einem tropischen Garten gelegene [Vipa Tropical Resort](http://www.booking.com/hotel/th/vipa-tropical-resort.html?aid=1269594&no_rooms=1&group_adults=1) ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir nach einem ausgiebigen Abendessen auch für ein paar Bahnen direkt eingeweiht.
 
 # Tag 16 - Affenbande
 
