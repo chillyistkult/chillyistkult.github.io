@@ -276,20 +276,30 @@ Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus na
 
 # Tag 16 - Affenbande
 
-Nach einem Langschläferfrühstück ging es direkt an die Planung für den bevorstehenden Tag. Die Provinz Krabi und speziell Ao Nang beherbergt einige der schönsten Strände der Welt. Die meisten von diesen Stränden sind nur mit dem 
-Boot erreichbar, da sie von hunderten Meter hohen Felsen umgeben sind. Aber da Thailand ohnehin bekannt für seine typischen Longtailboote mit den stinkenden und lauten Dieselmotoren ist dürfte das kein Problem werden. Also ging es mit dem hoteleigenen Shuttle zum Strand um die Möglichkeiten abzuchecken. Boote lagen schonmal genug am Strand jetzt nur noch ein Ticket für 100 Baht pro Nase erwerben und warten bis das Boot unserer Wahl voll ist und ab geht es nach 
-Railay.
+Nach einem Langschläferfrühstück ging es direkt an die Planung für den bevorstehenden Tag. Die Provinz Krabi und speziell Ao Nang beherbergt einige der schönsten Strände der Welt. Die meisten von diesen Stränden sind nur mit dem Boot erreichbar, da sie von hunderten Meter hohen Felsen umgeben sind. Aber da Thailand ohnehin bekannt für seine typischen Longtailboote mit den stinkenden und lauten Dieselmotoren ist dürfte das kein Problem werden. Also ging es mit dem hoteleigenen Shuttle zum Strand um die Möglichkeiten abzuchecken. Boote lagen schonmal genug am Strand jetzt nur noch ein Ticket für 100 Baht pro Nase erwerben und warten bis das Boot unserer Wahl voll ist und ab geht es nach Railay.
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744084092/in/dateposted-public/" title="Railay Beach"><img src="https://c1.staticflickr.com/3/2932/33744084092_04c1cb21fc_z.jpg" width="640" height="480" alt="Railay Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Railay ist ausschließlich per Boot erreichbar und beherbergt neben weißen Sandstränden und einer atemberaubenden Kulisse auch die teuersten Resorts der Gegend. Die Überfahrt dauerte nur etwa zehn Minuten und war für sich allein 
 genommen schon ein Erlebnis. Angekommen am Strand Railay West wurde uns schnell klar das auch hier der Massentourismus schon seit vielen Jahren eingezogen ist, aber sei's drum. Unser erstes Ziel war die Kalksteinhöhle Phranang-nai (Diamondcave), da wir aber nicht so gut im Schilder lesen sind, sind wir an der Phranang Cave (Princesscave) am namensgebenden Strand Phranang Beach rausgekommen.
 
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900470745/in/dateposted-public/" title="Phra Nang Cave Beach"><img src="https://c1.staticflickr.com/3/2943/33900470745_fe3acabe52_n.jpg" width="240" height="320" alt="Phra Nang Cave Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Der Weg dort hin führte uns über den Strand Railay East, der nur bei Ebbe begehbar ist, und einen gewunden Pfad vorbei an dutzenden wildlebenden Rhesusaffen. Anders als überall erzählt waren die Affen wenig aggressiv und boten ein super Fotomotiv. Dann entdeckte ich auch noch einen steilen Kletterpfad zu einem Aussichtspunkt und mein Abenteuerdrang war mal wieder geweckt. Oben angekommen fand ich zwar keinen Aussichtspunkt aber eine Kletterroute bergab zu einer im Berg liegenden Lagune. Leider beinhaltete diese Route auch senkrechte Felswände die bis zu sieben Meter hoch waren und mein gesunder Menschenverstand riet mir dann doch davon ab das ohne Sicherung zu klettern.
 
-Also ging es wieder zurück und ein paar Windungen später fanden wir uns an einem Phallus-Schrein wieder. Dort liegen hunderte selbst geschnitzte Penisse, die für die Thais wohl so eine Art Fruchtbarkeitsritual darstellen. Ob's hilft wissen wir nicht. Da der Strand an der Höhle mit den vielen Penissen leider viel zu voll war beschlossen wir zurück zum Railay  West Beach zu gehen, der ist sehr weitläufig und die Menschenmassen verteilten sich hier ganz gut. Auf 
-dem Rückweg haben wir dann auch noch zu unserem eigentlichen Ziel der Diamondcave gefunden, die hunderte von Fledermäusen ein Zuhause bietet und bekannt für ihre glänzend, schimmernden Kalksteinformationen ist.
-Angekommen am Strand machten wir es uns unter ein paar Bäumen gemütlich, installierten die Hängematte und genossen das Panorama und das türkisblaue Wasser.
+<figure class="alignright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900468605/in/dateposted-public/" title="Penis Temple"><img src="https://c1.staticflickr.com/4/3831/33900468605_aedcc5a302_n.jpg" width="320" height="240" alt="Penis Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Also ging es wieder zurück und ein paar Windungen später fanden wir uns an einem Phallus-Schrein wieder. Dort liegen hunderte selbst geschnitzte Penisse, die für die Thais wohl so eine Art Fruchtbarkeitsritual darstellen. Ob's hilft wissen wir nicht. Da der Strand an der Höhle mit den vielen Penissen leider viel zu voll war beschlossen wir zurück zum Railay  West Beach zu gehen, der ist sehr weitläufig und die Menschenmassen verteilten sich hier ganz gut. Auf dem Rückweg haben wir dann auch noch zu unserem eigentlichen Ziel der Diamondcave gefunden, die hunderte von Fledermäusen ein Zuhause bietet und bekannt für ihre glänzend, schimmernden Kalksteinformationen ist.Angekommen am Strand machten wir es uns unter ein paar Bäumen gemütlich, installierten die Hängematte und genossen das Panorama und das türkisblaue Wasser.
 
 Am Abend fuhren wir dann mit einem der vielen Longtailboote zurück nach Ao Nang, wo wir bei einem kühlen Getränk ein weiteres mal einen wunderschönen Sonnenuntergang beobachteten.
+
+<iframe src="https://player.vimeo.com/video/158740176" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # Tag 17 - Himmelsleiter
 
