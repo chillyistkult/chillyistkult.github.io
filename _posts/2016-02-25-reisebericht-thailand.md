@@ -211,7 +211,7 @@ Normalerweise muss man in Thailand wenn man als Tourist einen Roller mieten will
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257920232/in/dateposted-public/" title="Koh Tao Seaview Resort"><img src="https://c1.staticflickr.com/5/4190/34257920232_b25bc2011b_n.jpg" width="320" height="240" alt="Koh Tao Seaview Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu viele Sorgen machen. Unser Hotel, das Koh Tao Seaview Resort, liegt diesmal nicht am Strand sondern hoch oben in den Bergen. Der Ausblick von unserer kleinen aber feinen Hütte über den dicht bewachsenen Jungle und das Meer ist einfach fantastisch. Wir haben sogar eine Hängematte auf unserem kleinen Balkon!
+Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu viele Sorgen machen. Unser Hotel, das [Koh Tao Seaview Resort](http://www.booking.com/hotel/th/koh-tao-seaview-resort.html?aid=1269594&no_rooms=1&group_adults=1), liegt diesmal nicht am Strand sondern hoch oben in den Bergen. Der Ausblick von unserer kleinen aber feinen Hütte über den dicht bewachsenen Jungle und das Meer ist einfach fantastisch. Wir haben sogar eine Hängematte auf unserem kleinen Balkon!
 
 Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben dort angeschaut. Und wow der Strand macht in den Abendstunden echt was her!
 
@@ -311,8 +311,7 @@ Als nächstes ging es dann zum Emerald Pool. Der Urwald rund um den natürlichen
 
 # Tag 18 - Auszeit
 
-Es ist doch immer das Gleiche, man fährt in den Urlaub will sich eigentlich irgendwie entspannen und erholen und dann klettert, läuft oder schwimmt man trotzdem den ganzen Tag durch die Gegend und ist am Abend völlig erschöpft. Nicht so am Tag 17 unserer Reise! Der heutige Tag stand ganz im Zeichen der Hängematte und des notorischen Nichtstuns. Und weil wir den ganzen Tag nur am Strand gelegen, gegessen und dann wieder am Strand gelegen haben gibt es auch 
-nicht viel zu berichten, außer das der erwartete Muskelkater von den 1243 Treppenstufen gestern erstaunlicherweise ausgeblieben ist. Muss wohl an unserer hervorragenden Kondition liegen :-).
+Es ist doch immer das Gleiche, man fährt in den Urlaub will sich eigentlich irgendwie entspannen und erholen und dann klettert, läuft oder schwimmt man trotzdem den ganzen Tag durch die Gegend und ist am Abend völlig erschöpft. Nicht so am Tag 17 unserer Reise! Der heutige Tag stand ganz im Zeichen der Hängematte und des notorischen Nichtstuns. Und weil wir den ganzen Tag nur am Strand gelegen, gegessen und dann wieder am Strand gelegen haben gibt es auch nicht viel zu berichten, außer das der erwartete Muskelkater von den 1243 Treppenstufen gestern erstaunlicherweise ausgeblieben ist. Muss wohl an unserer hervorragenden Kondition liegen :-).
 
 Morgen geht es dann auf eine Halbtagstour in die Mangroven zum Kayaking. Wir sind gespannt was uns erwartet!
 
