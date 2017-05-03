@@ -305,9 +305,27 @@ Am Abend fuhren wir dann mit einem der vielen Longtailboote zurück nach Ao Nang
 
 Der heutige Tag hielt zur Abwechslung mal wieder einen Tagesausflug für uns bereit. Drei Stopps mit den klangvollen Namen Hot Springs, Emerald Pool und Tiger Cave Temple standen auf dem Programm.
 
+<figure class="alginright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515671480/in/dateposted-public/" title="Hot Springs"><img src="https://c1.staticflickr.com/4/3927/33515671480_2999cf1306_n.jpg" width="320" height="240" alt="Hot Springs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 In einem fahrenden Kühlschrank in Form eines Minivans ging es also früh morgens los Richtung Hot Springs. Wie der Name bereits vermuten lässt sind die Hot Springs heiße Quellen die im dichten Urwald eine Art terrassenförmig geformten Wasserfall mit konstant heißem (ca. 38°) Wasser füllen. Den Quellen wird aufgrund des sehr mineralhaltigen Wassers heilende Wirkung nachgesagt. Das baden in dem heißen Wasser empfanden wir zu unserer Überraschung als recht angenehm obwohl die Lufttemperatur wie jeden Tag auch schon morgens 32° anzeigte. Wir haben uns also die Terrassen hinab gebadet und schließlich ein erfrischendes Bad in einem etwas kühleren Fluss genossen. Toller Einstieg in den Tag!
 
 Als nächstes ging es dann zum Emerald Pool. Der Urwald rund um den natürlichen See wurde vor einigen Jahren zum Nationalpark erklärt, was die Thais aber trotzdem nicht davon abhält die Natur durch umfangreiche und für uns fragliche Baumaßnahmen zu zerstören. Alles in allem hat sich das Baden im Emerald Pool durch die Massen an Touristen eher angefühlt wie ein Besuch im Prinzenbad in Berlin, nur ohne Wiese und Currywurst. Etwa 600 Meter entfernt vom Emerald Pool fanden wir noch eine Lagune die ihren Namen alle Ehre macht: Die Blue Lagoon.
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515672370/in/dateposted-public/" title="Blue Lagoon"><img src="https://c1.staticflickr.com/4/3726/33515672370_514423f807_z.jpg" width="640" height="480" alt="Blue Lagoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alginleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900486935/in/dateposted-public/" title="Tiger Cave Temple"><img src="https://c1.staticflickr.com/1/698/33900486935_06e34731b2_n.jpg" width="320" height="240" alt="Tiger Cave Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Unsere letzte Station hörte auf dem Namen Tiger Cave Temple. Unser Tourguide Apo gab uns zwei Möglichkeiten die Tempelanlage zu erkunden. Option Eins war ein Besuch in besagten Tempel dessen historische und religiöse Bedeutung mir leider entfallen ist (da kann nur noch Wikipedia aushelfen). Option Nummer Zwei war der Besuch eines Tempels auf einem 600 Meter hohen Berg zu dem geschlagene 1243 Treppenstufen führten. Die Mathematiker unter euch können sich ja ungefähr ausrechnen wie hoch eine Stufe im Durchschnitt sein musste! Natürlich war ich im Angesicht dieses Abenteuers und der voraussichtlich folgenden völligen Erschöpfung direkt Feuer und Flamme für Option Numero Zwei - Anni hat meine Euphorie nicht ganz so geteilt. Letztendlich sind wir bei dem Aufstieg beide an unsere Grenzen gegangen und Chapeau an meine wunderbare Freundin, die sich bei diesem Workout einfach selbst übertroffen hat! Die Belohnung für die Quälerei waren neben einem geschätzten Liter Wasserverlust in Form von Schweiß eine atemberaubende Aussicht über die Provinz Krabi und natürlich das einmalige Gefühl etwas geschafft zu haben, was viele im Angesicht der steilen Treppen nicht einmal versuchen.
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575353754/in/dateposted-public/" title="Tiger Cave Temple Mountain Panorama"><img src="https://c1.staticflickr.com/5/4160/33575353754_b55fc95e0d_z.jpg" width="640" height="142" alt="Tiger Cave Temple Mountain Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 # Tag 18 - Auszeit
 
