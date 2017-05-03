@@ -207,7 +207,7 @@ Nach unserer Ankunft am Hafen erwarteten uns die üblichen Scharen an Taxifahrer
 
 Normalerweise muss man in Thailand wenn man als Tourist einen Roller mieten will seinen Reisepass als Kaution hinterlegen. Damit haben dich die Vermieter natürlich am Wickel, da der Reisepass mit Abstand das wichtigste Dokument ist, ohne den man auch nicht mehr ausreisen kann - das wissen die Vermieter natürlich. Nach kurzen Verhandlungen und der Ansage das ich auf keinen Fall meinen Reisepass abgebe, akzeptierte der Vermieter auch 5000 Baht (ca. 130€) und meinen EU-Führerschein als Kaution, was natürlich im Falle das irgendwas schief oder kaputt geht für uns wesentlich günstiger und unkomplizierter ist. Denn die Verträge sind schon heftig, die Roller sind nicht versichert, das heißt du musst für jeden Schaden aufkommen. Bei Diebstahl werden z.B. vertraglich vereinbarte 50000 Baht (ca. 1300€) fällig und selbst ein Kratzer kostet dich schon um die 2500 Baht (ca. 64€).
 
-<figure class="alginright">
+<figure class="alignright">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257920232/in/dateposted-public/" title="Koh Tao Seaview Resort"><img src="https://c1.staticflickr.com/5/4190/34257920232_b25bc2011b_n.jpg" width="320" height="240" alt="Koh Tao Seaview Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
