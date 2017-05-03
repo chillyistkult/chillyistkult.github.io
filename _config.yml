@@ -75,6 +75,7 @@ excerpt_separator: <!--more-->
 # Plugins
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Assets Settings
 sass:
