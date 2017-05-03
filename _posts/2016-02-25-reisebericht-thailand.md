@@ -132,8 +132,7 @@ Morsche Palme + Hängematte = Popo-Aua!
 
 # Tag 7 - Full Moon Beach
 
-Wir haben uns von Koh Samui verabschiedet und sind mit dem Speedboot nach Koh Phangan übergesetzt. Da die Inseln sehr nah beieinander liegen hat das nicht länger als eine halbe Stunde gedauert. In unserem neuen Hotel, das Cyana 
-Beach Resort, haben wir erstmal die Lage sondiert und den Nachmittag am Pool verbracht. Am Abend haben wir ein anderes deutsches Paar kennengelernt und noch spontan einen Roller gemietet um das Nightlife zu erkunden.
+Wir haben uns von Koh Samui verabschiedet und sind mit dem Speedboot nach Koh Phangan übergesetzt. Da die Inseln sehr nah beieinander liegen hat das nicht länger als eine halbe Stunde gedauert. In unserem neuen Hotel, das [Cyana Beach Resort](http://www.booking.com/hotel/th/cyana-beach-resort.html?aid=1269594&no_rooms=1&group_adults=1), haben wir erstmal die Lage sondiert und den Nachmittag am Pool verbracht. Am Abend haben wir ein anderes deutsches Paar kennengelernt und noch spontan einen Roller gemietet um das Nightlife zu erkunden.
 
 <figure class="alignleft">
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/T2u6R0" title="Thong Sala Night Market"><img src="https://c1.staticflickr.com/4/3846/33177138954_56c4936776_n.jpg" width="240" height="320" alt="Thong Sala Night Market"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -251,7 +250,7 @@ Nach einem Zwischenstopp in Koh Phangan, wechselten wir in Koh Samui unser Fähr
 
 Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus nach Krabi-City. Wir lernten noch am Busbahnhof ein nettes deutsches Mädel kennen. Mehr Leute als wir drei wollten nicht nach Ao Nang, sodass wir allein in einem 40–Mann Bus abfuhren. In Krabi angekommen gab es dann noch eine kurze Tour mit einem Kleinbus zum Resort - es ist mittlerweile 17:30 Uhr.
 
-Das in einem tropischen Garten gelegene Vipa Tropical Resort ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir 
+Das in einem tropischen Garten gelegene [Vipa Tropical Resort](http://www.booking.com/hotel/th/vipa-tropical-resort.html?aid=1269594&no_rooms=1&group_adults=1) ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir 
 nach einem ausgiebigen Abendessen auch für ein paar Bahnen direkt eingeweiht.
 
 # Tag 16 - Affenbande
@@ -301,8 +300,7 @@ behalten!
 
 # Tag 20 - One (last) Night in Bangkok
 
-Wie fast alles auf unserer Reise, lief auch der Flug am Morgen Richtung Bangkok wieder mal wie am Schnürchen. Wir haben unser Hotel wieder im selben Viertel gebucht, wo wir auch schon am Anfang unserer Reise übernachtet haben. Sukhumvit liegt einfach strategisch günstig und man erreicht beide internationale Flughäfen in kurzer Zeit. Die Fahrt mit dem Taxi führte uns Mitten in die Rushhour Bangkoks und das Taximeter tickte erbarmungslos gegen uns. Nach 
-einer gefühlten Ewigkeit sind wir dann im ersten und einzigem 4-Sterne Hotel unserer Reise, dem [Well Hotel](http://www.booking.com/hotel/th/well-bangkok.html?aid=1269594&no_rooms=1&group_adults=2&room1=A%2CA), angekommen. Wir wollten uns zum Abschluss einfach nochmal richtig was gönnen.
+Wie fast alles auf unserer Reise, lief auch der Flug am Morgen Richtung Bangkok wieder mal wie am Schnürchen. Wir haben unser Hotel wieder im selben Viertel gebucht, wo wir auch schon am Anfang unserer Reise übernachtet haben. Sukhumvit liegt einfach strategisch günstig und man erreicht beide internationale Flughäfen in kurzer Zeit. Die Fahrt mit dem Taxi führte uns Mitten in die Rushhour Bangkoks und das Taximeter tickte erbarmungslos gegen uns. Nach einer gefühlten Ewigkeit sind wir dann im ersten und einzigem 4-Sterne Hotel unserer Reise, dem [Well Hotel](	http://www.booking.com/hotel/th/well-bangkok.html?aid=1269594&no_rooms=1&group_adults=1), angekommen. Wir wollten uns zum Abschluss einfach nochmal richtig was gönnen.
 
 Unser gesetztes Ziel für den Tag war es unser komplettes restliches Bargeld auf den Kopf zu hauen und zwar bis auf den allerletzten Baht - Challenge accepted sagten wir uns beide! Nach ein paar gekauften Geschenken für die Daheimgebliebenen blieb am Abend noch genug Geld für ein fürstliches All You Can Eat Barbecue übrig. Und das hatte es echt in sich. Auf einer Art Raclette wurde uns kiloweise in dünnen Scheiben geschnittenes und lecker mariniertes Fleisch zubereitet. Neben allerlei Dips, Gemüsebeilagen, Pilzen, Salat und für mich undefinierbaren Sachen war das für uns beide einfach das pure Überangebot. Typisch deutsch wollte ich natürlich das Meiste aus dem Angebot rausholen und habe es am Ende mit meinem Fleischkonsum vielleicht doch etwas übertrieben. Der Weg zurück ins Hotel verlief jedenfalls etwas schwerfälliger als gewohnt.
 
