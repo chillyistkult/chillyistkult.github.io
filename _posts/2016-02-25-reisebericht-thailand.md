@@ -185,13 +185,13 @@ Auch heute ist es um Benny nicht viel besser bestellt. Es ist sehr heiß bei Tag
 Wir hatten uns für den heutigen Tag eine Rollertour für den Nordosten vorgenommen. Die Insel ist sehr bergig aber durch die vieler Orts neuen Straßen gut befahrbar. Koh Phangang ist im Vergleich zu Koh Samui wirklich eine Wohltat. 
 Es ist weitestgehend sauber und naturbelassen. Links und rechts an den Straßen sieht man den wild wuchernden Dschungel.
 
-<figure class="algincenter">
+<figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515652850/in/album-72157680321616691/" title="Koh Phangan Roads"><img src="https://c1.staticflickr.com/3/2867/33515652850_e52c926d80_z.jpg" width="640" height="480" alt="Koh Phangan Roads"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Es gab zwei Strände, an denen wir an diesem Tag unsere Zeit verbracht haben. Als Erstes waren wir am flachen Haad Thong Nai Pan Yai Strand. Große Sandbänke die meilenweit ins Meer hineinragen. Der zweite Strand liegt in dem Ort Haad Than Sadet. In einer kleinen Bucht flankiert von Bergen, zu der nur wenige Touristen ihren Weg finden, war es wie in einer Oase. Einfach Wunderschön! Aber nichts geht ohne etwas Abenteuer: Und das war es, dass Restaurant mit Aussicht hoch oben am Berghang zu der ein recht versteckter Weg über Felsen am Strand führte.
 
-<figure class="algincenter">
+<figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33087519973/in/album-72157680321616691/" title="Haad Than Sadet Beach"><img src="https://c1.staticflickr.com/4/3703/33087519973_bbdca31300_z.jpg" width="640" height="480" alt="Haad Than Sadet Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
@@ -215,7 +215,7 @@ Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu 
 
 Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben dort angeschaut. Und wow der Strand macht in den Abendstunden echt was her!
 
-<figure class="algincenter">
+<figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515653640/in/dateposted-public/" title="Sairee Beach"><img src="https://c1.staticflickr.com/3/2916/33515653640_239482e421_z.jpg" width="640" height="480" alt="Sairee Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
@@ -231,7 +231,7 @@ um auch dort die Schnorchelqualität unter die Lupe zu nehmen. War ebenfalls seh
 
 Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut noch Großes vor: Den Sonnenuntergang auf einem versteckten Aussichtspunkt hoch oben in den Bergen genießen! Um zu dem Aussichtspunkt zu gelangen mussten wir einiges an Offroad-Strecken und Kletterei überwinden aber es hat sich sowas von gelohnt. Zwischen zwei riesigen Felsbrocken hindurchgezwängt befanden wir uns auf einem vorgelagerten Boulder über den Baumkronen und mit einem 200° Panorama-Blick über die Insel. Die untergehende Sonne taucht das Meer in ein rot-gelbe Szenerie und die vielen Boote in der Bucht sahen von hier oben einfach nur winzig aus. Fast schon surreal und einmalig!
 
-<figure class="algincenter">
+<figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257919582/in/dateposted-public/" title="Koh Tao Panorama"><img src="https://c1.staticflickr.com/5/4162/34257919582_39c75cb95c_z.jpg" width="640" height="142" alt="Koh Tao Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
