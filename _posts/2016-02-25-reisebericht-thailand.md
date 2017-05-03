@@ -305,7 +305,7 @@ Am Abend fuhren wir dann mit einem der vielen Longtailboote zurück nach Ao Nang
 
 Der heutige Tag hielt zur Abwechslung mal wieder einen Tagesausflug für uns bereit. Drei Stopps mit den klangvollen Namen Hot Springs, Emerald Pool und Tiger Cave Temple standen auf dem Programm.
 
-<figure class="alginright">
+<figure class="alignright">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515671480/in/dateposted-public/" title="Hot Springs"><img src="https://c1.staticflickr.com/4/3927/33515671480_2999cf1306_n.jpg" width="320" height="240" alt="Hot Springs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
@@ -317,7 +317,7 @@ Als nächstes ging es dann zum Emerald Pool. Der Urwald rund um den natürlichen
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515672370/in/dateposted-public/" title="Blue Lagoon"><img src="https://c1.staticflickr.com/4/3726/33515672370_514423f807_z.jpg" width="640" height="480" alt="Blue Lagoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-<figure class="alginleft">
+<figure class="alignleft">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900486935/in/dateposted-public/" title="Tiger Cave Temple"><img src="https://c1.staticflickr.com/1/698/33900486935_06e34731b2_n.jpg" width="320" height="240" alt="Tiger Cave Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
