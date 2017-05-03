@@ -201,6 +201,7 @@ DEPENDENCIES
   github-pages
   jekyll-paginate (~> 1.1.0)
   jekyll-sitemap
+  jekyll-seo-tag
 
 RUBY VERSION
    ruby 2.3.0
