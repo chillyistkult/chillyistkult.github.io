@@ -93,12 +93,9 @@ Morgen geht es dann mit dem Taxi zum Flughafen und mit Flieger, Bus und Fähre n
 
 # Tag 4 - Gestrandet im Paradies
 
-Unsere Tage in Bangkok sind gezählt! Noch ein paar letzte Fotos geschossen und auf ging die Reise nach Koh Samui. Nach einem 8 Stunden Trip mit Flugzeug, Bus und Fähre sind wir endlich in unserem Hotel im hippen Fisherman's Village 
-(Bophut) angekommen. Der Tagesausflug quer durch Thailand hat ganz schön an unseren Mägen gezerrt. Zum Glück gibt es im bunten Fisherman's Village entlang des schönen Bophut Beach reichlich Auswahl an leckeren wenn auch etwas teureren 
-Restaurants aller Art.
+Unsere Tage in Bangkok sind gezählt! Noch ein paar letzte Fotos geschossen und auf ging die Reise nach Koh Samui. Nach einem 8 Stunden Trip mit Flugzeug, Bus und Fähre sind wir endlich in unserem Hotel im hippen Fisherman's Village (Bophut) angekommen. Der Tagesausflug quer durch Thailand hat ganz schön an unseren Mägen gezerrt. Zum Glück gibt es im bunten Fisherman's Village entlang des schönen Bophut Beach reichlich Auswahl an leckeren wenn auch etwas teureren Restaurants aller Art.
 
-Das Dessert gab es dann im Anschluss bei einer Shisha direkt am Strand mit traumhafter Kulisse und sanften Bässen. Als wenn das nicht schon die Krönung gewesen wäre gab es auch noch eine atemberaubende Feuershow direkt vor unserer 
-Nase. Trauminsel + Strand + Cocktails + Shisha + Feuershow = der Knüller!
+Das Dessert gab es dann im Anschluss bei einer Shisha direkt am Strand mit traumhafter Kulisse und sanften Bässen. Als wenn das nicht schon die Krönung gewesen wäre gab es auch noch eine atemberaubende Feuershow direkt vor unserer Nase. Trauminsel + Strand + Cocktails + Shisha + Feuershow = der Knüller!
 
 <iframe src="https://player.vimeo.com/video/157233016?color=E63946&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -116,8 +113,7 @@ Heute sah die Wetterlage schon besser aus. Wir starteten nach dem Frühstück zu
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/aX5d4R" title="Na Mueang Hiking"><img src="https://c1.staticflickr.com/3/2861/33863203882_2d5138f5bd_z.jpg" width="640" height="480" alt="Na Mueang Hiking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Geschlagene 2 Stunden liefen und kletterten wir auf einem unbefestigten Trampelpfad bergauf durch den heißen und dichten Dschungel. Von unserem Ziel leider keine Spur. Körperlich überanstrengt entschieden wir uns zur Rückkehr. 
-Einen schönen Ort zum entspannen am Wasserfall haben wir dennoch gefunden.
+Geschlagene 2 Stunden liefen und kletterten wir auf einem unbefestigten Trampelpfad bergauf durch den heißen und dichten Dschungel. Von unserem Ziel leider keine Spur. Körperlich überanstrengt entschieden wir uns zur Rückkehr. Einen schönen Ort zum entspannen am Wasserfall haben wir dennoch gefunden.
 
 Unser verspätetes Mittagessen gab es in der [Bamboo Bar und Grill](https://www.tripadvisor.de/Restaurant_Review-g1182465-d4004252-Reviews-Bamboo_Grill_Bar-Mae_Nam_Ko_Samui_Surat_Thani_Province.html). Das von uns zufällig gewählte Restaurant war die bekannte Lokalität des Auswanderers Matthias Bück von Goodbye Deutschland. Das BBQ war sehr lecker, deutsche Gründlichkeit zieht eben bei deutschen Urlaubern.
 
@@ -125,8 +121,7 @@ Unser verspätetes Mittagessen gab es in der [Bamboo Bar und Grill](https://www.
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/6W7p06" title="Mae Nam Beach"><img src="https://c1.staticflickr.com/3/2887/33863135922_2bf753549a_z.jpg" width="640" height="480" alt="Mae Nam Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Die letzten Sonnenstunden genossen wir am Mae Nam Beach und probierten unsere Hängematte aus. Das funktionierte auch ganz gut und war sehr chillig bei dem Sunset - bis Anni die Palme, an der die Hängematte hing, zerstörte... War 
-todeswitzig!
+Die letzten Sonnenstunden genossen wir am Mae Nam Beach und probierten unsere Hängematte aus. Das funktionierte auch ganz gut und war sehr chillig bei dem Sunset - bis Anni die Palme, an der die Hängematte hing, zerstörte... War todeswitzig!
 
 Morsche Palme + Hängematte = Popo-Aua!
 
@@ -138,37 +133,29 @@ Wir haben uns von Koh Samui verabschiedet und sind mit dem Speedboot nach Koh Ph
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/T2u6R0" title="Thong Sala Night Market"><img src="https://c1.staticflickr.com/4/3846/33177138954_56c4936776_n.jpg" width="240" height="320" alt="Thong Sala Night Market"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Unsere Abendtour führte uns als erstes zum Nachtmarkt in Thong Sala, der Hauptstadt der Insel. Dort leben 5000 der 10000 Einwohner der Insel. Der Nachtmarkt war echt klasse - traditionelles Thai-Food gibt es dort an unzähligen 
-Ständen für jeden Geschmack und für umgerechnet nur ein paar Cent. Das wird sicherlich nicht das Letzte mal sein, dass wir dort vorbeischauen.
+Unsere Abendtour führte uns als erstes zum Nachtmarkt in Thong Sala, der Hauptstadt der Insel. Dort leben 5000 der 10000 Einwohner der Insel. Der Nachtmarkt war echt klasse - traditionelles Thai-Food gibt es dort an unzähligen Ständen für jeden Geschmack und für umgerechnet nur ein paar Cent. Das wird sicherlich nicht das Letzte mal sein, dass wir dort vorbeischauen.
 
 Danach ging es weiter nach Haad Rin. Das ist der Ort, in dem die legendären Full Moon Partys stattfinden. Der Weg dorthin war bei Nacht - sagen wir es mal so das die Muttis unter euch keine Herzattacken bekommen - spannend. Es gibt auf Koh Phangan Straßen mit Steigungen und Gefällen die würden bei uns glatt als Wand durchgehen. Da ist unser 50ccm Roller dann auch voll am Limit.
 
-In Haad Rin angekommen mussten wir feststellen, das der Ort zu 100% auf den Partytourismus ausgerichtet ist und das bedeutet auch das um 22:00 Uhr noch keine Partys stattfinden. Also blieb es bei einem Drink am berühmten Full Moon 
-Beach (der eigentlich sehr schön ist) ganz nach dem Motto der Weg ist das Ziel.
+In Haad Rin angekommen mussten wir feststellen, das der Ort zu 100% auf den Partytourismus ausgerichtet ist und das bedeutet auch das um 22:00 Uhr noch keine Partys stattfinden. Also blieb es bei einem Drink am berühmten Full Moon Beach (der eigentlich sehr schön ist) ganz nach dem Motto der Weg ist das Ziel.
 
 Morgen geht es auf eine Tagestour zum Angthong National Marine Park. Wir sind gespannt!
 
 # Tag 8 - Angthong National Marine Park
 
-Der Tag begann für uns ungewöhnlich früh um 7:30 Uhr, da für heute eine Ganztagestour in den Angthong National Marine Park geplant war. Um 8:30 Uhr wurden wir von unserem Resort abgeholt und mit einem typischen Pickup-Taxi 
-(auch "Songthaew" genannt), auf dessen Ladefläche auch schonmal  8 Leute Platz finden, abgeholt. Am Besten stellt man sich in Thailand garnicht erst die Frage nach Verkehrssicherheit und Ähnlichem alles zwecklos...
+Der Tag begann für uns ungewöhnlich früh um 7:30 Uhr, da für heute eine Ganztagestour in den Angthong National Marine Park geplant war. Um 8:30 Uhr wurden wir von unserem Resort abgeholt und mit einem typischen Pickup-Taxi (auch "Songthaew" genannt), auf dessen Ladefläche auch schonmal  8 Leute Platz finden, abgeholt. Am Besten stellt man sich in Thailand garnicht erst die Frage nach Verkehrssicherheit und Ähnlichem alles zwecklos...
 
-Wir wurden also zu unserem Schiff der Orion im Hafen von Thong Sala gebracht, auf dem es ersteinmal ein ausgewogenes Kaffee-Tee-Frühstück gab. Die Fahrt in den Nationalpark dauerte ca. 1 1/2 Stunden und war aufgrund der Größe des  
-Schiffes (drei Etagen) eigentlich recht angenehm.
+Wir wurden also zu unserem Schiff der Orion im Hafen von Thong Sala gebracht, auf dem es ersteinmal ein ausgewogenes Kaffee-Tee-Frühstück gab. Die Fahrt in den Nationalpark dauerte ca. 1 1/2 Stunden und war aufgrund der Größe des  Schiffes (drei Etagen) eigentlich recht angenehm.
 
-Als sich das Inselarchipel des Nationalparks am Horizont abzeichnete war die Vorfreude schon recht groß. Der erste Stopp war die kleine Insel Koh Wao, wo wir 45 Minuten Schnorcheln waren. Fairerweise muss man sagen, dass wir das in 
-Ägypten schon wesentlich besser gesehen haben. Die Riffe sind größtenteils versandet und das Wasser war durch den heute recht hohen Wellengang eher trüb. Aber unser Boot hatte ja zum Glück auch eine Rutsche (oke es war mehr eine 
-Holzlatte und es ist auch niemand gerutscht) und ein Sprungbrett. Das Sprungbrett aus ca. 5 Metern Höhe ins türkisblaue Meer hab ich mir natürlich nicht nehmen lassen.
+Als sich das Inselarchipel des Nationalparks am Horizont abzeichnete war die Vorfreude schon recht groß. Der erste Stopp war die kleine Insel Koh Wao, wo wir 45 Minuten Schnorcheln waren. Fairerweise muss man sagen, dass wir das in Ägypten schon wesentlich besser gesehen haben. Die Riffe sind größtenteils versandet und das Wasser war durch den heute recht hohen Wellengang eher trüb. Aber unser Boot hatte ja zum Glück auch eine Rutsche (oke es war mehr eine Holzlatte und es ist auch niemand gerutscht) und ein Sprungbrett. Das Sprungbrett aus ca. 5 Metern Höhe ins türkisblaue Meer hab ich mir natürlich nicht nehmen lassen.
 
-Danach ging es an wunderschönen kleinen Inseln und Stränden vorbei zu unserer nächsten Station, die Insel Koh Mae Koh. Die Insel ist bekannt für ihre Lagune, den Emerald Lake, der ein natürliches Wasserreservoir im Inneren der 
-Insel bildet und aufgrund des stehenden Gewässers und der dadurch einsetzenden Algenbildung in einem Smaragdgrün erstrahlte. Der Aufstieg zur Aussichtsplattform war der erste Workout am heutigen Tag und bestand aus vielen und extrem steilen Stufen.
+Danach ging es an wunderschönen kleinen Inseln und Stränden vorbei zu unserer nächsten Station, die Insel Koh Mae Koh. Die Insel ist bekannt für ihre Lagune, den Emerald Lake, der ein natürliches Wasserreservoir im Inneren der Insel bildet und aufgrund des stehenden Gewässers und der dadurch einsetzenden Algenbildung in einem Smaragdgrün erstrahlte. Der Aufstieg zur Aussichtsplattform war der erste Workout am heutigen Tag und bestand aus vielen und extrem steilen Stufen.
 
 <figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/0Z36n0" title="Angthong National Marine Park"><img src="https://c1.staticflickr.com/3/2912/33208102743_f61e9e5080_z.jpg" width="640" height="480" alt="Angthong National Marine Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Nach einer kurzen Abkühlung am Na Tap Beach ging es dann weiter zu unserem letzten Halt auf unserer Tour. Das Koh Wua Talab Island ist einer der größeren Inseln des Archipels mit einem traumhaften Strand flankiert von hohen Bergen 
-und dichtem Jungle. Hier kann man wenn man möchte sogar in einfachen Bungalows direkt im Nationalpark übernachten. Vom Strand aus führte eine abenteuerliche Kletterrute hinauf auf den Berg von wo aus man eine atemberaubende Aussicht auf das gesamte Archipel hatte. Der Aufstieg war extrem steil, mit scharfkantigen Felsen, dichten Dschungel, Stolperfallen und allem was das Abenteuerherz begehrt. Ich habe noch nie in meinem Leben so geschwitzt aber seht selbst was die Belohnung dafür war!
+Nach einer kurzen Abkühlung am Na Tap Beach ging es dann weiter zu unserem letzten Halt auf unserer Tour. Das Koh Wua Talab Island ist einer der größeren Inseln des Archipels mit einem traumhaften Strand flankiert von hohen Bergen und dichtem Jungle. Hier kann man wenn man möchte sogar in einfachen Bungalows direkt im Nationalpark übernachten. Vom Strand aus führte eine abenteuerliche Kletterrute hinauf auf den Berg von wo aus man eine atemberaubende Aussicht auf das gesamte Archipel hatte. Der Aufstieg war extrem steil, mit scharfkantigen Felsen, dichten Dschungel, Stolperfallen und allem was das Abenteuerherz begehrt. Ich habe noch nie in meinem Leben so geschwitzt aber seht selbst was die Belohnung dafür war!
 
 # Tag 9 - Auszeit
 
@@ -182,8 +169,7 @@ PS: Wir haben unseren ersten frei lebenden Affen gesehen!
 
 Auch heute ist es um Benny nicht viel besser bestellt. Es ist sehr heiß bei Tage und etwas kühler und feuchter in der Nacht. Sehr anstrengende Temperaturunterschiede für einen Kranken.
 
-Wir hatten uns für den heutigen Tag eine Rollertour für den Nordosten vorgenommen. Die Insel ist sehr bergig aber durch die vieler Orts neuen Straßen gut befahrbar. Koh Phangang ist im Vergleich zu Koh Samui wirklich eine Wohltat. 
-Es ist weitestgehend sauber und naturbelassen. Links und rechts an den Straßen sieht man den wild wuchernden Dschungel.
+Wir hatten uns für den heutigen Tag eine Rollertour für den Nordosten vorgenommen. Die Insel ist sehr bergig aber durch die vieler Orts neuen Straßen gut befahrbar. Koh Phangang ist im Vergleich zu Koh Samui wirklich eine Wohltat. Es ist weitestgehend sauber und naturbelassen. Links und rechts an den Straßen sieht man den wild wuchernden Dschungel.
 
 <figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515652850/in/album-72157680321616691/" title="Koh Phangan Roads"><img src="https://c1.staticflickr.com/3/2867/33515652850_e52c926d80_z.jpg" width="640" height="480" alt="Koh Phangan Roads"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -221,13 +207,11 @@ Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben d
 
 # Tag 12 - Sonnenuntergang
 
-Unseren ersten kompletten Tag auf Koh Tao haben wir zu einem Drittel mit Schlafen verbracht. In unserer kleinen Hütte mit Doppelbett und Moskitonetz lässt es sich nämlich ganz gut schlafen. Nach einem reichhaltigen Frühstück mit
-Blick auf die Ao Leuk Bay ging es erst einmal zum örtlichen 7Eleven (so heißen die Supermärkte hier) Vorräte besorgen.
+Unseren ersten kompletten Tag auf Koh Tao haben wir zu einem Drittel mit Schlafen verbracht. In unserer kleinen Hütte mit Doppelbett und Moskitonetz lässt es sich nämlich ganz gut schlafen. Nach einem reichhaltigen Frühstück mit Blick auf die Ao Leuk Bay ging es erst einmal zum örtlichen 7Eleven (so heißen die Supermärkte hier) Vorräte besorgen.
 
 Danach sind wir zum Ta Thong Beach aufgebrochen, der touristisch im Prinzip kaum bekannt ist. Die beiden Strände sind eher klein und liegen sich gegenüber nur getrennt von einer schmalen, felsigen Landzunge. Diese eignete sich prima zum Schnorcheln. Man startet quasi an dem einen Strand schnorchelt einmal um die Landzunge herum und kommt am anderen Strand wieder raus und geht die paar Meter zum Ausgangsort einfach zu Fuß. Die felsige Bucht beherbergt eine Vielzahl von Meeresbewohnern, vor allem kleinere Fische, Krebse, Seegurken und Anemonen fühlen sich hier Zuhause.
 
-Der kleine Strand bot außerdem eine perfekte Location um unsere Hängematte erneut auszuprobieren - diesmal ohne Palmen zu entwurzeln. Am Nachmittag haben wir dann noch einen Abstecher zum benachbarten Sai Nuan Beach unternommen 
-um auch dort die Schnorchelqualität unter die Lupe zu nehmen. War ebenfalls sehr schön, reichte aber immer noch nicht an die Riffe in Ägypten ran - aber wir haben ja hier noch ein paar Tage!
+Der kleine Strand bot außerdem eine perfekte Location um unsere Hängematte erneut auszuprobieren - diesmal ohne Palmen zu entwurzeln. Am Nachmittag haben wir dann noch einen Abstecher zum benachbarten Sai Nuan Beach unternommen um auch dort die Schnorchelqualität unter die Lupe zu nehmen. War ebenfalls sehr schön, reichte aber immer noch nicht an die Riffe in Ägypten ran - aber wir haben ja hier noch ein paar Tage!
 
 Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut noch Großes vor: Den Sonnenuntergang auf einem versteckten Aussichtspunkt hoch oben in den Bergen genießen! Um zu dem Aussichtspunkt zu gelangen mussten wir einiges an Offroad-Strecken und Kletterei überwinden aber es hat sich sowas von gelohnt. Zwischen zwei riesigen Felsbrocken hindurchgezwängt befanden wir uns auf einem vorgelagerten Boulder über den Baumkronen und mit einem 200° Panorama-Blick über die Insel. Die untergehende Sonne taucht das Meer in ein rot-gelbe Szenerie und die vielen Boote in der Bucht sahen von hier oben einfach nur winzig aus. Fast schon surreal und einmalig!
 
@@ -255,8 +239,7 @@ Nach einem ausgewogenen Frühstück mit Toast, Rührei, Bacon, Tee und Orangensa
 
 Den letzten Tag auf Koh Tao haben wir genutzt um den letzten größeren Strand der Insel zu erkunden. Die Ao Leuk Bay, auf die wir jeden Morgen von unserer Frühstücksterasse blicken, ist ein feinsandiger Strand, was für die Insel eher selten ist. Auch die Riffe sind hier anders, irgendwie mehr so wie in Ägypten, Felsen wechseln sich mit feinstem Sand ab und Fische sind schon unmittelbar nach dem betreten des Wassers zu sehen.
 
-Am späten Nachmittag sind wir dann nochmal zur Tanote Bay aufgebrochen, denn da war ja noch was mit dem Klippenspringen. Ich bin nicht von der Klippe gesprungen, aber nicht weil mir diese mit etwa sieben Metern zu hoch war, sondern weil mir der Aufstieg an einem nassen Seil und einer doch recht steilen Felswand nur in Badehose etwas waghalsig erschien. Dafür ist meine bezaubernde Freundin noch einmal mit mir Schnorcheln gegangen und wir haben ein 
-paar gute Aufnahmen mit der GoPro hinbekommen.
+Am späten Nachmittag sind wir dann nochmal zur Tanote Bay aufgebrochen, denn da war ja noch was mit dem Klippenspringen. Ich bin nicht von der Klippe gesprungen, aber nicht weil mir diese mit etwa sieben Metern zu hoch war, sondern weil mir der Aufstieg an einem nassen Seil und einer doch recht steilen Felswand nur in Badehose etwas waghalsig erschien. Dafür ist meine bezaubernde Freundin noch einmal mit mir Schnorcheln gegangen und wir haben ein paar gute Aufnahmen mit der GoPro hinbekommen.
 
 Wir müssen jetzt noch Packen also bis Morgen ihr Lieben!
 
@@ -282,8 +265,7 @@ Nach einem Langschläferfrühstück ging es direkt an die Planung für den bevor
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744084092/in/dateposted-public/" title="Railay Beach"><img src="https://c1.staticflickr.com/3/2932/33744084092_04c1cb21fc_z.jpg" width="640" height="480" alt="Railay Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Railay ist ausschließlich per Boot erreichbar und beherbergt neben weißen Sandstränden und einer atemberaubenden Kulisse auch die teuersten Resorts der Gegend. Die Überfahrt dauerte nur etwa zehn Minuten und war für sich allein 
-genommen schon ein Erlebnis. Angekommen am Strand Railay West wurde uns schnell klar das auch hier der Massentourismus schon seit vielen Jahren eingezogen ist, aber sei's drum. Unser erstes Ziel war die Kalksteinhöhle Phranang-nai (Diamondcave), da wir aber nicht so gut im Schilder lesen sind, sind wir an der Phranang Cave (Princesscave) am namensgebenden Strand Phranang Beach rausgekommen.
+Railay ist ausschließlich per Boot erreichbar und beherbergt neben weißen Sandstränden und einer atemberaubenden Kulisse auch die teuersten Resorts der Gegend. Die Überfahrt dauerte nur etwa zehn Minuten und war für sich allein genommen schon ein Erlebnis. Angekommen am Strand Railay West wurde uns schnell klar das auch hier der Massentourismus schon seit vielen Jahren eingezogen ist, aber sei's drum. Unser erstes Ziel war die Kalksteinhöhle Phranang-nai (Diamondcave), da wir aber nicht so gut im Schilder lesen sind, sind wir an der Phranang Cave (Princesscave) am namensgebenden Strand Phranang Beach rausgekommen.
 
 <figure class="alignleft">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900470745/in/dateposted-public/" title="Phra Nang Cave Beach"><img src="https://c1.staticflickr.com/3/2943/33900470745_fe3acabe52_n.jpg" width="240" height="320" alt="Phra Nang Cave Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -337,14 +319,11 @@ Morgen geht es dann auf eine Halbtagstour in die Mangroven zum Kayaking. Wir sin
 
 Nach unserer kleinen Auszeit gestern wurde es heute mal wieder Zeit für etwas Action. Eine Halbtagstour in den Nationalpark Than Bot Chorani stand auf dem Programm. Der Nationalpark ist durchzogen von einem komplexen Flusssystem umgeben von dichten Mangrovenwäldern. Das Ökosystem lässt sich quasi nur mit dem Boot oder Kayak erkunden und weil Motorboote laut sind und die Umwelt verschmutzen entschieden wir uns natürlich für die ökologische Variante.
 
-Kajaking ist eine sehr entspannte Art der Fortbewegung. Wenn man erst einmal mit den Paddeln zurecht kommt und einen Rhythmus gefunden hat (wir saßen zu zweit in einem Dreierkajak) geht das eigentlich wie von selbst. Das Wasser in den Mangroven war nahezu Spiegelglatt sodass wir genügend Gelegenheit hatten die Natur zu bestaunen. Neben einigen urzeitlich anmutenden kleinen Fischen die sich im Schlamm der Mangroven tummelten gab es einige Höhlen zu bestaunen. 
-Eine der Höhlen war nur zu Fuß begehbar und beherbergte tausende Jahre alte Höhlenmalereien. Eine dieser Malereien soll, mag man den Einheimischen glauben, sogar einen Alien darstellen - es könnte aber auch nur ein Typ mit einer 
-Maske gewesen sein. Nach ca. 3 Stunden auf dem Wasser war es höchste Zeit fürs Mittagessen. Wir hatten uns mittlerweile so gut eingespielt, dass wir den Weg zum Ausgangspunkt in Rekordzeit zurücklegten. Da wir nur eine Halbtagestour gebucht hatten, gab es für uns nur ein Sparessen in Form von Reis und Hühnchen und danach Schnurstracks zurück ins Hotel.
+Kajaking ist eine sehr entspannte Art der Fortbewegung. Wenn man erst einmal mit den Paddeln zurecht kommt und einen Rhythmus gefunden hat (wir saßen zu zweit in einem Dreierkajak) geht das eigentlich wie von selbst. Das Wasser in den Mangroven war nahezu Spiegelglatt sodass wir genügend Gelegenheit hatten die Natur zu bestaunen. Neben einigen urzeitlich anmutenden kleinen Fischen die sich im Schlamm der Mangroven tummelten gab es einige Höhlen zu bestaunen. Eine der Höhlen war nur zu Fuß begehbar und beherbergte tausende Jahre alte Höhlenmalereien. Eine dieser Malereien soll, mag man den Einheimischen glauben, sogar einen Alien darstellen - es könnte aber auch nur ein Typ mit einer Maske gewesen sein. Nach ca. 3 Stunden auf dem Wasser war es höchste Zeit fürs Mittagessen. Wir hatten uns mittlerweile so gut eingespielt, dass wir den Weg zum Ausgangspunkt in Rekordzeit zurücklegten. Da wir nur eine Halbtagestour gebucht hatten, gab es für uns nur ein Sparessen in Form von Reis und Hühnchen und danach Schnurstracks zurück ins Hotel.
 
 Nach einem kurzen Nachmittagsschläfchen beschlossen wir den letzten Abend in Ao Nang noch einmal gebührend bei Kerzenschein und Abendprogramm in einem Restaurant am Strand zu verbringen. Neben einer lateinamerikanischen Tanzeinlage und der mittlerweile zur Gewohnheit gewordenen Feuershow gab es für mich auch nochmal einen traditionellen Muay Thai Kampf zu bestaunen. Muay Thai ist der traditionelle Thailändische Kampfsport bei dem es schonmal ganz schön zur Sache gehen kann, denn neben den Fäusten sind hier auch Beine und Ellbogen mit von der Partie.
 
-Morgen geht es dann zurück nach Bangkok und wir werden die Zeit hier in Ao Nang sicher noch lange in Erinnerung 
-behalten!
+Morgen geht es dann zurück nach Bangkok und wir werden die Zeit hier in Ao Nang sicher noch lange in Erinnerung behalten!
 
 # Tag 20 - One (last) Night in Bangkok
 
