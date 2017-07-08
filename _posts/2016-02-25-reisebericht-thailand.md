@@ -1,18 +1,21 @@
 ---
 layout: post
-date: 2016-02-25 19:36
-title: "Reisebericht Thailand: Bangkok und das Inselparadies"
-description: Ein Reise- und Erfahrungsbericht über ein Backpackingabenteuer in Bangkok und Südthailand
+date: '2016-02-25 19:36'
+title: 'Reisebericht Thailand: Bangkok und das Inselparadies'
+description: >-
+  Ein Reise- und Erfahrungsbericht über ein Backpackingabenteuer in Bangkok und
+  Südthailand
 comments: true
 mood: happy
-category: 
-- Reisen
-- Asien
+category:
+  - Reisen
+  - Asien
 tags:
-- reisen
-- asien
-- thailand
-- backpacking
+  - reisen
+  - asien
+  - thailand
+  - backpacking
+published: true
 ---
 
 # Vorfreude
@@ -54,12 +57,9 @@ Puh, was ein Tag!
 
 Bangkok ist laut, voll und stinkt schrecklich, aber bei so vielen Eindrücken, Erlebnissen und dieser völlig anderen Kultur ist es einfach unglaublich endlich hier zu sein.
 
-Unser Tag ging recht entspannt, mit einem ausgewogenen Frühstück, hier im Hotel los. Unser relativ neues Hotel ist in einem individuellen, modernen use-look gehalten. Man fühlt sich direkt wohl und kann seine Zeit genießen. Das war 
-auch ganz gut so, denn wir hatten eine größere Tour geplant.
+Unser Tag ging recht entspannt, mit einem ausgewogenen Frühstück, hier im Hotel los. Unser relativ neues Hotel ist in einem individuellen, modernen used-look gehalten. Man fühlt sich direkt wohl und kann seine Zeit genießen. Das war auch ganz gut so, denn wir hatten eine größere Tour geplant.
 
-Um ca. 11:00 Uhr ging es mit der U-Bahn von unserem Stadtteil Sukhumvit in Richtung Yaowarat/China-Town. Nach einem kleinen Fußweg durch ein paar Haupt- und Seitenstraßen durch dichten Verkehr (Linksverkehr übrigens, sehr 
-gewöhnungsbedürftig) erreichten wir die kleinen, verwinkelten Gassen. Ihr macht euch keine Vorstellung - auf extrem wenig Raum ist so eine Masse an Waren, Menschen und Getier, dass es echt einem Wunder gleicht, dass niemand verletzt 
-wird, wenn ein paar Thais mit ihren Motorrädern durch diese Gassen düsen.
+Um ca. 11:00 Uhr ging es mit der U-Bahn von unserem Stadtteil Sukhumvit in Richtung Yaowarat/China-Town. Nach einem kleinen Fußweg durch ein paar Haupt- und Seitenstraßen durch dichten Verkehr (Linksverkehr übrigens, sehr gewöhnungsbedürftig) erreichten wir die kleinen, verwinkelten Gassen. Ihr macht euch keine Vorstellung - auf extrem wenig Raum ist so eine Masse an Waren, Menschen und Getier, dass es echt einem Wunder gleicht, dass niemand verletzt wird, wenn ein paar Thais mit ihren Motorrädern durch diese Gassen düsen.
 
 Nach 1,5 Kilometer durch China-Town führte unsere Route weiter in die historische Altstadt Bangkok´s und zum Tempel Wat Poh des liegenden Buddha. Der liegende Buddha ist eine vergoldete Statue die 46 Meter lang und 15 Meter hoch ist. Sehenswert! Wir haben dann im Anschluss noch etwas die Tempelanlage erkundet, dort wurde es dann auch ruhiger und man konnte im Schatten etwas Kraft und Ruhe tanken.
 
