@@ -28,7 +28,7 @@ social_networks:
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
--  { name: flickr, url: '' }
+-  { name: flickr, url: 'https://www.flickr.com/photos/benjaminschuch/' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
 -  { name: wordpress, url: '' }
