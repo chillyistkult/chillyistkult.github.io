@@ -18,7 +18,7 @@ tags:
 published: true
 ---
 
-# Vorfreude
+### Vorfreude
 
 Jetzt sind es nur noch 13 Stunden 32 Minuten und 23 Sekunden bis das Abenteuer Thailand für uns endlich losgeht. Die 21 Tage, die wir in Thailand verbringen werden, dokumentieren wir hier in Form eines kleinen Reiseblogs. Geplant ist 
 und die Betonung liegt auf "geplant" jeden Tag ein paar Zeilen zu schreiben und die Highlights, Erlebnisse und Miseren des Tages festzuhalten.
@@ -31,7 +31,7 @@ Also wer immer auf dem Laufenden bleiben möchte kann gerne jeden Tag mal reinsc
 
 <!--more-->
 
-# Tag 1 - Bangkok Calling
+### Tag 1 - Bangkok Calling
 
 Wir haben es geschafft und die Zeit im Flieger verging auch garnicht mal wie im Flug! Nachdem wir mit einer halben Stunde Verspätung (aufgrund eines Schneetreibens) just in time für unseren Anschlussflug in Amsterdam gelandet sind ging es auch direkt weiter zum Reiseziel unserer Wahl - Bangkok! Ein paar Blockbuster später (zum Glück haben wir "Der Marsianer" nicht im Kino angeschaut) ging auch schon die Sonne über Thailand auf und wir befanden uns im 9.200 Kilometer entfernten Schmelztiegel Bangkok wieder.
 
@@ -53,7 +53,7 @@ beherbergt drei riesige Shopping-Malls. Eines davon, das Central World Plaza, is
 
 Für Heute war uns das nach dem langen Flug auch erst einmal genug und morgen gibt es dann die volle Packung Kultur und einen kleinen Abstecher zur Khao San Road am Abend.
 
-# Tag 2 - Bangkok Reloaded
+### Tag 2 - Bangkok Reloaded
 
 Puh, was ein Tag!
 
@@ -77,7 +77,7 @@ Auf dem Rückweg wurde es dann nochmal spannend, denn wir nutzten das Boottaxi B
 
 Geschafft vom Tag und nach einem kleinen Abendessen sind wir nun zurück im Hotel und todmüde! Eine kleine Runde im Pool rundet den Tag noch einmal gebührend ab.
 
-# Tag 3 - Flavours of Bangkok
+### Tag 3 - Flavours of Bangkok
 
 Nachdem wir gestern einige viele Kilometer zu Fuß zurückgelegt haben, wollten wir es heute mit einer Bootstour etwas ruhiger angehen lassen. Es gibt in Bangkok verschiedene Bootslinien die an verschiedenen Stationen anlegen und für den ganzen Tag 120 Baht (ca. 3 Euro) kosten. Damit ist man als Tourist ziemlich flexibel und kräftesparend unterwegs.
 
@@ -93,7 +93,7 @@ Da wir gestern schon eine Menge Sehenswürdigkeiten abgehakt haben, war das für
 
 Morgen geht es dann mit dem Taxi zum Flughafen und mit Flieger, Bus und Fähre nach Koh Samui. Also stay tuned!
 
-# Tag 4 - Gestrandet im Paradies
+### Tag 4 - Gestrandet im Paradies
 
 Unsere Tage in Bangkok sind gezählt! Noch ein paar letzte Fotos geschossen und auf ging die Reise nach Koh Samui. Nach einem 8 Stunden Trip mit Flugzeug, Bus und Fähre sind wir endlich in unserem Hotel im hippen Fisherman's Village (Bophut) angekommen. Der Tagesausflug quer durch Thailand hat ganz schön an unseren Mägen gezerrt. Zum Glück gibt es im bunten Fisherman's Village entlang des schönen Bophut Beach reichlich Auswahl an leckeren wenn auch etwas teureren Restaurants aller Art.
 
@@ -101,13 +101,13 @@ Das Dessert gab es dann im Anschluss bei einer Shisha direkt am Strand mit traum
 
 <iframe src="https://player.vimeo.com/video/157233016?color=E63946&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# Tag 5 - Regen
+### Tag 5 - Regen
 
 Heute war Benny´s Geburtstag und zur Feier des Tages hat es kräftig geschüttet. Leider war damit wirklich jegliche Aktivität, die zum Vormittag geplant war, ins Wasser gefallen. Ohje, so wird das nichts mit der Sommerbräune! Obwohl die Straßen nach dem Regen noch etwas unter Wasser standen, mieteten wir uns am Nachmittag einen Roller.
 
 Jaaaaa, auch hier ist der Straßenverkehr nicht ganz ohne. Benny ist allerdings ein sehr guter Rollerfahrer, sodass wir bis zum Abend noch etwas an der Küste entlang cruisen konnten.
 
-# Tag 6 - Die Palmenfalle
+### Tag 6 - Die Palmenfalle
 
 Heute sah die Wetterlage schon besser aus. Wir starteten nach dem Frühstück zu einer Rollertour Richtung der Na Mueang Wasserfälle. Dort angekommen, und um dem allgemeinen Touristengeplänkel aus dem Weg zu gehen, entschieden wir uns zum höchsten Punkt des Wasserfalls zu wandern. Leider war dieses Vorhaben nicht so einfach wie gedacht.
 
@@ -127,7 +127,7 @@ Die letzten Sonnenstunden genossen wir am Mae Nam Beach und probierten unsere H�
 
 Morsche Palme + Hängematte = Popo-Aua!
 
-# Tag 7 - Full Moon Beach
+### Tag 7 - Full Moon Beach
 
 Wir haben uns von Koh Samui verabschiedet und sind mit dem Speedboot nach Koh Phangan übergesetzt. Da die Inseln sehr nah beieinander liegen hat das nicht länger als eine halbe Stunde gedauert. In unserem neuen Hotel, das [Cyana Beach Resort](http://www.booking.com/hotel/th/cyana-beach-resort.html?aid=1269594&no_rooms=1&group_adults=1), haben wir erstmal die Lage sondiert und den Nachmittag am Pool verbracht. Am Abend haben wir ein anderes deutsches Paar kennengelernt und noch spontan einen Roller gemietet um das Nightlife zu erkunden.
 
@@ -143,7 +143,7 @@ In Haad Rin angekommen mussten wir feststellen, das der Ort zu 100% auf den Part
 
 Morgen geht es auf eine Tagestour zum Angthong National Marine Park. Wir sind gespannt!
 
-# Tag 8 - Angthong National Marine Park
+### Tag 8 - Angthong National Marine Park
 
 Der Tag begann für uns ungewöhnlich früh um 7:30 Uhr, da für heute eine Ganztagestour in den Angthong National Marine Park geplant war. Um 8:30 Uhr wurden wir von unserem Resort abgeholt und mit einem typischen Pickup-Taxi (auch "Songthaew" genannt), auf dessen Ladefläche auch schonmal  8 Leute Platz finden, abgeholt. Am Besten stellt man sich in Thailand garnicht erst die Frage nach Verkehrssicherheit und Ähnlichem alles zwecklos...
 
@@ -159,7 +159,7 @@ Danach ging es an wunderschönen kleinen Inseln und Stränden vorbei zu unserer 
 
 Nach einer kurzen Abkühlung am Na Tap Beach ging es dann weiter zu unserem letzten Halt auf unserer Tour. Das Koh Wua Talab Island ist einer der größeren Inseln des Archipels mit einem traumhaften Strand flankiert von hohen Bergen und dichtem Jungle. Hier kann man wenn man möchte sogar in einfachen Bungalows direkt im Nationalpark übernachten. Vom Strand aus führte eine abenteuerliche Kletterrute hinauf auf den Berg von wo aus man eine atemberaubende Aussicht auf das gesamte Archipel hatte. Der Aufstieg war extrem steil, mit scharfkantigen Felsen, dichten Dschungel, Stolperfallen und allem was das Abenteuerherz begehrt. Ich habe noch nie in meinem Leben so geschwitzt aber seht selbst was die Belohnung dafür war!
 
-# Tag 9 - Auszeit
+### Tag 9 - Auszeit
 
 Benny's Erkältung wird schlimmer. Die Nase ist rot und geschwollen und nun kommt noch Husten dazu. Trotzdem hat er sich aufgerafft um noch etwas mit mir die Insel zu erkunden. Nach einer kurzen Rollerfahrt entdeckten wir den wunderschönen Strand namens Serect Beach, der nicht wirklich ein Geheimnis war, aber trotzdem nicht aus allen Nähten platzte.
 
@@ -167,7 +167,7 @@ Bis zum Mittagessen in einer Lokalität mit Hausschwein hat Benny sogar noch dur
 
 PS: Wir haben unseren ersten frei lebenden Affen gesehen!
 
-# Tag 10 - Berg und Tal
+### Tag 10 - Berg und Tal
 
 Auch heute ist es um Benny nicht viel besser bestellt. Es ist sehr heiß bei Tage und etwas kühler und feuchter in der Nacht. Sehr anstrengende Temperaturunterschiede für einen Kranken.
 
@@ -185,7 +185,7 @@ Es gab zwei Strände, an denen wir an diesem Tag unsere Zeit verbracht haben. Al
 
 Am Abend gab es dann in unserem Resort ein hauseigenes BBQ vom Chef persönlich zubereitet. Sehr lecker wir haben richtig reingehauen.
 
-# Tag 11 - Mr. Ben + 1
+### Tag 11 - Mr. Ben + 1
 
 Heute standen wir auf der Gästeliste für ein Speedboot Richtung Koh Tao. Da die Thais im Office nicht sehr motiviert waren hieß es auf den Tickets einfach nur Mr. Ben + 1, was lustig ist weil man in Thailand als Tourist eigentlich ständig seinen Pass braucht und alles penibel eingegeben und abfotografiert wird.
 
@@ -207,7 +207,7 @@ Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben d
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515653640/in/dateposted-public/" title="Sairee Beach"><img src="https://c1.staticflickr.com/3/2916/33515653640_239482e421_z.jpg" width="640" height="480" alt="Sairee Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-# Tag 12 - Sonnenuntergang
+### Tag 12 - Sonnenuntergang
 
 Unseren ersten kompletten Tag auf Koh Tao haben wir zu einem Drittel mit Schlafen verbracht. In unserer kleinen Hütte mit Doppelbett und Moskitonetz lässt es sich nämlich ganz gut schlafen. Nach einem reichhaltigen Frühstück mit Blick auf die Ao Leuk Bay ging es erst einmal zum örtlichen 7Eleven (so heißen die Supermärkte hier) Vorräte besorgen.
 
@@ -221,7 +221,7 @@ Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257919582/in/dateposted-public/" title="Koh Tao Panorama"><img src="https://c1.staticflickr.com/5/4162/34257919582_39c75cb95c_z.jpg" width="640" height="142" alt="Koh Tao Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-# Tag 13 - Sonnenbrände
+### Tag 13 - Sonnenbrände
 
 Wir haben uns auf Koh Tao "eingelebt". Die engen Bergstraßen fahren sich mittlerweile auch Nachts locker vom Gashebel unseres Rollers ab, der immerhin schon 135000 Kilometer auf dem Tacho hat.
 
@@ -231,7 +231,7 @@ Am Nachmittag sind wir noch zur Tanote Bay gefahren, die nur über eine Sandpist
 
 Am Abend sind wir vom Hafen in Mae Haad zum Ort Sairee am Strand spazieren gegangen. Haben wir auf Koh Samui noch gedacht das Feuershows etwas besonderes sind, so merkt man hier das eigentlich jede Beachbar, die etwas auf sich hält, einen oder meist mehrere Feuerartisten beschäftigt. Fairerweise müssen wir aber sagen das die Darbietung auf Koh Samui bisher die Beste war!
 
-# Tag 14 - Schnorcheln
+### Tag 14 - Schnorcheln
 
 Nach einem ausgewogenen Frühstück mit Toast, Rührei, Bacon, Tee und Orangensaft führte unser Weg zum Hafen die Fährtickets reservieren. Denn morgen geht es in die Provinz Krabi, genauer gesagt nach Ao Nang, gelegen an der Westküste Thailands. Der Trip wird um die sieben Stunden dauern, sodass wir dort erst am frühen Abend ankommen.
 
@@ -245,7 +245,7 @@ Am späten Nachmittag sind wir dann nochmal zur Tanote Bay aufgebrochen, denn da
 
 Wir müssen jetzt noch Packen also bis Morgen ihr Lieben!
 
-# Tag 15 - Adamanen-Route
+### Tag 15 - Adamanen-Route
 
 Es ist dunkel und still und wenn wir ganz leise sind, hören wir die Rufe des Muezzin der nahegelegenen Moschee in den Bergen widerhallen.
 
@@ -259,7 +259,7 @@ Nach einem Zwischenstopp in Koh Phangan, wechselten wir in Koh Samui unser Fähr
 
 Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus nach Krabi-City. Wir lernten noch am Busbahnhof ein nettes deutsches Mädel kennen. Mehr Leute als wir drei wollten nicht nach Ao Nang, sodass wir allein in einem 40–Mann Bus abfuhren. In Krabi angekommen gab es dann noch eine kurze Tour mit einem Kleinbus zum Resort - es ist mittlerweile 17:30 Uhr. Das in einem tropischen Garten gelegene [Vipa Tropical Resort](http://www.booking.com/hotel/th/vipa-tropical-resort.html?aid=1269594&no_rooms=1&group_adults=1) ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir nach einem ausgiebigen Abendessen auch für ein paar Bahnen direkt eingeweiht.
 
-# Tag 16 - Affenbande
+### Tag 16 - Affenbande
 
 Nach einem Langschläferfrühstück ging es direkt an die Planung für den bevorstehenden Tag. Die Provinz Krabi und speziell Ao Nang beherbergt einige der schönsten Strände der Welt. Die meisten von diesen Stränden sind nur mit dem Boot erreichbar, da sie von hunderten Meter hohen Felsen umgeben sind. Aber da Thailand ohnehin bekannt für seine typischen Longtailboote mit den stinkenden und lauten Dieselmotoren ist dürfte das kein Problem werden. Also ging es mit dem hoteleigenen Shuttle zum Strand um die Möglichkeiten abzuchecken. Boote lagen schonmal genug am Strand jetzt nur noch ein Ticket für 100 Baht pro Nase erwerben und warten bis das Boot unserer Wahl voll ist und ab geht es nach Railay.
 
@@ -285,7 +285,7 @@ Am Abend fuhren wir dann mit einem der vielen Longtailboote zurück nach Ao Nang
 
 <iframe src="https://player.vimeo.com/video/158740176" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# Tag 17 - Himmelsleiter
+### Tag 17 - Himmelsleiter
 
 Der heutige Tag hielt zur Abwechslung mal wieder einen Tagesausflug für uns bereit. Drei Stopps mit den klangvollen Namen Hot Springs, Emerald Pool und Tiger Cave Temple standen auf dem Programm.
 
@@ -311,13 +311,13 @@ Unsere letzte Station hörte auf dem Namen Tiger Cave Temple. Unser Tourguide Ap
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575353754/in/dateposted-public/" title="Tiger Cave Temple Mountain Panorama"><img src="https://c1.staticflickr.com/5/4160/33575353754_b55fc95e0d_z.jpg" width="640" height="142" alt="Tiger Cave Temple Mountain Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-# Tag 18 - Auszeit
+### Tag 18 - Auszeit
 
 Es ist doch immer das Gleiche, man fährt in den Urlaub will sich eigentlich irgendwie entspannen und erholen und dann klettert, läuft oder schwimmt man trotzdem den ganzen Tag durch die Gegend und ist am Abend völlig erschöpft. Nicht so am Tag 17 unserer Reise! Der heutige Tag stand ganz im Zeichen der Hängematte und des notorischen Nichtstuns. Und weil wir den ganzen Tag nur am Strand gelegen, gegessen und dann wieder am Strand gelegen haben gibt es auch nicht viel zu berichten, außer das der erwartete Muskelkater von den 1243 Treppenstufen gestern erstaunlicherweise ausgeblieben ist. Muss wohl an unserer hervorragenden Kondition liegen :-).
 
 Morgen geht es dann auf eine Halbtagstour in die Mangroven zum Kayaking. Wir sind gespannt was uns erwartet!
 
-# Tag 19 - Kajaking
+### Tag 19 - Kajaking
 
 Nach unserer kleinen Auszeit gestern wurde es heute mal wieder Zeit für etwas Action. Eine Halbtagstour in den Nationalpark Than Bot Chorani stand auf dem Programm. Der Nationalpark ist durchzogen von einem komplexen Flusssystem umgeben von dichten Mangrovenwäldern. Das Ökosystem lässt sich quasi nur mit dem Boot oder Kayak erkunden und weil Motorboote laut sind und die Umwelt verschmutzen entschieden wir uns natürlich für die ökologische Variante.
 
@@ -327,7 +327,7 @@ Nach einem kurzen Nachmittagsschläfchen beschlossen wir den letzten Abend in Ao
 
 Morgen geht es dann zurück nach Bangkok und wir werden die Zeit hier in Ao Nang sicher noch lange in Erinnerung behalten!
 
-# Tag 20 - One (last) Night in Bangkok
+### Tag 20 - One (last) Night in Bangkok
 
 Wie fast alles auf unserer Reise, lief auch der Flug am Morgen Richtung Bangkok wieder mal wie am Schnürchen. Wir haben unser Hotel wieder im selben Viertel gebucht, wo wir auch schon am Anfang unserer Reise übernachtet haben. Sukhumvit liegt einfach strategisch günstig und man erreicht beide internationale Flughäfen in kurzer Zeit. Die Fahrt mit dem Taxi führte uns Mitten in die Rushhour Bangkoks und das Taximeter tickte erbarmungslos gegen uns. Nach einer gefühlten Ewigkeit sind wir dann im ersten und einzigem 4-Sterne Hotel unserer Reise, dem [Well Hotel](	http://www.booking.com/hotel/th/well-bangkok.html?aid=1269594&no_rooms=1&group_adults=1), angekommen. Wir wollten uns zum Abschluss einfach nochmal richtig was gönnen.
 
