@@ -19,13 +19,13 @@ social_networks:
 -  { name: skype, url: '' }
 -  { name: github, url: 'https://github.com/chillyistkult' }
 -  { name: codepen, url: '' }
--  { name: stack-overflow, url: '' }
+-  { name: stack-overflow, url: 'https://stackoverflow.com/users/3105370/chillyistkult' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
 -  { name: youtube, url: '' }
--  { name: vimeo, url: '' }
+-  { name: vimeo, url: 'https://vimeo.com/chillyistkult' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
 -  { name: flickr, url: 'https://www.flickr.com/photos/benjaminschuch/' }
