@@ -29,6 +29,8 @@ schaun.
 
 Also wer immer auf dem Laufenden bleiben möchte kann gerne jeden Tag mal reinschauen. Wir updaten den Post dann jeden Abend. Die Zeitverschiebung beträgt +6 Stunden, d.h. wenn ihr aufsteht liegen wir schon 3 Stunden am Strand. Da mobiles Internet in Thailand echt ein Schnäppchen sein soll, wird meine Internetsucht sicher auch tagsüber befriedigt und als netter Nebeneffekt sind wir dadurch auch für euch Zurückgebliebenen gut erreichbar.
 
+<!--more-->
+
 # Tag 1 - Bangkok Calling
 
 Wir haben es geschafft und die Zeit im Flieger verging auch garnicht mal wie im Flug! Nachdem wir mit einer halben Stunde Verspätung (aufgrund eines Schneetreibens) just in time für unseren Anschlussflug in Amsterdam gelandet sind ging es auch direkt weiter zum Reiseziel unserer Wahl - Bangkok! Ein paar Blockbuster später (zum Glück haben wir "Der Marsianer" nicht im Kino angeschaut) ging auch schon die Sonne über Thailand auf und wir befanden uns im 9.200 Kilometer entfernten Schmelztiegel Bangkok wieder.
