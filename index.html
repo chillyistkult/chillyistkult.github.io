@@ -22,7 +22,7 @@ layout: default
         {{ post.excerpt }}
 
         {% if post.excerpt != post.content %}
-            <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" role="button">Read More</a></p>
+            <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" role="button">Mehr lesen</a></p>
         {% endif %}
     </div>
 
@@ -52,13 +52,13 @@ layout: default
 {% if paginator.total_pages > 1 %}
 <div class="pagination clear" role="navigation" aria-label="pagination">
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">&larr; Previous</a>
+        <a href="{{ paginator.previous_page_path }}" class="previous">&larr; Zurück</a>
     {% endif %}
 
     <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next &rarr;</a>
+        <a href="{{ paginator.next_page_path }}" class="next">Nächste &rarr;</a>
     {% endif %}
 </div>
 {% endif %}

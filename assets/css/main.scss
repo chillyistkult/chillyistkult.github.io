@@ -253,6 +253,15 @@
     .post-content {
       font-size: 16px;
       line-height: 26px;
+
+      blockquote:first-child {
+        > p {
+          margin: 0;
+        }
+        margin-top: 0;
+        font-size: 20px;
+      }
+
       abbr {
         border-bottom: 1px dotted $grey-color-normal;
         cursor: help;
@@ -323,7 +332,7 @@
       }
 
       dl {
-        margin: 40px 0;
+        margin: 30px 0;
         dt {
           margin: 10px 0 0;
           font-size: 18px;
