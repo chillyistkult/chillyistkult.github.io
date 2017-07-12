@@ -1,6 +1,6 @@
 <aside class="user-profile {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
     <a href="{{ site.baseurl | prepend: site.url }}">
-        {% if page.url == "/cv/" %}
+        {% if page.url == "/" %}
         <img class="avatar" src="{% if site.avatar %}{{site.avatar}}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" />
         {% else %}
         <img class="avatar" src="/assets/images/me.png" />
