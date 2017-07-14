@@ -23,6 +23,10 @@ Erste Erkenntnis des Tages: Berlin ist ein Dorf. Wenn man es ganz genau nimmt is
 
 Wir sind 23:40 Uhr in Tokyo gelandet und mussten uns dementsprechend schnell organisieren, um die letzte Monorail in die Stadt zu bekommen. In unserem neuen Zuhause auf Zeit, dem [Granbell Hotel Shinjuku](https://www.booking.com/hotel/jp/shinjuku-granbell.de.html?aid=1269594;label=gog235jc-hotel-XX-jp-shinjukuNgranbell-unspec-au-com-L%3Ade-O%3AosSx-B%3Asafari-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=9a06963c47c6009dbc7adbb3014d27aa;dist=0&sb_price_type=total&type=total&), fehlt es uns an nichts. Das Hotel liegt mittem im sehr lebendigen und modernen Viertel Shinjuku. Mit seinem recht engen, mit Geschäften und Restaurants vollgestopften, Straßen und dem übermäßigen Einsatz von Reklameschildern ist Shinjuku für Menschen, die Berlin für eine "Großstadt" halten, ganz schön gewaltig.
 
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35783509171/in/album-72157686182142915/" title="Shinjuku"><img src="https://farm5.staticflickr.com/4210/35783509171_e461410397_z.jpg" width="640" height="427" alt="Shinjuku"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Nachdem wir unseren Jetlag einigermaßen weggeschlafen haben, ging es am späten Mittag zu allererstmal Internet in Form einer japanischen SIM-Karte organisieren. Das ging überraschend einfach, denn was wollen mit Kamera bewaffnete Touristen auch sonst in einem Elektrofachgeschäft in Japan kaufen?
 
 <figure class="alignleft">
