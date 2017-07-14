@@ -15,9 +15,19 @@ tags:
   - backpacking
 published: true
 ---
+Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).
+
 ## Tag 1 - Tokyo: Next Level City
 
-Erste Erkenntnis des Tages: Berlin ist ein Dorf. Was heut so los war erfahrt ihr später, aber auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/) gibt es schonmal eine Auswahl unserer Lieblingsaufnahmen des Tages zu sehen.
+Erste Erkenntnis des Tages: Berlin ist ein Dorf. Wenn man es ganz genau nimmt ist das ja nichtmal der erste Tag unserer Reise - den haben wir einfach nur mit Fliegen verbracht. Dabei ist Qatar Airways echt zu empfehlen, der Service ist nett, die Flugzeuge modern und auch sonst gab es keinerlei Probleme. Dabei ist es aber eigentlich egal mit welchem Flugzeug man fliegt, 16 Stunden in der Economy Class fliegen nervt jeden irgendwann.
+
+Wir sind 23:40 Uhr in Tokyo gelandet und mussten uns dementsprechend schnell organisieren, um die letzte Monorail in die Stadt zu bekommen. In unserem neuen Zuhause auf Zeit, dem [Granbell Hotel Shinjuku](https://www.booking.com/hotel/jp/shinjuku-granbell.de.html?aid=1269594;label=gog235jc-hotel-XX-jp-shinjukuNgranbell-unspec-au-com-L%3Ade-O%3AosSx-B%3Asafari-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=9a06963c47c6009dbc7adbb3014d27aa;dist=0&sb_price_type=total&type=total&), fehlt es uns an nichts. Das Hotel liegt mittem im sehr lebendigen und modernen Viertel Shinjuku. Mit seinem recht engen, mit Geschäften und Restaurants vollgestopften, Straßen und dem übermäßigen Einsatz von Reklameschildern ist Shinjuku für Menschen, die Berlin für eine "Großstadt" halten, ganz schön gewaltig.
+
+Nachdem wir unseren Jetlag einigermaßen weggeschlafen haben, ging es am späten Mittag zu allererstmal Internet in Form einer japanischen SIM-Karte organisieren. Das ging überraschend einfach, denn was wollen mit Kamera bewaffnete Touristen auch sonst in einem Elektrofachgeschäft in Japan kaufen? Anschließend ging es nach Shibuya, das man vielleicht am ehesten als Geschäftsviertel bezeichnen kann. Dort findet sich auch einer der am stärksten frequentiertesten Kreuzungen der Welt (in Tokyo gibt es auch Zebrastreifen, die Diagonal über die Straße führen). Von dort aus ging es gemütlich spazierend und hier und da mal in einem Geschäft stöbernd Richtung Yoyogi-Park.
+
+Und von Parks verstehen die Japaner wirklich was. So schön angelegt, sauber und ruhig - da kann höchstens der Görli in Berlin mithalten. Für dem im Park gelegenen Meji-Schrein war es aber leider schon zu spät, sodass wir stattdessen noch ein wenig durch die "Touristenstraßen" spaziert sind. Am Abend haben wir uns zur Aufgabe gemacht echt leckeres Abendessen zu finden. Das Ikinari Steackhouse klang dabei recht vielversprechend - ist ja schließlich "Steak" im Namen enthalten. Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das ihre Steaks zu den Preisen weltklasse sind und haben daher im ganzen Laden einfach mal die Stühle weggelassen. Im Stehen essen ist vielleicht erstmal gewöhnungsbedürftig, macht aber aus geschäftsmännischer Sicht Sinn. Wer will schon das sich die ganzen Japaner im Laden für Stunden "festtrinken", wenn man ein Steak pro Stehplatz aller 20 Minuten verkaufen kann?
+
+Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse mit atemberaubenden Ausblick über die Skyline Shinjukus inklusive (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
 
 <!--more-->
 
