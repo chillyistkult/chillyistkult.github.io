@@ -50,7 +50,7 @@ Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das
 Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse mit atemberaubenden Ausblick über die Skyline Shinjukus inklusive (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
 
 <figure class="aligncenter">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530530260/in/album-72157686182142915/" title="Tokyo Skyline Panorama"><img src="https://farm5.staticflickr.com/4307/35530530260_2ff9fc3341_o.jpg" width="8192" height="1856" alt="Tokyo Skyline Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530531260/in/album-72157686182142915/" title="Tokyo Skyline"><img src="https://farm5.staticflickr.com/4327/35530531260_6acecff410_z.jpg" width="640" height="427" alt="Tokyo Skyline"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 <!--more-->
