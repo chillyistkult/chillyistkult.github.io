@@ -29,7 +29,13 @@ Nachdem wir unseren Jetlag einigermaßen weggeschlafen haben, ging es am späten
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35783513461/in/album-72157686182142915/" title="Yoyogi-Park"><img src="https://farm5.staticflickr.com/4312/35783513461_4162fe860a_z.jpg" width="640" height="427" alt="Yoyogi-Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Und von Parks verstehen die Japaner wirklich was. So schön angelegt, sauber und ruhig - da kann höchstens der Görli in Berlin mithalten. Für dem im Park gelegenen Meji-Schrein war es aber leider schon zu spät, sodass wir stattdessen noch ein wenig durch die "Touristenstraßen" spaziert sind. Am Abend haben wir uns zur Aufgabe gemacht echt leckeres Abendessen zu finden. Das Ikinari Steackhouse klang dabei recht vielversprechend - ist ja schließlich "Steak" im Namen enthalten. Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das ihre Steaks zu den Preisen weltklasse sind und haben daher im ganzen Laden einfach mal die Stühle weggelassen. Im Stehen essen ist vielleicht erstmal gewöhnungsbedürftig, macht aber aus geschäftsmännischer Sicht Sinn. Wer will schon das sich die ganzen Japaner im Laden für Stunden "festtrinken", wenn man ein Steak pro Stehplatz aller 20 Minuten verkaufen kann?
+Und von Parks verstehen die Japaner wirklich was. So schön angelegt, sauber und ruhig - da kann höchstens der Görli in Berlin mithalten. Für dem im Park gelegenen Meji-Schrein war es aber leider schon zu spät, sodass wir stattdessen noch ein wenig durch die "Touristenstraßen" spaziert sind. Am Abend haben wir uns zur Aufgabe gemacht echt leckeres Abendessen zu finden. Das Ikinari Steackhouse klang dabei recht vielversprechend - ist ja schließlich "Steak" im Namen enthalten. 
+
+<figure class="alignright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530529330/in/album-72157686182142915/" title="Beef Tenderloin"><img src="https://farm5.staticflickr.com/4325/35530529330_02503b5e35_m.jpg" width="240" height="160" alt="Beef Tenderloin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das ihre Steaks zu den Preisen weltklasse sind und haben daher im ganzen Laden einfach mal die Stühle weggelassen. Im Stehen essen ist vielleicht erstmal gewöhnungsbedürftig, macht aber aus geschäftsmännischer Sicht Sinn. Wer will schon das sich die ganzen Japaner im Laden für Stunden "festtrinken", wenn man ein Steak pro Stehplatz aller 20 Minuten verkaufen kann?
 
 Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse mit atemberaubenden Ausblick über die Skyline Shinjukus inklusive (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
 
