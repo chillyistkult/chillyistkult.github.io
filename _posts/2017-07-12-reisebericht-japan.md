@@ -21,6 +21,8 @@ Erste Erkenntnis des Tages: Berlin ist ein Dorf. Was heut so los war erfahrt ihr
 
 <!--more-->
 
+## Vorwort
+
 In vier Stunden starten wir in unser nächstes Abenteuer: Japan! Von Berlin fliegen wir über Katar in reichlich 18 Stunden nach Japan. Wir reisen mit Qatar Airways und ich hoffe wirklich, dass die besseren Tomatensaft als Air Berlin oder Germanwings haben, und vor allem mehr Beinfreiheit! Die Zeitverschiebung zwischen Deutschland und Japan beträgt +7 Stunden. Wir fliegen also in die Zukunft und landen um ca. 23:30 Uhr (lokaler Zeit) in Tokio. Dort bleiben wir die ersten Tage, erkunden die Stadt, und machen uns mit den überfreundlichen Japanern vertraut. Auf der Karte ist unsere geplante Reiseroute eingezeichnet. Hauptsächlich werden wir per Zug mit dem superschnellen Shinkansen (bis zu 320 km/h) reisen. Dafür haben wir uns eine Flatrate im Form des Japan Rail Passes gegönnt. Das ist so eine Art "Ich darf alles fahren"-Karte, die das ganze Unterfangen preislich echt erträglich macht.
 
 <figure class="algincenter">
