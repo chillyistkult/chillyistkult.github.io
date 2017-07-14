@@ -47,7 +47,7 @@ Und von Parks verstehen die Japaner wirklich was. So schön angelegt, sauber und
 
 Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das ihre Steaks zu den Preisen weltklasse sind und haben daher im ganzen Laden einfach mal die Stühle weggelassen. Im Stehen essen ist vielleicht erstmal gewöhnungsbedürftig, macht aber aus geschäftsmännischer Sicht Sinn. Wer will schon das sich die ganzen Japaner im Laden für Stunden "festtrinken", wenn man ein Steak pro Stehplatz aller 20 Minuten verkaufen kann?
 
-Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse mit atemberaubenden Ausblick über die Skyline Shinjukus inklusive (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
+Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse inklusive atemberaubenden Ausblick über die Skyline Shinjukus (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
 
 <figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530531260/in/album-72157686182142915/" title="Tokyo Skyline"><img src="https://farm5.staticflickr.com/4327/35530531260_6acecff410_z.jpg" width="640" height="427" alt="Tokyo Skyline"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
