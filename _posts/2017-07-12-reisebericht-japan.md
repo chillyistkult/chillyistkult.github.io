@@ -23,7 +23,13 @@ Erste Erkenntnis des Tages: Berlin ist ein Dorf. Wenn man es ganz genau nimmt is
 
 Wir sind 23:40 Uhr in Tokyo gelandet und mussten uns dementsprechend schnell organisieren, um die letzte Monorail in die Stadt zu bekommen. In unserem neuen Zuhause auf Zeit, dem [Granbell Hotel Shinjuku](https://www.booking.com/hotel/jp/shinjuku-granbell.de.html?aid=1269594;label=gog235jc-hotel-XX-jp-shinjukuNgranbell-unspec-au-com-L%3Ade-O%3AosSx-B%3Asafari-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=9a06963c47c6009dbc7adbb3014d27aa;dist=0&sb_price_type=total&type=total&), fehlt es uns an nichts. Das Hotel liegt mittem im sehr lebendigen und modernen Viertel Shinjuku. Mit seinem recht engen, mit Geschäften und Restaurants vollgestopften, Straßen und dem übermäßigen Einsatz von Reklameschildern ist Shinjuku für Menschen, die Berlin für eine "Großstadt" halten, ganz schön gewaltig.
 
-Nachdem wir unseren Jetlag einigermaßen weggeschlafen haben, ging es am späten Mittag zu allererstmal Internet in Form einer japanischen SIM-Karte organisieren. Das ging überraschend einfach, denn was wollen mit Kamera bewaffnete Touristen auch sonst in einem Elektrofachgeschäft in Japan kaufen? Anschließend ging es nach Shibuya, das man vielleicht am ehesten als Geschäftsviertel bezeichnen kann. Dort findet sich auch einer der am stärksten frequentiertesten Kreuzungen der Welt (in Tokyo gibt es auch Zebrastreifen, die Diagonal über die Straße führen). Von dort aus ging es gemütlich spazierend und hier und da mal in einem Geschäft stöbernd Richtung Yoyogi-Park.
+Nachdem wir unseren Jetlag einigermaßen weggeschlafen haben, ging es am späten Mittag zu allererstmal Internet in Form einer japanischen SIM-Karte organisieren. Das ging überraschend einfach, denn was wollen mit Kamera bewaffnete Touristen auch sonst in einem Elektrofachgeschäft in Japan kaufen?
+
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35783511291/in/album-72157686182142915/" title="Shibuya Einkaufsstraße"><img src="https://farm5.staticflickr.com/4316/35783511291_4442fd0baf_m.jpg" width="240" height="160" alt="Shibuya Einkaufsstraße"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Anschließend ging es nach Shibuya, das man vielleicht am ehesten als Geschäftsviertel bezeichnen kann. Dort findet sich auch einer der am stärksten frequentiertesten Kreuzungen der Welt (in Tokyo gibt es auch Zebrastreifen, die Diagonal über die Straße führen). Von dort aus ging es gemütlich spazierend und hier und da mal in einem Geschäft stöbernd Richtung Yoyogi-Park.
 
 <figure class="aligncenter">
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35783513461/in/album-72157686182142915/" title="Yoyogi-Park"><img src="https://farm5.staticflickr.com/4312/35783513461_4162fe860a_z.jpg" width="640" height="427" alt="Yoyogi-Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -38,6 +44,10 @@ Und von Parks verstehen die Japaner wirklich was. So schön angelegt, sauber und
 Und die Leute im Ikinari Steackhouse sind echt clever: Die wissen natürlich das ihre Steaks zu den Preisen weltklasse sind und haben daher im ganzen Laden einfach mal die Stühle weggelassen. Im Stehen essen ist vielleicht erstmal gewöhnungsbedürftig, macht aber aus geschäftsmännischer Sicht Sinn. Wer will schon das sich die ganzen Japaner im Laden für Stunden "festtrinken", wenn man ein Steak pro Stehplatz aller 20 Minuten verkaufen kann?
 
 Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse mit atemberaubenden Ausblick über die Skyline Shinjukus inklusive (naja ist in den Cocktailpreisen sicher schon mit eingerechnet gewesen).
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530530260/in/album-72157686182142915/" title="Tokyo Skyline Panorama"><img src="https://farm5.staticflickr.com/4307/35530530260_2ff9fc3341_o.jpg" width="8192" height="1856" alt="Tokyo Skyline Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 <!--more-->
 
