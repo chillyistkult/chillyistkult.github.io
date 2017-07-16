@@ -29,6 +29,10 @@ Nach einem ausgiebigen Mittagessen führte uns unser Weg wieder in den Yoyogi-Pa
 
 Mittlerweile war es auch schon Nachmittag und wir wollten vor dem Besuch des Tokyo Skytree - unserem Highlight des Tages - unbedingt noch eine Sehenswürdigkeit besuchen. Da wir ohnehin gerade im Shintō-Vibe waren, bot es sich an, gleich noch einen weiteren Schrein zu besuchen. Der Asakusa-Schrein ist der älteste und bedeutenste Schrein Tokyos, was sich durchaus auch an der touristischen Infrakstruktur bemerkbar macht. Unzählige Marktstände säumen die Zufahrtswege, was schon ein krasser Kontrast zum naturbelassenden Meiji-Schrein war. Die Architektur war auch hier interessant und abwechslungsreich - eben genau so wie man sich japanische Tempel so vorstellt. Die Sonne stand mittlerweile tief genug um Spaziergänge durch die Tempelanlage und die engen Straßen Tokyos erträglich zu machen. 
 
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35806469411/in/album-72157686182142915/" title="Asakusa Tempel"><img src="https://farm5.staticflickr.com/4308/35806469411_17f5b51a38_z.jpg" width="640" height="427" alt="Asakusa Tempel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 Deshalb entschieden wir uns 30 Minuten zum Tokyo Skytree zu laufen. Den kann man mit seiner 634 Meter hohen Spitze ja ohnehin nicht übersehen. Dort angekommen mussten wir feststellen das es im wesentlichen drei verschiedene Varianten von Tickets gab: 
 
 - A.) Tickets für clevere Menschen die schon Wochen im vorraus online reservieren 
