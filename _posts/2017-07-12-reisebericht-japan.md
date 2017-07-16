@@ -17,7 +17,7 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
-## Tag 3 - Tokyo: Electric City
+## Tag 3 - Tokyo: Electrifying City
 
 Eigentlich stand heute ein Tagesauflug zum Berg Takao-san, dem Hausberg Tokyo's, an. Da uns Tokyo aber gestern völlig erschöpft zurückgelassen hat, wollten wir es heute ruhig angehen lassen - nunja das war zumindest der Plan. Wir haben unseren Tag da begonnen, wo er gestern aufgehört hat: 
 
