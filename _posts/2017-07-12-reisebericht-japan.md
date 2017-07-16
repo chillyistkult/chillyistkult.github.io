@@ -47,6 +47,10 @@ Wir haben uns mangels weiterer Optionen für Variante C entschieden und haben es
 
 Schon total ausgehungert und erschöpft von der drückenden Hitze draußen und den kühlschrankartigen Temperaturen in jegdlichen Innenräumen machten wir uns auf den Weg ins Anime- und Manga-Viertel Akihabara. Körper und Geist liefen schon längst im Lebenserhaltungsmodus, als zwischen den unzähligen Reklametafeln ein gelbes M auf roten Hintergrund auftauchte und neue Energie in uns aufkeimen ließ. Die Burger waren im Vergleich zu den hiesigen Filialen des M-Konzerns erbärmlich klein und die Auswahl gewöhnungsbedürftig, aber es reichte um unsere Lebensgeister wieder zu erwecken. Anschließend gab es noch einen kleinen Nachtisch, bevor es ohne groß das Viertel erkundet zu haben aufgrund totaler Erschöpfung zurück ins Hotel ging. Da müssen wir wohl morgen gestärkt nochmal hin.
 
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35806489541/in/album-72157686182142915/" title="Tired Anni"><img src="https://farm5.staticflickr.com/4230/35806489541_dd628fa840_z.jpg" width="640" height="427" alt="Tired Anni"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 <!--more-->
 
 ## Tag 1 - Tokyo: Next Level City
