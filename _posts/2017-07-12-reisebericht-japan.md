@@ -17,6 +17,34 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 2 - Tokyo: Biosauna inklusive
+
+Es gibt wohl doch so etwas wie einen Biorythmus: Wir waren heute beide bereits um 5:00 Uhr morgens wach und zu allem bereit. Ein gemütliches Bett ist aber dann zum Glück doch über jeden Biorythmus erhaben. In Tokyo sind es tagsüber gerade 34° im Schatten bei ca. 55% Luftfeuchtigkeit - das ist in der prallen Sonne quasi nicht aushaltbar. Deshalb starten wir unsere Tage absichtlich spät, um länger etwas von der angenehmen Abendluft zu haben. 
+
+Nach einem ausgiebigen Mittagessen führte uns unser Weg wieder in den Yoyogi-Park, um den Meiji-Schrein zu erkunden, den wir gestern aus Zeitgründen ja nicht mehr geschafft hatten. Breite Straßen, überdacht von Blattwerk, und mäßig viele Menschen, machten den Spaziergang zum Schrein sehr erholsam. Und der Schrein selbst: Nunja man kann sich sicher dafür begeistern, dafür müsste man sich aber schon mit den Hintergründen der Shintō-Religion beschäftigten, die tief in der japanischen Gesellschaft verwurzelt ist. Tut man das nicht bleibt eben nur noch die Architektur übrig, die man in wenigen Minuten gesehen hat - für mich ist das aber vollkommen in Ordnung.
+
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35768451092/in/album-72157686182142915/" title="Meiji Schrein"><img src="https://farm5.staticflickr.com/4319/35768451092_ab0a16d017_z.jpg" width="640" height="427" alt="Meiji Schrein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Mittlerweile war es auch schon Nachmittag und wir wollten vor dem Besuch des Tokyo Skytree - unserem Highlight des Tages - unbedingt noch eine Sehenswürdigkeit besuchen. Da wir ohnehin gerade im Shintō-Vibe waren, bot es sich an, gleich noch einen weiteren Schrein zu besuchen. Der Asakusa-Schrein ist der älteste und bedeutenste Schrein Tokyos, was sich durchaus auch an der touristischen Infrakstruktur bemerkbar macht. Unzählige Marktstände säumen die Zufahrtswege, was schon ein krasser Kontrast zum naturbelassenden Meiji-Schrein war. Die Architektur war auch hier interessant und abwechslungsreich - eben genau so wie man sich japanische Tempel so vorstellt. Die Sonne stand mittlerweile tief genug um Spaziergänge durch die Tempelanlage und die engen Straßen Tokyos erträglich zu machen. 
+
+Deshalb entschieden wir uns 30 Minuten zum Tokyo Skytree zu laufen. Den kann man mit seiner 634 Meter hohen Spitze ja ohnehin nicht übersehen. Dort angekommen mussten wir feststellen das es im wesentlichen drei verschiedene Varianten von Tickets gab: 
+
+- A.) Tickets für clevere Menschen die schon Wochen im vorraus online reservieren 
+- B.) Tickets für Menschen, die nicht wussten das man online reservieren kann und sich daher eine Stunde lang an der Tageskasse anstellen 
+- C.) Tickets für naive Ausländer die besonders teuer sind, dafür aber immerhin keine Wartezeiten beinhalten
+
+Wir haben uns mangels weiterer Optionen für Variante C entschieden und haben es nicht bereut:
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35806483031/in/album-72157686182142915/" title="Tokyo Skytree"><img src="https://farm5.staticflickr.com/4237/35806483031_1ed3d675e3_z.jpg" width="640" height="427" alt="Tokyo Skytree"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Schon total ausgehungert und erschöpft von der drückenden Hitze draußen und den kühlschrankartigen Temperaturen in jegdlichen Innenräumen machten wir uns auf den Weg ins Anime- und Manga-Viertel Akihabara. Körper und Geist liefen schon längst im Lebenserhaltungsmodus, als zwischen den unzähligen Reklametafeln ein gelbes M auf roten Hintergrund auftauchte und neue Energie in uns aufkeimen ließ. Die Burger waren im Vergleich zu den hiesigen Filialen des M-Konzerns erbärmlich klein und die Auswahl gewöhnungsbedürftig, aber es reichte um unsere Lebensgeister wieder zu erwecken. Anschließend gab es noch einen kleinen Nachtisch, bevor es ohne groß das Viertel erkundet zu haben aufgrund totaler Erschöpfung zurück ins Hotel ging. Da müssen wir wohl morgen gestärkt nochmal hin.
+
+<!--more-->
+
 ## Tag 1 - Tokyo: Next Level City
 
 Erste Erkenntnis des Tages: Berlin ist ein Dorf. Wenn man es ganz genau nimmt ist das ja nichtmal der erste Tag unserer Reise - den haben wir einfach nur mit Fliegen verbracht. Dabei ist Qatar Airways echt zu empfehlen, der Service ist nett, die Flugzeuge modern und auch sonst gab es keinerlei Probleme. Dabei ist es aber eigentlich egal mit welchem Flugzeug man fliegt, 16 Stunden in der Economy Class fliegen nervt jeden irgendwann.
@@ -52,8 +80,6 @@ Am Abend gab es noch einen Absacker auf der hoteleigenen Dachterasse inklusive a
 <figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35530531260/in/album-72157686182142915/" title="Tokyo Skyline"><img src="https://farm5.staticflickr.com/4327/35530531260_6acecff410_z.jpg" width="640" height="427" alt="Tokyo Skyline"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
-
-<!--more-->
 
 ## Vorwort
 
