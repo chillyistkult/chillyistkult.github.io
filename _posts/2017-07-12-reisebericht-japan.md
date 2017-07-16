@@ -45,6 +45,8 @@ Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo
 
 Der Blick vom Strand, an dem gerade tausende kleine Teelichter brannten, war sehr romantisch und lud zum verweilen ein. Die Energie, die wie dort getankt haben, brauchten wir auch, denn gefühlt alle Japaner wollten zur selben Zeit wieder Richtung Tokyo, was soviel wie 30 Minuten stehen in der Kühlschrank-Bahn bedeutete. Da war die Ruhe und Gelassenheit schlagartig wieder weg und Tokyo hat uns wiedereinmal total fertig am Hotel ausgekozt.
 
+<!--more-->
+
 ## Tag 2 - Tokyo: Biosauna inklusive
 
 Es gibt wohl doch so etwas wie einen Biorythmus: Wir waren heute beide bereits um 5:00 Uhr morgens wach und zu allem bereit. Ein gemütliches Bett ist aber dann zum Glück doch über jeden Biorythmus erhaben. In Tokyo sind es tagsüber gerade 34° im Schatten bei ca. 55% Luftfeuchtigkeit - das ist in der prallen Sonne quasi nicht aushaltbar. Deshalb starten wir unsere Tage absichtlich spät, um länger etwas von der angenehmen Abendluft zu haben. 
@@ -78,8 +80,6 @@ Schon total ausgehungert und erschöpft von der drückenden Hitze draußen und d
 <figure class="aligncenter">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35806489541/in/album-72157686182142915/" title="Tired Anni"><img src="https://farm5.staticflickr.com/4230/35806489541_dd628fa840_z.jpg" width="640" height="427" alt="Tired Anni"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
-
-<!--more-->
 
 ## Tag 1 - Tokyo: Next Level City
 
