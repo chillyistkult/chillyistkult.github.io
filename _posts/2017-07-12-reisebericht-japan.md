@@ -17,6 +17,32 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 3 - Tokyo: Electric City
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35788204212/in/album-72157686182142915/" title="Akihabara Electric Town"><img src="https://farm5.staticflickr.com/4301/35788204212_76dd3a47a4_m.jpg" width="240" height="160" alt="Akihabara Electric Town"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Eigentlich stand heute ein Tagesauflug zum Berg Takao-san, dem Hausberg Tokyo's, an. Da uns Tokyo aber gestern völlig erschöpft zurückgelassen hat, wollten wir es heute ruhig angehen lassen - nunja das war zumindest der Plan. Wir haben unseren Tag da begonnen, wo er gestern aufgehört hat: Im Anime-Manga-Technik-Verrückten-Viertel Akihabara. Dort haben wir uns ein paar Stunden Zeit gelassen, um die vielen Geschäfte zu erkunden. Neben den vielleicht noch normal anmutenden, sich über viele Etagen erstreckenden Manga- und Animeshops, in denen es wirklich alles zu kaufen gibt, was dieser Mikrokosmus zu bieten hat, gibt es auch einige "Geschäfte" der besonderen Art. Und nein ich meine keine Pornoläden, aber ja die gibt es dort auch. Worauf ich hinaus will sind Spielhallen, in denen hunderte Automaten aneinandergereit stehen und von denen jeder lautstark eine andere Melodie ertönen lässt. Das ist in etwa so als würde man im Kindergarten den einzigen Lolli vor einer Rasselbande Dreijähriger essen und anschließend sagen das Weihnachten dieses Jahr ausfällt. So grausam sich das auch anhören mag, es gibt tatsächlich Japaner, die das anscheinend echt gut finden und dort den ganzen Tag verbringen.
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35788203642/in/album-72157686182142915/" title="Akihabara Electric Town"><img src="https://farm5.staticflickr.com/4293/35788203642_b50f958f8c_z.jpg" width="640" height="427" alt="Akihabara Electric Town"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Für mich schon eher interessant, waren die Technikläden, wie zum Beispiel Yodobashi Camera, die sich wohl am ehesten mit unseren Saturn- oder Mediamärkten vergleichen lassen. Dort gab es vorallem Kameratechnisch einiges auszuprobieren, was meinen Wunsch nach einem besseren Objektiv für unsere <a target="_blank" href="https://www.amazon.de/gp/product/B00IE9XHE0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00IE9XHE0&linkCode=as2&tag=literaturrs-21&linkId=f3cc21db27074626a378c893e4d7dc17">Sony Alpha 6000</a><img src="//ir-de.amazon-adsystem.com/e/ir?t=literaturrs-21&l=am2&o=3&a=B00IE9XHE0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> bestärkte. 
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35118520324/in/album-72157686182142915/" title="Tokyo Odaiba"><img src="https://farm5.staticflickr.com/4301/35118520324_7af8a17b79_m.jpg" width="240" height="160" alt="Tokyo Odaiba"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo. Als beliebtes Unterhaltungs- und Einkaufsgebiet war Odaiba unerwartet ein Ort der Ruhe und Gelassenheit. Weitläufige Parkanlagen, ein echter Sandstrand, entspannte Japaner - alles das was ich an Tokyo bisher so sehr vermisst habe. Von Odaiba über die Bucht von Tokyo führt die Rainbow Bridge, die meiner Meinung nach nicht an einem Regenbogen erinnert, aber seht selbst. 
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35118525844/in/album-72157686182142915/" title="Tokyo Rainbow Bridge"><img src="https://farm5.staticflickr.com/4306/35118525844_567b88a235_z.jpg" width="640" height="427" alt="Tokyo Rainbow Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Der Blick vom Strand, an dem gerade tausende kleine Teelichter brannten, war sehr romantisch und lud zum verweilen ein. Die Energie, die wie dort getankt haben, brauchten wir auch, denn gefühlt alle Japaner wollten zur selben Zeit wieder Richtung Tokyo, was soviel wie 30 Minuten stehen in der Kühlschrank-Bahn bedeutete. Da war die Ruhe und Gelassenheit schlagartig wieder weg und Tokyo hat uns wiedereinmal total fertig am Hotel ausgekozt.
+
 ## Tag 2 - Tokyo: Biosauna inklusive
 
 Es gibt wohl doch so etwas wie einen Biorythmus: Wir waren heute beide bereits um 5:00 Uhr morgens wach und zu allem bereit. Ein gemütliches Bett ist aber dann zum Glück doch über jeden Biorythmus erhaben. In Tokyo sind es tagsüber gerade 34° im Schatten bei ca. 55% Luftfeuchtigkeit - das ist in der prallen Sonne quasi nicht aushaltbar. Deshalb starten wir unsere Tage absichtlich spät, um länger etwas von der angenehmen Abendluft zu haben. 
