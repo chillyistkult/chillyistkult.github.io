@@ -43,7 +43,7 @@ Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35118525844/in/album-72157686182142915/" title="Tokyo Rainbow Bridge"><img src="https://farm5.staticflickr.com/4306/35118525844_567b88a235_z.jpg" width="640" height="427" alt="Tokyo Rainbow Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Der Blick vom Strand, an dem gerade tausende kleine Teelichter brannten, war sehr romantisch und lud zum verweilen ein. Die Energie, die wie dort getankt haben, brauchten wir auch, denn gefühlt alle Japaner wollten zur selben Zeit wieder Richtung Tokyo, was soviel wie 30 Minuten stehen in der Kühlschrank-Bahn bedeutete. Da war die Ruhe und Gelassenheit schlagartig wieder weg und Tokyo hat uns wiedereinmal total fertig am Hotel ausgekozt.
+Der Blick vom Strand, an dem gerade tausende kleine Teelichter brannten, war sehr romantisch und lud zum verweilen ein. Die Energie, die wie dort getankt haben, brauchten wir auch, denn gefühlt alle Japaner wollten zur selben Zeit wieder Richtung Tokyo, was soviel wie 30 Minuten stehen in der Kühlschrank-Bahn bedeutete. Da war die Ruhe und Gelassenheit schlagartig wieder weg und Tokyo hat uns wiedereinmal total fertig am Hotel ausgekotzt.
 
 <!--more-->
 
