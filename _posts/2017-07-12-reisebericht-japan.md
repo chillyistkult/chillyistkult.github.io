@@ -43,7 +43,7 @@ Gestärkt ging es nun zu dem eigentlichen Programmpunkt des Tages: Wandern. Und 
 
 Nach wohlverdienter Pause, mehreren High-Fives und einem kleinen Bummel im Souvenirshop, ging es auch schon schnellen Schrittes zurück zum Bahnhof "Hase" und über Kamakura zurück nach Shinjuku.
 
-Wir ließen den Abend bei 500 Gramm importierten Rib-Eye-Steak und einem feinen Glas Wasser im Ikinari Steakhouse ausklingen. Die Betonung liegt hier auf importiert, denn nur das lokale Fleisch aus Japan ist unendlich teuer.
+Wir ließen den Abend bei 500 Gramm importierten Rib-Eye-Steak und einem feinen Glas Wasser im Ikinari Steakhouse ausklingen. Die Betonung liegt hier auf importiert, denn nur das lokale Fleisch aus Japan, wie zum Beispiel Kobe- oder Wagyu-Rind, ist unendlich teuer.
 
 <!--more-->
 
