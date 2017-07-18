@@ -19,7 +19,7 @@ published: true
 
 ## Tag 4 - Escape Tokyo
 
-Ausgeruht ging es mit dem Zug zu unserem ersten Tagesausflug: In die Stadt Kamakura. Kamakura ist ein grüner, ruhiger Ort in der Präfektur Kanagawa außerhalb von Tokio (ca. 50 km).
+Ausgeruht ging es mit dem Zug zu unserem ersten Tagesausflug: In die kleine Stadt Kamakura. Kamakura ist ein grüner, ruhiger Ort in der Präfektur Kanagawa außerhalb von Tokio (ca. 50 km).
 
 <figure class="alignleft">
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35847047161/in/album-72157686182142915/" title="Kyorai-an"><img src="https://farm5.staticflickr.com/4308/35847047161_9e381b8bc9_m.jpg" width="240" height="160" alt="Kyorai-an"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
