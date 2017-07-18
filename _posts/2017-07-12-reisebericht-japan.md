@@ -17,6 +17,10 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 5 - Hakone: Irgendwo im Nirgendwo
+
+... und es regnet, mehr dazu später.
+
 ## Tag 4 - Escape Tokyo
 
 Ausgeruht ging es mit dem Zug zu unserem ersten Tagesausflug: In die kleine Stadt Kamakura. Kamakura ist ein grüner, ruhiger Ort in der Präfektur Kanagawa außerhalb von Tokio (ca. 50 km).
