@@ -17,6 +17,36 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 4 - Escape Tokyo
+
+Ausgeruht ging es mit dem Zug zu unserem ersten Tagesausflug: In die Stadt Kamakura. Kamakura ist ein grüner, ruhiger Ort in der Präfektur Kanagawa außerhalb von Tokio (ca. 50 km).
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35847047161/in/album-72157686182142915/" title="Kyorai-an"><img src="https://farm5.staticflickr.com/4308/35847047161_9e381b8bc9_m.jpg" width="240" height="160" alt="Kyorai-an"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Viel hatte der Bahnhof vom Kamakura-Kita nicht zu bieten. Es gab zwei Bahnsteige, die obligatorischen blinkenden Getränkeautomaten und eine kleine Bahnhofshalle mit Fahrkartenbuchte. Den Magen bereits in den Kniekehlen, ging es zu allererst ganz Jäger- und Sammler-Manier auf Nahrungssuche. Unscheinbar und von außen nicht als solches zu erkennen führte uns unser Weg in ein kleines japanisches Restaurant mit dem klangvollen Namen Kyorai-an. Hier gab es einen köstlichen Rindereintopf, der uns traditionell auf einem Tatami-Flor, auf dem Boden sitzend, serviert wurde. Der Eintopf war unglaublich lecker und teuer. Umgerechnet 25 Euro pro Nase hat das ganze zu Buche geschlagen, Japan ist eben ein sehr teures Land und alle Gerichte mit Fleisch (außer Hühnchen) sowieso. Die junge, nette Kellnerin und wahrscheinlich Tochter des Hauses, fragte uns im Laufe unserer Aufenthaltes nach unserem Herkunftsland. Dabei stellte sich heraus, dass sie einige Zeit in Deutschland gelebt und sogar in Berlin gearbeitet hatte. Das Eis war nun gebrochen, zum Abschied stand die ganze anwesende Familie Spalier, winkte uns, und freute sich völlig euphorisch als wir uns in der Landessprache für das leckere Essen bedankten und uns verabschiedeten.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35847045641/in/album-72157686182142915/" title="Beef Stew at Kyorai-an"><img src="https://farm5.staticflickr.com/4300/35847045641_21fa0a6ce1_z.jpg" width="640" height="427" alt="Beef Stew at Kyorai-an"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35847052851/in/album-72157686182142915/" title="Kōtoku-in"><img src="https://farm5.staticflickr.com/4305/35847052851_1d1b326f7b_m.jpg" width="160" height="240" alt="Kōtoku-in"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Gestärkt ging es nun zu dem eigentlichen Programmpunkt des Tages: Wandern. Und was braucht man so zum Wandern? Richtig einen Wanderweg. Den zu finden war etwas kompliziert und wir haben uns heillos verlaufen. Aber der Umweg von ca. 40 Minuten wäre gar nicht so schlimm gewesen, wenn es nicht schon wieder 34 Grad im Schatten gehabt hätte. Der Ausblick, die Landschaft, die Flora und Fauna, das alles war schon etwas Besonderes und genau nach unserem Geschmack. Nach einer kleinen Pause, in einem plötzlich auftauchenden hübschen Café mitten im Wald, war dann auch der Ende des Wanderwegs nach ca. 2 Stunden aufeinmal ganz nah. Das Ende des Wanderweges markiert der buddhistische Tempel Kōtoku-in. Er beherbergt den Großen Buddha (jap. 大仏 daibutsu). Nunja wir haben ja in Thailand bereits Erfahrungen mit großen Buddha's gemacht und der Daibutsu kommt aufjedenfall unter die Top 3.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35847054721/in/album-72157686182142915/" title="Kōtoku-in"><img src="https://farm5.staticflickr.com/4324/35847054721_038099d87a_z.jpg" width="640" height="427" alt="Kōtoku-in"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Nach wohlverdienter Pause, mehreren High-Fives und einem kleinen Bummel im Souvenirshop, ging es auch schon schnellen Schrittes zurück zum Bahnhof "Hase" und über Kamakura zurück nach Shinjuku.
+
+Wir ließen den Abend bei 500 Gramm importierten Rib-Eye-Steak und einem feinen Glas Wasser im Ikinari Steakhouse ausklingen. Die Betonung liegt hier auf importiert, denn nur das lokale Fleisch aus Japan ist unendlich teuer.
+
+<!--more-->
+
 ## Tag 3 - Tokyo: Electrifying City
 
 Eigentlich stand heute ein Tagesauflug zum Berg Takao-san, dem Hausberg Tokyo's, an. Da uns Tokyo aber gestern völlig erschöpft zurückgelassen hat, wollten wir es heute ruhig angehen lassen - nunja das war zumindest der Plan. Wir haben unseren Tag da begonnen, wo er gestern aufgehört hat: 
@@ -44,8 +74,6 @@ Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo
 </figure>
 
 Der Blick vom Strand, an dem gerade tausende kleine Teelichter brannten, war sehr romantisch und lud zum verweilen ein. Die Energie, die wie dort getankt haben, brauchten wir auch, denn gefühlt alle Japaner wollten zur selben Zeit wieder Richtung Tokyo, was soviel wie 30 Minuten stehen in der Kühlschrank-Bahn bedeutete. Da war die Ruhe und Gelassenheit schlagartig wieder weg und Tokyo hat uns wiedereinmal total fertig am Hotel ausgekotzt.
-
-<!--more-->
 
 ## Tag 2 - Tokyo: Biosauna inklusive
 
