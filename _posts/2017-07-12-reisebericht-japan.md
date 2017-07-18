@@ -19,7 +19,7 @@ published: true
 
 ## Tag 5 - Hakone: Irgendwo im Nirgendwo
 
-... und es regnet, mehr dazu später.
+... und es regnet, mehr dazu später (solange könnt ihr euch ja die Zeit mit dem etwas verspäteten Tag 4 vertreiben).
 
 ## Tag 4 - Escape Tokyo
 
