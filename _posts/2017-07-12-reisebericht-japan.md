@@ -31,6 +31,8 @@ Da es draußen immer noch in strömen regnete, verbrachten wir den Nachmittag ga
 
 Am späten Abend habe ich dann als mein persönliches Highlight des Tages, noch ein im Hotel gelegenen, traditionell japanischen Onsen besucht. Ein Onsen (jap. 温泉, heißes Wasser) ist die japanische Bezeichnung für eine heiße Quelle. Klingt erstmal gar nicht so spektakulär, ist es prinzipiell auch nicht. Stellt euch einfach einen 45 Grad heißen Whirlpool ohne Blubberblasen vor, der aus einer natürlichen (in diesem Fall sehr schwefelhaltigen) heißen Quelle gespeist wird. Natürlich geht entspannen in Japan nicht einfach so, zumindest nicht ohne den japanischen Reinheitskult zu (durch)leben. Waschritual und zwar gründlichst, ja nichts irgendwo verschmutzen und Gott bewahre das Onsenwasser nicht mit Seifenrückständen verunreinigen. Das war schon ein Erlebnis und auch wirklich sehr entspannend, aber mit dem ganzen Drumherum kann ich einfach nicht viel anfangen.
 
+<!--more-->
+
 ## Tag 4 - Escape Tokyo
 
 Ausgeruht ging es mit dem Zug zu unserem ersten Tagesausflug: In die kleine Stadt Kamakura. Kamakura ist ein grüner, ruhiger Ort in der Präfektur Kanagawa außerhalb von Tokyo (ca. 50 km).
@@ -58,8 +60,6 @@ Gestärkt ging es nun zu dem eigentlichen Programmpunkt des Tages: Wandern. Und 
 Nach wohlverdienter Pause, mehreren High-Fives und einem kleinen Bummel im Souvenirshop, ging es auch schon schnellen Schrittes zurück zum Bahnhof "Hase" und über Kamakura zurück nach Shinjuku.
 
 Wir ließen den Abend bei 500 Gramm importierten Rib-Eye-Steak und einem feinen Glas Wasser im Ikinari Steakhouse ausklingen. Die Betonung liegt hier auf importiert, denn nur das lokale Fleisch aus Japan, wie zum Beispiel Kobe- oder Wagyu-Rind, ist unendlich teuer.
-
-<!--more-->
 
 ## Tag 3 - Tokyo: Electrifying City
 
