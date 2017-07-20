@@ -20,7 +20,7 @@ published: true
 ## Tag 6 - Faule Eier
 
 <figure class="alignright">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35215362063/in/album-72157686182142915/" title="Cabletrain Hakone"><img src="https://farm5.staticflickr.com/4293/35215362063_332b2298e3_z.jpg" width="427" height="640" alt="Cabletrain Hakone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35215362063/in/album-72157686182142915/" title="Cabletrain Hakone"><img src="https://farm5.staticflickr.com/4293/35215362063_332b2298e3_m.jpg" width="160" height="240" alt="Cabletrain Hakone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Nach einer sehr erholsamen und vor allem ruhigen Nacht in Hakone, kamen wir an diesem Morgen in den Genuss eines Buffet-Frühstücks im Hotel. Das Buffet war recht überschaubar und voll auf japanische Gäste abgestimmt. Nunja jetzt weiß ich zumindest, dass ich auch japanisches Frühstück nicht mag. Nach dem Frühstück war es schon wieder an der Zeit unsere Sachen zu packen, denn wir hatten nur eine Nacht in Hakone gebucht. Wir ließen unser Gepäck an der Rezeption, um bis zum Nachmittag die Gegend zu erkunden, denn das Wetter zeigte sich heute von seiner Sonnenseite. Geplant war ein Ausflug auf den 1.438 Meter hohen Mount Hakone (jap. 箱根山 Hakoneyama). Der Berg ist ein noch aktiver Vulkan, der über eine Seilbahn zu erreichen ist. Bis zur Talstation der Seilbahn, mussten wir aber ersteinmal mit der Kabelbahn den Ort hinauf fahren.
