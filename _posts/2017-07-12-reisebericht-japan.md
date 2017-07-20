@@ -17,6 +17,27 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 6 - Faule Eier
+
+Nach einer sehr erholsamen und vor allem ruhigen Nacht in Hakone, kamen wir an diesem Morgen in den Genuss eines Buffet-Frühstücks im Hotel. Das Buffet war recht überschaubar und voll auf japanische Gäste abgestimmt. Nunja jetzt weiß ich zumindest, dass ich auch japanisches Frühstück nicht mag. Nach dem Frühstück war es schon wieder an der Zeit unsere Sachen zu packen, denn wir hatten nur eine Nacht in Hakone gebucht. Wir ließen unser Gepäck an der Rezeption, um bis zum Nachmittag die Gegend zu erkunden, denn das Wetter zeigte sich heute von seiner Sonnenseite. Geplant war ein Ausflug auf den 1.438 Meter hohen Mount Hakone (jap. 箱根山 Hakoneyama). Der Berg ist ein noch aktiver Vulkan, der über eine Seilbahn zu erreichen ist. Bis zur Talstation der Seilbahn, mussten wir aber ersteinmal mit der Kabelbahn den Ort hinauf fahren.
+
+An der Talstation angekommen, kauften wir uns Tickets für eine Fahrt auf den Berg und auf der anderen Bergseite hinunter zum Lake Ashi. Es waren vorwiegend japanische Touristen unterwegs und das zum Glück auch nicht in riesigen Reisegruppen, sodass wir schnell eine Gondel besteigen konnten. Die Aussicht genießend und erwartungsvoll Richtung Gipfel schauned hatten wir Zeit für ein paar schöne Fotos der Umgebung. Dann fuhr unsere Gondel über den von unten noch nicht zu erkennenden Kraterrand des Vulkans und gab den Blick auf die Schwefelfelder frei. In rauen Mengen dampfte hier Schwefel aus Erdspalten und ließ durch die dabei entstehenden Ablagerungen weite Teile des Kraters in Gelb-Braun leuchten.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35215401613/in/album-72157686182142915/" title="Mount Hakone Schwefelfelder"><img src="https://farm5.staticflickr.com/4329/35215401613_8570bcd463_z.jpg" width="640" height="427" alt="Mount Hakone Schwefelfelder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+  
+ <figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35215425283/in/album-72157686182142915/" title="Schwarzes Hello Kitty Ei"><img src="https://farm5.staticflickr.com/4314/35215425283_1deabf7758_m.jpg" width="240" height="160" alt="Schwarzes Hello Kitty Ei"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Jetzt wussten wir auch warum wir beim Einstieg feuchte nach Zitrus riechende Tücher bekommen hatten. Der ganze Berg stank aufgrund des Schwefels nach faulen Eiern. An der Gipfelstation angekommen nahmen wir uns etwas Zeit um uns umzuschauen, schließlich sieht man ja nicht alle Tage einen aktiven Vulkan. Danach fuhren wir mit der Seilbahn hinab zum weitläufigen Lake Ashi, der sich zwischen den bewachsenen Bergen von Hakone entlangschlängelt. Viel Zeit hatten wir nicht den Lake Ashi zu erkunden, denn am Nachmittag war es Zeit in das 400 Kilometer entfernte Kyoto, dem nächsten großen Zwischenstopp unserer Reise, aufzubrechen. Zurück im Hotel mussten wir den Weg, den wir gestern von der Bushaltestelle nur bergab gelaufen sind, nun bergauf laufen. Das brachte unseren Kreislauf so richtig auf Touren. In Odawara angekommen war die Zeit nun richtig knapp, wir hatten nur noch vier Minuten Zeit um unseren Superexpress Shinkansen nach Kyoto zu erwischen und keinen Schimmer wo genau der Abfährt. Anni hatte die richtige Intuition und so schafften wir es wirklich noch in aller letzter Sekunde in den Zug zu sprinten als auch schon die Türen zugingen. Puh das war echt richtig knapp, wir versicherten uns nochmal ob wir auch wirklich den richtigen Zug erwischt hatten und machten es uns für die ca. dreitündige Fahrt bequem. Mit dem Shinkansen zu fahren ist wirklich ein Erlebnis für sich, die Landschaft rast mit 250 km/h an einem vorbei und man spürt im Zug davon fast nichts.
+
+<iframe src="https://player.vimeo.com/video/226164540" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/226164540">Tokaido-Sanyo Superexpress Shinkansen</a> from <a href="https://vimeo.com/chillyistkult">Benjamin Schuch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Wir kamen erst am Abend in Kyoto an und waren direkt erstaunt über den Platz und die entspannte Atmossphäre, den die Stadt ausstrahlte. Was wir an unserem ersten Tag in Kyoto so erlebt haben und ob sich unser erster Eindruck bestätigt hat erfahrt ihr dann Morgen.
+
 ## Tag 5 - Hakone: Irgendwo im Nirgendwo
 
 Ein neuer Tag, ein neues Abenteuer. Heute brachen wir unsere Zelte in Tokyo ab und machten uns auf den Weg nach Hakone. Hakone (jap. 箱根町, -machi) ist eine Kleinstadt und liegt knapp 100 Kilometer außerhalb von Tokyo, im gebirgigen Vorland des Fujisan, inmitten des Fuji-Hakone-Izu-Nationalparks. Gebirgiges Vorland bedeutet für uns, dass wir uns nicht nur auf die sehr zuverlässige Bahn in Japan verlassen können, sondern das erste mal Bus fahren müssen, um unser Ziel, das Hotel [Laforet Club Hakone](https://www.booking.com/hotel/jp/laforet-club-gora-hakone-yunosumika.de.html?aid=1269594), zu erreichen. Das hat aber erstaunlich einfach funktioniert, da sich an den meisten größeren Bahnhöfen Touristeninformationsschalter befinden. Dort erkennt man quasi schon an der Gangart und dem hilflosen Innehalten, woher man kommt und wohin man will. 
