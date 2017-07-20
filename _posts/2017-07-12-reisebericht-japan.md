@@ -38,6 +38,8 @@ Jetzt wussten wir auch warum wir beim Einstieg feuchte nach Zitrus riechende Tü
 
 Wir kamen erst am Abend in Kyoto an und waren direkt erstaunt über den Platz und die entspannte Atmossphäre, den die Stadt ausstrahlte. Was wir an unserem ersten Tag in Kyoto so erlebt haben und ob sich unser erster Eindruck bestätigt hat erfahrt ihr dann Morgen.
 
+<!--more-->
+
 ## Tag 5 - Hakone: Irgendwo im Nirgendwo
 
 Ein neuer Tag, ein neues Abenteuer. Heute brachen wir unsere Zelte in Tokyo ab und machten uns auf den Weg nach Hakone. Hakone (jap. 箱根町, -machi) ist eine Kleinstadt und liegt knapp 100 Kilometer außerhalb von Tokyo, im gebirgigen Vorland des Fujisan, inmitten des Fuji-Hakone-Izu-Nationalparks. Gebirgiges Vorland bedeutet für uns, dass wir uns nicht nur auf die sehr zuverlässige Bahn in Japan verlassen können, sondern das erste mal Bus fahren müssen, um unser Ziel, das Hotel [Laforet Club Hakone](https://www.booking.com/hotel/jp/laforet-club-gora-hakone-yunosumika.de.html?aid=1269594), zu erreichen. Das hat aber erstaunlich einfach funktioniert, da sich an den meisten größeren Bahnhöfen Touristeninformationsschalter befinden. Dort erkennt man quasi schon an der Gangart und dem hilflosen Innehalten, woher man kommt und wohin man will. 
@@ -51,8 +53,6 @@ Es hat gerade angefangen kräftig zu regnen, als wir es uns im Bus gemütlich ge
 Da es draußen immer noch in strömen regnete, verbrachten wir den Nachmittag ganz gemütlich bei Tee, einem Buch und Serien (wer feiert die siebte Staffel Game of Thrones auch gerade so wie ich?). Aber irgendwann müssen auch die willenstärksten Jäger und Sammler wieder auf Nahrungssuche gehen und in dieser Hinsicht war Hakone an diesem Abend einfach unser Endgegner. Jedes von den gefühlt vielleicht zehn Restaurants in der Stadt hat am Dienstag einfach mal Ruhetag. Was ja auch kein Problem wäre, wenn man es vorher irgendwo lesen könnte und nicht eine Stunde auf und ab durch den Ort marschieren müsste, um diese Erkenntnis zu erlangen. Meine Laune war den ganzen Urlaub noch nie so mies und fast wollten wir uns aus lauter Frust und Hunger schon das 50 Euro Abendessen im Hotel gönnen. Aber der Sparfuchs in mir fand mit den allerletzten Reserven doch noch ein kleines japanisches Restaurant. Um es kurz zu machen: Es war sehr preiswert, aber ich hasse japanisches Essen.
 
 Am späten Abend habe ich noch - als mein persönliches Highlight des Tages - ein im Hotel gelegenen, traditionell japanischen, Onsen besucht. Ein Onsen (jap. 温泉, heißes Wasser) ist die japanische Bezeichnung für eine heiße Quelle. Klingt erstmal gar nicht so spektakulär, ist es prinzipiell auch nicht. Stellt euch einfach einen 45 Grad heißen Whirlpool ohne Blubberblasen vor, der aus einer natürlichen (in diesem Fall sehr schwefelhaltigen) heißen Quelle gespeist wird. Natürlich geht entspannen in Japan aber nicht einfach so, zumindest nicht ohne den japanischen Reinheitskult zu (durch)leben. Waschritual und zwar gründlichst, ja nichts irgendwo verschmutzen und Gott bewahre das Onsenwasser nicht mit Seifenrückständen verunreinigen. Das war schon ein Erlebnis und auch wirklich sehr entspannend, aber mit dem ganzen Drumherum kann ich einfach nicht viel anfangen.
-
-<!--more-->
 
 ## Tag 4 - Escape Tokyo
 
