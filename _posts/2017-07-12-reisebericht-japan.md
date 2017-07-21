@@ -43,6 +43,8 @@ Am Yasaka Tempel angekommen staunten wir nicht schlecht über die wirklich schö
 
 Jetzt wurde es langsam höchste Zeit fürs Abendessen und da etwas preiswertes und essbares zu finden, ist in Japan eine Katastrophe. Die Restaurants die gut bewertet und bezahlbar sind, sind immer prall gefüllt und nur über Wartelisten zu betreten. Das nervt tierisch, weil ein gutes und preiswertes Abendessen schon viel zum Abschluss eines sonst wirklich schönen Tages beigetragen hätte. Wir sind am Ende in einem japanischen Barbecue-Restaurant gelandet. Hier gibt es verschiedene Sorten rohes Fleisch und Beilagen auf einem Teller, das man sich dann auf einem Gasgrill selber zubereitet (quasi wie Raclette). Versteht mich nicht falsch, das Fleisch war wirklich gut und auch die Auswahl an verschiedensten Fleischsorten mehr als ausreichend, aber die Portionen sind für die Preise einfach immer zu klein und am Ende ist man jedesmal mindestens 50 Euro los (für zwei Personen). Wir ahnen schon, dass das in den nächsten Tagen noch zu einem größeren Problem werden könnte.
 
+<!--more-->
+
 ## Tag 6 - Faule Eier
 
 <figure class="alignright">
@@ -66,8 +68,6 @@ Jetzt wussten wir auch warum wir beim Einstieg feuchte nach Zitrus riechende Tü
 <iframe src="https://player.vimeo.com/video/226164540?color=E63946&portrait=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Wir kamen erst am Abend in Kyoto an und waren direkt erstaunt über den Platz und die entspannte Atmossphäre, den die Stadt ausstrahlte. Was wir an unserem ersten Tag in Kyoto so erlebt haben und ob sich unser erster Eindruck bestätigt hat erfahrt ihr dann Morgen.
-
-<!--more-->
 
 ## Tag 5 - Hakone: Irgendwo im Nirgendwo
 
