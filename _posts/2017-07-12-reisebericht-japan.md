@@ -17,6 +17,32 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 7 - Kyoto: Die Stadt der Tempel und Geishas
+
+Endlich mal wieder richtig ausschlafen. Nach dem riesigen Hotelzimmer in Hakone haben wir in Kyoto wieder ein für Japan übliches Minizimmer bezogen. Das muss aber nicht negativ, wir haben in unserem Hotel Gran Ms Kyoto trotzdem alles was wir brauchen und weil das Zimmer so klein ist müssen wir nicht mal aufstehen, um an den Kühlschrank zu kommen. Der Tag begann für uns etwas später, da wir gestern Abend noch durch die Straßen Kyoto's gebummelt sind. Und auch bei Tag bestätigt sich unser Eindruck von Kyoto: Im Vergleich zu Tokyo ist die Stadt fast schon familiär. Breite Gehwege, Bäume an den Straßen, Bachläufe und Flüsse und nur wenige Hochhäuser, um nur mal die offensichtlichsten Unterschiede zu nennen. 
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35678274750/in/album-72157686182142915/" title="Kamo River"><img src="https://farm5.staticflickr.com/4324/35678274750_1c2038e9e9_z.jpg" width="640" height="427" alt="Kamo River"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Kyoto ist eine der geschichtlich und kulturell bedeutendsten Städte Japans und so bot es sich an am ersten Tag die Tempel und Schreine der Stadt zu besuchen. Da wir möglichst viel von der Umgebung sehen wollten, entschieden wir uns auf U-Bahn oder Bus zu verzichten und möglichst alle Strecken zu Fuß zu gehen. Unser Hotel liegt nahe dem Ausgehviertel Gion, das zwischen uns und den unzähligen Tempeln im Osten der Stadt liegt. Überall hängen Laternen an den Häusern und Geschäften und man begnet sehr oft Japaner, die in traditionellen Kimonos durch die Straßen flanieren. Da kommt schon echtes Japanfeeling auf. Auch den ein oder anderen Blick auf eine Geisha konnten wir erhaschen, die aufgrund ihrer weißen Gesichter nur unschwer zu erkennen sind.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35678268240/in/album-72157686182142915/" title="Yasaka Tempel"><img src="https://farm5.staticflickr.com/4291/35678268240_c96c79dde0_z.jpg" width="640" height="427" alt="Yasaka Tempel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Am Yasaka Tempel angekommen staunten wir nicht schlecht über die wirklich schön angelegten Gärten und die sehr gepflegte Anlage. Was den kulturellen Mehrwert angeht: Wir haben keine Ahnung und interessieren uns ehrlich gesagt auch mehr für die Architektur und die Atmossphäre. Man kann unser Vorhaben vielleicht am ehesten als Tempelhopping beschreiben: Hier und da ein paar schöne Fotos, eine kurze Pause und dann weiter zum nächsten Tempel spazieren. Da kommt man schonmal auf 25.000 Schritte am Tag. Unsere letzte Station war der Tempel Nanzen-ji, der im Abendlicht ein wirklich wunderbares Fotomotiv abgab. Der eindrucksvolle mehrstöckige Eingang, getragen von dicken Baumstämmen und auf einem Sockel gebaut war schon ein imposanter Anblick. Wir haben auch hier ausgiebig das Gelände erkundet und einen ausgedehnten Spaziergang durch die weitläufige Anlage und dem angrenzenten Wald genossen. 
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35678269630/in/album-72157686182142915/" title="Eingang Nanzen-ji Tempel"><img src="https://farm5.staticflickr.com/4311/35678269630_bc0f9e1c2c_z.jpg" width="640" height="427" alt="Eingang Nanzen-ji Tempel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35678278510/in/album-72157686182142915/" title="Japanese BBQ"><img src="https://farm5.staticflickr.com/4291/35678278510_a5ab855593_m.jpg" width="240" height="160" alt="Japanese BBQ"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Jetzt wurde es langsam höchste Zeit fürs Abendessen und da etwas preiswertes und essbares zu finden, ist in Japan eine Katastrophe. Die Restaurants die gut bewertet und bezahlbar sind, sind immer prall gefüllt und nur über Wartelisten zu betreten. Das nervt tierisch, weil ein gutes und preiswertes Abendessen schon viel zum Abschluss eines sonst wirklich schönen Tages beigetragen hätte. Wir sind am Ende in einem japanischen Barbecue-Restaurant gelandet. Hier gibt es verschiedene Sorten rohes Fleisch und Beilagen auf einem Teller, das man sich dann auf einem Gasgrill selber zubereitet (quasi wie Raclette). Versteht mich nicht falsch, das Fleisch war wirklich gut und auch die Auswahl an verschiedensten Fleischsorten mehr als ausreichend, aber die Portionen sind für die Preise einfach immer zu klein und am Ende ist man jedesmal mindestens 50 Euro los (für zwei Personen). Wir ahnen schon, dass das in den nächsten Tagen noch zu einem größeren Problem werden könnte.
+
 ## Tag 6 - Faule Eier
 
 <figure class="alignright">
