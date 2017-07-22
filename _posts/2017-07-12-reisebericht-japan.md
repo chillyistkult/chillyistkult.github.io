@@ -17,6 +17,28 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 8 - Ausflug nach Arashiyama
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36027303296/in/album-72157686182142915/" title="Sagakamenoocho"><img src="https://farm5.staticflickr.com/4328/36027303296_fe005d0973_m.jpg" width="240" height="160" alt="Sagakamenoocho"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  </figure>
+
+Abwechslung wird bei uns groß geschrieben und so ging es heute mal wieder etwas weiter raus in den Außenbezirk Arashiyama. Mit einer kleinen Bimmelbahn, die wohl am ehesten mit einer Tram in Berlin zu vergleichen ist, fuhren wir gemächlich Richtung Endhaltestelle Arashiyama. Es war wiedereinmal brütend heiß und am Bahnhof wurde deshalb mit Hilfe von ein paar Gartenschläuchen Sprühregen simuliert, um vor allem den Touristen wenigstens ein bisschen Abkühlung zu verschaffen. Auch die Gehwege wurden mit Gießkannen bewässert um zumindest die Hitze, die vom Asphalt ausging, zu reduzieren. Half aber alles nichts, zwei Minuten in der prallen Sonne und man war reif für eine Abkühlung in einem der zahlreichen Souvenirshops. Die ein oder andere "Ich will hier mal schnell reingucken"-Unterbrechung in Kauf nehmend, nahmen wir also Ziel auf die erste Sehenswürdigkeit, die Holzbrücke Togetsukyō. Wir wissen nicht genau wie alt die Brücke ist, aber ein paar hundert Jahre aufjedenfall. Die Brücke überspannt den Katsura River auf einer Länge von schätzungsweise 200 Meter und gibt mit dem Mount Arashiyama im Hintergrund ein malerisches Fotomotiv ab.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36027295646/in/album-72157686182142915/" title="Katsura River"><img src="https://farm5.staticflickr.com/4304/36027295646_ba85b3639f_z.jpg" width="640" height="427" alt="Katsura River"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Die Brücke überquert, hätten wir die Gelegenheit gehabt gegen Geld ein paar wild lebende Affen zu bestaunen. Da wir das in Thailand aber schon zu genüge und obendrein auch noch kostenlos getan haben, entschieden wir uns stattdessen für einen Spaziergang entlang des Flusses. Trotz der Hitze ist es in Japan gerade sehr feucht und so überstrahlt jeder Baum den anderen mit einem noch kräftigeren Grünton. Und eines muss man den Japanern auch mal lassen, egal welche Wege man nimmt, alles ist immer top gepflegt und aller paar hundert Meter gibt es die millionenfach in Japan verteilten Getränkeautomaten. Nachdem wir uns am Fluss satt gesehen hatten, ging es weiter zu einem Bambuswald. Ich weiß ja nicht wie es euch geht, aber ich hatte mir Bambus immer als schilfartiges Gewächs vorgestellt, das vielleicht zwei bis drei Meter hoch wird, aber nicht als Baum der zehn Meter und höher wächst. Wieder etwas gelernt: Bambusbäume wachsen offensichtlich so hoch und dazu noch viel dichter und ohne all das Unterholz, dass man aus unseren Wäldern so kennt. Durch die dicht an dicht stehenden Bambusbäume drang kaum Licht in den Wald ein und so hatte man auf dem Weg das Gefühl, wie in einem Tunnel zu laufen. Am Ende des Waldes angekommen nahmen wir einen großzügigen Umweg durch eine weitläufige Gartenanlage zurück zum Bahnhof. Das war ein wirklich gelungener Halbtagesausflug!
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36068004095/in/album-72157686182142915/" title="Bambuswald"><img src="https://farm5.staticflickr.com/4316/36068004095_c0574bf26d_z.jpg" width="640" height="427" alt="Bambuswald"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Zurück in Kyoto Downtown mussten wir uns aber jetzt wieder ernsthaften Problemen widmen: Abendessen stand auf dem Programm. In unseren bisherigen Urlauben freuten wir uns eigentlich immer auf diesen Programmpunkt, aber in Japan macht sich bei dem Thema echter Frust breit. Egal wie lange man vorher auf Tripadvisor und Co recherchiert, am Ende sind die bei den Touristen beliebten Restaurants total überfüllt und der Rest unheimlich teuer. Will man günstig essen, bleibt einem fast nur noch Fastfood als Alternative, was auf Dauer leider ziemlich deprimierend ist. Auch an diesem Abend sind wir ewig weit gelaufen für ein zugegebenermaßen ganz solides Rumpsteak mit Pommes, von dem ich hätte aber drei Portionen gebraucht um satt zu werden. Ich glaube wir hätten unser Essensbudget einfach viel großzügiger kalkulieren müssen...
+
+<!--more-->
+
 ## Tag 7 - Kyoto: Die Stadt der Tempel und Geishas
 
 Endlich mal wieder richtig ausgeschlafen. Nach dem riesigen Hotelzimmer in Hakone haben wir in Kyoto wieder ein für Japan übliches Minizimmer bezogen. Das muss aber nicht negativ sein, denn wir haben in unserem Hotel [Gran Ms Kyoto](https://www.booking.com/hotel/jp/gran-ms-kyoto.de.html?aid= 1269594) trotzdem alles was wir brauchen und weil das Zimmer so klein ist, müssen wir nicht mal aufstehen, um an den Kühlschrank zu kommen. Der Tag begann für uns etwas später, da wir gestern Abend noch durch die Straßen Kyoto's gebummelt sind. Aber auch bei Tag bestätigt sich unser Eindruck von Kyoto: Im Vergleich zu Tokyo ist die Stadt fast schon familiär. Breite Gehwege, Bäume an den Straßen, Bachläufe und Flüsse und nur wenige Hochhäuser, um nur mal die offensichtlichsten Unterschiede zu nennen. 
@@ -42,8 +64,6 @@ Am Yasaka Tempel angekommen staunten wir nicht schlecht über die wirklich schö
 </figure>
 
 Jetzt wurde es langsam höchste Zeit fürs Abendessen und da etwas preiswertes und essbares zu finden, ist in Japan eine Katastrophe. Die Restaurants die gut bewertet und bezahlbar sind, sind immer prall gefüllt und nur über Wartelisten zu betreten. Das nervt tierisch, weil ein gutes und preiswertes Abendessen schon viel zum Abschluss eines sonst wirklich schönen Tages beigetragen hätte. Wir sind am Ende in einem japanischen Barbecue-Restaurant gelandet. Hier gibt es verschiedene Sorten rohes Fleisch und Beilagen auf einem Teller, das man sich dann auf einem Gasgrill selber zubereitet (quasi wie Raclette). Versteht mich nicht falsch, das Fleisch war wirklich gut und auch die Auswahl an verschiedensten Fleischsorten mehr als ausreichend, aber die Portionen sind für die Preise einfach immer zu klein und am Ende ist man jedesmal mindestens 50 Euro los (für zwei Personen). Wir ahnen schon, dass das in den nächsten Tagen noch zu einem größeren Problem werden könnte.
-
-<!--more-->
 
 ## Tag 6 - Faule Eier
 
