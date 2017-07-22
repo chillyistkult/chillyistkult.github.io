@@ -17,7 +17,7 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
-## Tag 8 - Ausflug nach Arashiyama
+## Tag 8 - Stadt, Bambus, Fluss
 
 Abwechslung wird bei uns groß geschrieben und so ging es heute mal wieder etwas weiter raus in den Außenbezirk Arashiyama. Mit einer kleinen Bimmelbahn, die wohl am ehesten mit einer Tram in Berlin zu vergleichen ist, fuhren wir gemächlich Richtung Endhaltestelle Arashiyama. Es war wiedereinmal brütend heiß und am Bahnhof wurde deshalb mit Hilfe von ein paar Gartenschläuchen Sprühregen simuliert, um vor allem den Touristen wenigstens ein bisschen Abkühlung zu verschaffen. Auch die Gehwege wurden mit Gießkannen bewässert um zumindest die Hitze, die vom Asphalt ausging, zu reduzieren. Half aber alles nichts, zwei Minuten in der prallen Sonne und man war reif für eine Abkühlung in einem der zahlreichen Souvenirshops. Die ein oder andere "Ich will hier mal schnell reingucken"-Unterbrechung in Kauf nehmend, nahmen wir also Ziel auf die erste Sehenswürdigkeit, die Holzbrücke Togetsukyō. Wir wissen nicht genau wie alt die Brücke ist, aber ein paar hundert Jahre aufjedenfall. Die Brücke überspannt den Katsura River auf einer Länge von schätzungsweise 200 Meter und gibt mit dem Mount Arashiyama im Hintergrund ein malerisches Fotomotiv ab.
 
