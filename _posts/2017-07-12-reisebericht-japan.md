@@ -17,6 +17,36 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 9 - Von Burgen und Bahnhöfen
+
+Unser dritter Tag in Kyoto stand wiedereinmal ganz im Zeichen von Sightseeing. Wahrscheinlich würde man mehrere Wochen damit verbringen jede Sehenswürdigkeit in Kyoto zu besuchen, aber unsere Zeit ist leider begrenzt und so müssen wir Prioritäten setzen. Auf unserer Liste sind noch ein paar wirklich lohnenswerte Ausflugsziele und so ging es nach einem ausgiebigen Mittagessen beim Ikinari Steakhouse um die Ecke Richtung Innenstadt, um die Burg Nijo zu besuchen. Aber halt, Ikinari Steakhouse? Um die Ecke? Und das, wo wir uns zwei Tage in Folge über das Essen beschweren? Auch wenn Ikinari vielleicht nicht unbedingt für ausgewogenes Essen steht, war es in Tokyo bereits zweimal unser Abendretter. Das wir die Filiale von Ikinari in Kyoto, die quasi direkt vor unserem Hotel liegt, nicht entdeckt haben, ist uns selbst ein Rätsel. Aber was solls: Endlich mal wieder so richtig lecker und preiswert satt gegessen. 
+
+Nun aber zurück zur Burg Nijo, an der wir mit prall gefüllten Bäuchen und glücklichen Gesichtern angekommen sind. Wer sich japanische Burgen, wie unsere europäischen Burgen vorstellt, liegt schonmal gar nicht so weit daneben. Es gibt Burgmauern, Burggräben, Türme, Ställe, Kasernen und natürlich den Sitz des Burgherren - in Japan waren das vor ein paar hundert Jahren die Shoguns. Wir wanderten also durch die grünen Gärten der Burganlage Richtung Residenz des Shoguns (nachfolgend als Holzhütte bezeichnet). Im Vergleich zu unseren mittelalterlichen Burgen, setzten die Japaner vor ein paar hundert Jahren viel auf den Rohstoff Holz. Quasi alles vom Sockel der Gebäude aufwärts ist aus Holz oder anderen leichteren Naturstoffen gefertigt. Am Eingang der Holzhütte mussten wir erstmal unsere Schuhe ausziehen, denn von hier aus ging es nur noch Barfuß oder in Socken weiter. Irgendwas anfassen, Fotos oder Videos aufnehmen, Trinken, Essen, Husten oder Stolpern war in der Holzhütte strengstens verboten. Und so marschierte die Schar von Touristen brav einmal über den vorgegebenen Weg an den zahlreichen Räumen der Holzhütte vorbei. Die lassen sich alle recht einfach beschreiben: Reismatten auf den Böden, verschiedene Malereien an den Wänden und ansonsten ziemlich leer. Wir haben nicht in Erfahrung bringen können, ob die Burgherren in Japan vor ein paar hundert Jahren tatsächlich keine Möbel hatten, aber da sich die Verwaltung der Burg sogar die Mühe gemacht hat recht echt wirkendende lebensgroße Puppen in die Räume zu setzen, um zu verdeutlichen, wie das damals wohl so ausgesehen haben mag, gehe ich davon aus, dass Replikate von Möbeln aus der Zeit auch nicht so schwer zu realisieren gewesen wären. Hätten wir uns für ein paar hundert Yen mal einen Audioguide ausgeliehen, der hätte uns da vielleicht mehr drüber erzählt. Die Burgtour führte uns von der Holzhütte weiter zu einer weiteren innereren Befestigungsanlage, die nochmals durch einen Burggraben und Mauern gesichert war und von deren Turm aus wir einen Überblick über die komplette Anlage hatten. Was für eine fabelhafte Aussicht, nur leider hat ein Regentropfen, das vielleicht sonst schönste Foto des Tages vermiest.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246780604/in/album-72157686182142915/" title="Burg Nijo"><img src="https://farm5.staticflickr.com/4320/35246780604_10f701b173_z.jpg" width="640" height="427" alt="Burg Nijo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Nach einer kurzen Pause ging es weiter zum Bahnhof Kyoto. Nicht etwa als Zwischenstopp auf dem Weg zu irgendeinem Tempel, nein der Bahnhof war das Ziel - wir hatten nämlich gelesen, dass der Bahnhof echt sehenswert sein soll. Nachdem wir durch die kilometerlangen unterirdischen Shoppingcenter den Weg in das eigentliche Bahnhofsgebäude gefunden hatten, wussten wir was mit sehenswert gemeint war. Der Bahnhof ist einfach gewaltig und lässt sich am ehesten mit dem Hauptbahnhof in Berlin vergleichen. Mit dem Unterschied, dass der Bahnhof Kyoto eher eine vertikal und nach außen offen angelegte Architektur besitzt, die mich etwas an das Sony Center am Potsdamer Platz erinnerte. 
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246784004/in/album-72157686182142915/" title="Bahnhof Kyoto"><img src="https://farm5.staticflickr.com/4297/35246784004_956c6df18b_z.jpg" width="640" height="427" alt="Bahnhof Kyoto"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246789534/in/album-72157686182142915/" title="Kyoto Tower"><img src="https://farm5.staticflickr.com/4302/35246789534_079e037232_m.jpg" width="240" height="160" alt="Kyoto Tower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Vom Erdgeschoss aus führten Rolltreppen über zehn Etagen hinauf zu den verschiedenen Ebenen des Bahnhofgebäudes. Terassenförmig angelegt konnten man von dort aus das geschäftige Treiben der Bahnhofsvorhalle beobachten. Ab dem sechsten Stock führte eine riesige Treppe, die mich an die Potemkinsche Treppe in Odessa erinnert, hinauf zu einer Gartenanlage im zehnten Stock, die den Namen "Sky Garden" wirklich verdient hat (die Japaner mögen "Sky" als Begriff der Superlative). Vom achten Stockwerk aus führte der "Skyway" unter dem Dach des Bahnhofs entlang zur gegenüberliegenden Seite. Der Ausblick von hier auf Kyoto und den nur ein paar hundert Meter entfernt liegenden Kyoto Tower war wirklich fantastisch - auch wenn es gerade stark angefangen hatte zu regnen. Das war ein schöner Kontrast zu den eher kulturlastigen vergangenen Tagen.
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35269942064/in/album-72157686182142915/" title="50.000 Yen Eisbecher"><img src="https://farm5.staticflickr.com/4321/35269942064_bbe5f0c9b2_n.jpg" width="240" height="320" alt="50.000 Yen Eisbecher"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  </figure>
+
+Am Abend haben wir uns dann noch einen riesigen Eisbecher genehmigt, der einfach mal doppelt soviel Kalorien hatte, wie er Yen gekostet hat. Angezogen hatte uns schon der Eingang des Ladens. In einem großem Schaufenster wurden mehrere Reihen Eisbecher in allen Geschmacksrichtungen oder -verirrungen (Eisbecher mit Schokoladeneis und Pommes) angeboten. Das eigentliche Highlight war aber ein riesiger Eisbottich für sage und schreibe 50.0000 Yen (385 Euro) - Japaner brauchen eben immer und überall ihre Superlativen.   
+
+<!--more-->
+
 ## Tag 8 - Stadt, Bambus, Fluss
 
 Abwechslung wird bei uns groß geschrieben und so ging es heute mal wieder etwas weiter raus in den Außenbezirk Arashiyama. Mit einer kleinen Bimmelbahn, die wohl am ehesten mit einer Tram in Berlin zu vergleichen ist, fuhren wir gemächlich Richtung Endhaltestelle Arashiyama. Es war wiedereinmal brütend heiß und am Bahnhof wurde deshalb mit Hilfe von ein paar Gartenschläuchen Sprühregen simuliert, um vor allem den Touristen wenigstens ein bisschen Abkühlung zu verschaffen. Auch die Gehwege wurden mit Gießkannen bewässert um zumindest die Hitze, die vom Asphalt ausging, zu reduzieren. Half aber alles nichts, zwei Minuten in der prallen Sonne und man war reif für eine Abkühlung in einem der zahlreichen Souvenirshops. Die ein oder andere "Ich will hier mal schnell reingucken"-Unterbrechung in Kauf nehmend, nahmen wir also Ziel auf die erste Sehenswürdigkeit, die Holzbrücke Togetsukyō. Wir wissen nicht genau wie alt die Brücke ist, aber ein paar hundert Jahre aufjedenfall. Die Brücke überspannt den Katsura River auf einer Länge von schätzungsweise 200 Meter und gibt mit dem Mount Arashiyama im Hintergrund ein malerisches Fotomotiv ab.
@@ -36,8 +66,6 @@ Die Brücke überquert, hätten wir die Gelegenheit gehabt gegen Geld ein paar w
 </figure>
 
 Zurück in Kyoto Downtown mussten wir uns aber jetzt wieder ernsthaften Problemen widmen: Abendessen stand auf dem Programm. In unseren bisherigen Urlauben freuten wir uns eigentlich immer auf diesen Programmpunkt, aber in Japan macht sich bei dem Thema echter Frust breit. Egal wie lange man vorher auf Tripadvisor und Co recherchiert, am Ende sind die bei den Touristen beliebten Restaurants total überfüllt und der Rest unheimlich teuer. Will man günstig essen, bleibt einem fast nur noch Fastfood als Alternative, was auf Dauer leider ziemlich deprimierend ist. Auch an diesem Abend sind wir ewig weit gelaufen für ein zugegebenermaßen ganz solides Rumpsteak mit Pommes, von dem ich hätte aber drei Portionen gebraucht um satt zu werden. Ich glaube wir hätten unser Essensbudget einfach viel großzügiger kalkulieren müssen...
-
-<!--more-->
 
 ## Tag 7 - Kyoto: Die Stadt der Tempel und Geishas
 
