@@ -38,7 +38,7 @@ Nach einer kurzen Pause ging es weiter zum Bahnhof Kyoto. Nicht etwa als Zwische
 </figure>
 
 <figure class="alignleft">
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246789534/in/album-72157686182142915/" title="Kyoto Tower"><img src="https://farm5.staticflickr.com/4302/35246789534_079e037232_m.jpg" width="240" height="160" alt="Kyoto Tower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246789534/in/album-72157686182142915/" title="Kyoto Tower"><img src="https://farm5.staticflickr.com/4302/35246789534_079e037232_n.jpg" width="320" height="213" alt="Kyoto Tower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Vom Erdgeschoss aus führten Rolltreppen über zehn Etagen hinauf zu den verschiedenen Ebenen des Bahnhofgebäudes. Terassenförmig angelegt konnten man von dort aus das geschäftige Treiben der Bahnhofsvorhalle beobachten. Ab dem sechsten Stock führte eine riesige Treppe, die mich an die Potemkinsche Treppe in Odessa erinnert, hinauf zu einer Gartenanlage im zehnten Stock, die den Namen "Sky Garden" wirklich verdient hat (die Japaner mögen "Sky" als Begriff der Superlative). Vom achten Stockwerk aus führte der "Skyway" unter dem Dach des Bahnhofs entlang zur gegenüberliegenden Seite. Der Ausblick von hier auf Kyoto und den nur ein paar hundert Meter entfernt liegenden Kyoto Tower war wirklich fantastisch - auch wenn es gerade stark angefangen hatte zu regnen. Das war ein schöner Kontrast zu den eher kulturlastigen vergangenen Tagen.
