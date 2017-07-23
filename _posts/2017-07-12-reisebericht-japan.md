@@ -37,7 +37,7 @@ Nach einer kurzen Pause ging es weiter zum Bahnhof Kyoto. Nicht etwa als Zwische
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246784004/in/album-72157686182142915/" title="Bahnhof Kyoto"><img src="https://farm5.staticflickr.com/4297/35246784004_956c6df18b_z.jpg" width="640" height="427" alt="Bahnhof Kyoto"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-<figure class="alignright">
+<figure class="alignleft">
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35246789534/in/album-72157686182142915/" title="Kyoto Tower"><img src="https://farm5.staticflickr.com/4302/35246789534_079e037232_m.jpg" width="240" height="160" alt="Kyoto Tower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
