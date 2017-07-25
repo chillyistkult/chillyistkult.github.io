@@ -25,7 +25,7 @@ Heute gibt es nur einen kurzen Blogeintrag, denn wir haben den halben Tag damit 
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36119486986/in/album-72157686182142915/" title="Ausblick Oriental Hotel Hiroshima"><img src="https://farm5.staticflickr.com/4322/36119486986_f4fedf8388_z.jpg" width="640" height="427" alt="Ausblick Oriental Hotel Hiroshima"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Auf dem Hinweg ist uns schon aufgefallen, das Hiroshima "anders" ist. Kaum Menschen auf der Straße, sogut wie keine Geschäfte oder Restaurants, alles irgendwie tot. Der Eindruck bestätigte sich dann später auch: Nur im Stadtkern um den Friedenspark herum war ordentlich was los, ansonsten sieht man sehr viel Industrie, Wohn- und Verwaltungsgebäude und das ist nicht gerade schön anzusehen. Aber wir sind ja in erster Linie auch nach Hiroshima gekommen, um uns den Friendenspark und das Atombombenmuseum anzuschauen und um einen Ausflug auf die vorgelagerte Insel Miyjajima zu machen. 
+Auf dem Hinweg ist uns schon aufgefallen, das Hiroshima "anders" ist. Kaum Menschen auf der Straße, so gut wie keine Geschäfte oder Restaurants, alles irgendwie tot. Der Eindruck bestätigte sich dann später auch: Nur im Stadtkern um den Friedenspark herum war ordentlich was los, ansonsten sieht man sehr viel Industrie, Wohn- und Verwaltungsgebäude und das ist nicht gerade schön anzusehen. Aber wir sind ja in erster Linie auch nach Hiroshima gekommen, um uns den Friedenspark und das Atombombenmuseum anzuschauen und um einen Ausflug auf die vorgelagerte Insel Miyjajima zu machen. 
 
 ## Tag 10 - Tausend rote Torii
 
