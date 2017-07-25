@@ -27,6 +27,8 @@ Heute gibt es nur einen kurzen Blogeintrag, denn wir haben den halben Tag damit 
 
 Auf dem Hinweg ist uns schon aufgefallen, das Hiroshima "anders" ist. Kaum Menschen auf der Straße, so gut wie keine Geschäfte oder Restaurants, alles irgendwie tot. Der Eindruck bestätigte sich dann später auch: Nur im Stadtkern um den Friedenspark herum war ordentlich was los, ansonsten sieht man sehr viel Industrie, Wohn- und Verwaltungsgebäude und das ist nicht gerade schön anzusehen. Aber wir sind ja in erster Linie auch nach Hiroshima gekommen, um uns den Friedenspark und das Atombombenmuseum anzuschauen und um einen Ausflug auf die vorgelagerte Insel Miyjajima zu machen. 
 
+<!--more-->
+
 ## Tag 10 - Tausend rote Torii
 
 <figure class="alignright">
@@ -60,8 +62,6 @@ Der führte uns zu einem doch außergewöhnlichen Ort in Kyoto. Am Bahnhof unser
 </figure>
 
 Am Abend haben wir es dann auch mal in eines der angesagteren preiswerteren Restaurants geschafft. Der kleine Laden im Keller eines Gebäudes am Stadtrand hatte zehn Sitzplätze und wurde durch den Inhaber und seine Frau geführt. Eine schöne familiäre Atmossphäre kam auch auf, weil das Essen direkt vor unseren Augen bei einem Gläschen Wein zubereitet wurde. Da konnte ich es mir nicht nehmen lassen einmal Wagyu-Rind auszuprobieren, das teuerste Fleisch der Welt. 100 Gramm in der Qualitätsstufe A5 inklusive Beilage kosteten hier aber gerade einmal 1800 Yen. Okay satt wird man davon nicht unbedingt, aber für einen Fleischliebhaber war das gerade zu eine Offenbarung. Anni hatte eine Art Bratnudelpfanne mit Schinken und Schweinefleisch, die ausreichend groß war um auch meinen verbliebenen Hunger zu beseitigen.
-
-<!--more-->
 
 ## Tag 9 - Von Burgen und Bahnhöfen
 
