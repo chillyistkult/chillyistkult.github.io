@@ -17,6 +17,42 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 10 - Tausend rote Torii
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35963801342/in/album-72157686182142915/" title="Nishiki Markt"><img src="https://farm5.staticflickr.com/4292/35963801342_6d06c5dccd_m.jpg" width="240" height="160" alt="Nishiki Markt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Unser letzter Tag in Kyoto begann wie gehabt um die Mittagszeit. Das hat praktische Gründe, denn bei der Hitze ist es einfach unmöglich den ganzen Tag durch Stadt und Land zu laufen und so haben wir auch mehr Energie für die angenehmeren Abendstunden. Eigentlich stand heute ein Ausflug in die altehrwürdige Stadt Nara an, aber um ehrlich zu sein hatten wir einfach keine Lust uns "nur" noch ein paar weitere Tempel anzuschauen. Damit haben wir Nara sicherlich Unrecht getan, aber der Plan war heut noch etwas Natur zu erleben und die ein oder andere schöne Aussicht zu genießen. Aber da unser Hotel nunmal mitten einer Millionenmetropole liegt muss man erstmal ein paar Kilometer laufen um den ganzen Trubel zu entkommen. Natürlich könnte man auch mit Bus oder Bahn fahren, aber dann würde man wie immer einiges Links und Rechts liegen lassen. Wie zum Beispiel einen ziemlich gut besuchten Wochenmarkt. Ehrlichweise muss ich sagen, dass ich größere Menschenansammlungen, wenn es geht, lieber meide, vor allem wenn die sich noch durch kleine Gassen in einer leicht stickigen Umgebung drängen. Andererseits funktionieren Wochenmärkte in Japan nunmal so und die verschiedensten Frischwaren und Leckereien kann man eben am besten dort probieren.
+
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35963806612/in/album-72157686182142915/" title="Straße zum Kiyomizu-Tempel"><img src="https://farm5.staticflickr.com/4323/35963806612_55afc0d211_m.jpg" width="240" height="160" alt="Straße zum Kiyomizu-Tempel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Nach einem kleinen Mittagessen auf dem Markt liefen wir weiter zum Kiyomizu-Tempel am Ostrand der Stadt. Der Tempel (es geht einfach nicht anders) liegt auf einem Berghang und das heißt für uns: Noch mehr Schwitzen als sonst. Manchmal beneidet man da schon die Pauschaltouristen in ihren voll klimatisierten Reisebussen, die von Attraktion zu Attraktion kutschiert werden. Zwei Liter Wasser später und am Tempeleingang angekommen gab es erstmal ein obligatorisches High-Five auf unsere Wanderleistung. 800 Yen ärmer standen wir dann auch schon im Tempel, der offensichtlich gerade restauriert wurde, denn ein riesiges Gerüst und Planen umspannt den auf Stelzen errichteten riesigen Holzbau, von dem aus man normalerweise eine wunderbare Aussicht auf Kyoto genießen kann. Da es aber schon seit einigen Tagen stark bewölkt und diesig war, war unsere Sicht etwas eingeschränkt. Macht aber nichts, zumindest regnet es bisher ziemlich selten. Ein Rundgang führte uns wieder hinunter zum Eingang des Tempels, an dem wir den weiteren Tagesablauf planten.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35326092163/in/album-72157686182142915/" title="Kiyomizu-Tempel"><img src="https://farm5.staticflickr.com/4315/35326092163_d76a5bc7b3_z.jpg" width="640" height="427" alt="Kiyomizu-Tempel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36000543211/in/album-72157686182142915/" title="Torii-Weg am Fushimi Inari-Taisha Schrein"><img src="https://farm5.staticflickr.com/4298/36000543211_30da7b0ce6_m.jpg" width="240" height="160" alt="Torii-Weg am Fushimi Inari-Taisha Schrein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Der führte uns zu einem doch außergewöhnlichen Ort in Kyoto. Am Bahnhof unseres nächstens Ziels angekommen bemerkten wir schon an den Menschenmassen, dass hier etwas Besonderes stattfinden musste. Es ist gerade kurz vor den Sommerferien in Japan und es finden immer öfter Veranstaltungen in der Stadt statt. So liefen wir durch eine Allee von Marktständen auf ein Meer von roten Laternen und einer Bühne mit lauter Musik zu. Der Vorplatz des Inari-Taisha Schreins war voll mit Menschen, die heute anscheinend irgendetwas zu feiern hatten. Der Schrein ist bekannt für seine tausend aneinandergereihten roten Torii (Holztore). Den roten Tunneln aus Holz folgend bestiegen wir (immer noch) schwitzend den Mount Inari. Um uns heraum der raunende Wald und Links und Rechts immer etwas zu entdecken, haben wir den Aufstieg richtig genossen. Den letzten Teil der Route ließen wir dann aber aufgrund nun wieder aufkommender Erschöpfung weg. Der Weg zurück zum Hotel war lang und es wurde langsam dunkel. Bis hierher sind wir an diesem Tag bereits 15 Kilometer gelaufen.
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36000531361/in/album-72157686182142915/" title="Fushimi Inari-Taisha Schrein"><img src="https://farm5.staticflickr.com/4312/36000531361_b5e97efaf6_z.jpg" width="640" height="427" alt="Fushimi Inari-Taisha Schrein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35293617684/in/album-72157686182142915/" title="Teppanya Tavern Tenamonya"><img src="https://farm5.staticflickr.com/4317/35293617684_3eb5a08d43_z.jpg" width="640" height="427" alt="Teppanya Tavern Tenamonya"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Am Abend haben wir es dann auch mal in eines der angesagteren preiswerteren Restaurants geschafft. Der kleine Laden im Keller eines Gebäudes am Stadtrand hatte zehn Sitzplätze und wurde durch den Inhaber und seine Frau geführt. Eine schöne familiäre Atmossphäre kam auch auf, weil das Essen direkt vor unseren Augen bei einem Gläschen Wein zubereitet wurde. Da konnte ich es mir nicht nehmen lassen einmal Wagyu-Rind auszuprobieren, das teuerste Fleisch der Welt. 100 Gramm in der Qualitätsstufe A5 inklusive Beilage kosteten hier gerade einmal 1800 Yen. Okay satt wird man davon nicht unbedingt, aber für einen Fleischliebhaber war das gerade zu eine Offenbarung. Anni hatte eine Art Bratnudelpfanne mit Schinken und Schweinefleisch, die ausreichend groß war um auch meinen verbliebenen Hunger zu beseitigen.
+
+<!--more-->
+
 ## Tag 9 - Von Burgen und Bahnhöfen
 
 Unser dritter Tag in Kyoto stand wiedereinmal ganz im Zeichen von Sightseeing. Wahrscheinlich würde man mehrere Wochen damit verbringen jede Sehenswürdigkeit in Kyoto zu besuchen, aber unsere Zeit ist leider begrenzt und so müssen wir Prioritäten setzen. Auf unserer Liste sind noch ein paar wirklich lohnenswerte Ausflugsziele und so ging es nach einem ausgiebigen Mittagessen beim Ikinari Steakhouse um die Ecke Richtung Innenstadt, um die Burg Nijo zu besuchen. Aber halt, Ikinari Steakhouse? Um die Ecke? Und das, wo wir uns zwei Tage in Folge über das Essen beschweren? Auch wenn Ikinari vielleicht nicht unbedingt für ausgewogenes Essen steht, war es in Tokyo bereits zweimal unser Abendretter. Das wir die Filiale von Ikinari in Kyoto, die quasi direkt vor unserem Hotel liegt, nicht entdeckt haben, ist uns selbst ein Rätsel. Aber was solls: Endlich mal wieder so richtig lecker und preiswert satt gegessen. 
@@ -48,8 +84,6 @@ Vom Erdgeschoss aus führten Rolltreppen über zehn Etagen hinauf zu den verschi
   </figure>
 
 Am Abend haben wir uns dann noch einen riesigen Eisbecher genehmigt, der einfach mal doppelt soviel Kalorien hatte, wie er Yen gekostet hat. Angezogen hatte uns schon der Eingang des Ladens. In einem großem Schaufenster wurden mehrere Reihen Eisbecher in allen Geschmacksrichtungen oder -verirrungen (Eisbecher mit Schokoladeneis und Pommes) angeboten. Das eigentliche Highlight war aber ein riesiger Eisbottich für sage und schreibe 50.0000 Yen (385 Euro) - Japaner brauchen eben immer und überall ihre Superlativen.   
-
-<!--more-->
 
 ## Tag 8 - Stadt, Bambus, Fluss
 
