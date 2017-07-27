@@ -37,6 +37,7 @@ Auf der Insel angekommen begrüßte uns direkt eine Herde wild lebender Rehe, di
 
 Morgen wollen wir dann das Friedensmuseum in Hiroshima und den Atombombendom besichtigen, bevor wir weiter nach Osaka fahren - hoffentlich dann wieder trocken.
 
+<!--more-->
 
 ## Tag 11 - Ortswechsel
 
@@ -47,8 +48,6 @@ Heute gibt es nur einen kurzen Blogeintrag, denn wir haben den halben Tag damit 
 </figure>
 
 Auf dem Hinweg ist uns schon aufgefallen, das Hiroshima "anders" ist. Kaum Menschen auf der Straße, so gut wie keine Geschäfte oder Restaurants, alles irgendwie tot. Der Eindruck bestätigte sich dann später auch: Nur im Stadtkern und um den Friedenspark herum war ordentlich was los, ansonsten sieht man sehr viel Industrie, Wohn- und Verwaltungsgebäude und das ist nicht gerade schön anzusehen. Aber wir sind ja in erster Linie auch nach Hiroshima gekommen, um uns den Friedenspark und das Atombombenmuseum anzuschauen und um einen Ausflug auf die vorgelagerte Insel Miyjajima zu machen.
-
-<!--more-->
 
 ## Tag 10 - Tausend rote Torii
 
