@@ -17,6 +17,28 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 13 - Tokyo + Kyoto = Osaka
+
+<figure class="alignright">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36066854112/in/album-72157686182142915/" title="Hiroshima Peace Museum"><img src="https://farm5.staticflickr.com/4303/36066854112_63ab007772_n.jpg" width="320" height="213" alt="Hiroshima Peace Museum"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Wie ihr den Titel dieses Eintrags vielleicht entnehmen könnt, ging es heute für uns weiter nach Osaka. Aber bevor wir den Weg zum Bahnhof angetreten haben, war es für uns an der Zeit ein etwas ernsthafteres Thema der jüngeren Weltgeschichte aufzuarbeiten. Mit einem Besuch im Friedensmuseum und dem Friedenspark in Hiroshima hatten wir die Gelegenheit einige zusätzliche Details zum Atombombenangriff im Jahr 1945 auf Hiroshima zu erfahren. Für mich persönlich war das, obwohl Bilder, Berichte und Hinterlassenschaften der Zeitzeugen und Opfern sehr eindrücklich waren, nicht so emotional, wie man das vielleicht erwarten würde. Mich haben solche Themen schon immer interessiert und irgendwann baut man dazu eine emotionale Distanz auf, die es einfacher macht sich mit den Fakten und Zusammenhängen zu beschäftigen. Deshalb waren insbesondere auch die Relikte und Geschichten der Zeitzeugen für mich sehr interessant, die man so in Dokumentationen nocht nicht gesehen oder in Büchern gelesen hat. 
+
+<figure class="alignleft">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36066855302/in/album-72157686182142915/" title="Friedenspark Hiroshima"><img src="https://farm5.staticflickr.com/4312/36066855302_7a26c0eac2_n.jpg" width="320" height="213" alt="Friedenspark Hiroshima"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Mit einem bedrückenden Gefühl ging es nach dem Museum, das direkt im Friedenspark liegt, Richtung Atombombenkuppel. Das Gebäude, das nur wenige Meter vom Epizentrum der Bombe entfernt lag, war eines der wenigen das nicht vollständig zerstört wurde. Es ist heute als Friedensdenkmal nicht nur ein starkes Symbol der zerstörerischsten Kraft, die je von Menschenhand geschaffen wurde; es drückt außerdem die Hoffnung auf Weltfrieden und der endgültigen Beseitigung aller Kernwaffen aus und man muss nicht in Hiroshima gewesen sein um zu erkennen, warum das notwendig ist...
+
+<figure class="aligncenter">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36066856802/in/album-72157686182142915/" title="A-Dome Hiroshima"><img src="https://farm5.staticflickr.com/4330/36066856802_8209f92232_z.jpg" width="640" height="427" alt="A-Dome Hiroshima"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Es war bereits früher Nachmittag als wir am Bahnhof in Hiroshima unseren Shinkansen Richtung Osaka bestiegen. Wie immer war die Fahrt mit dem Zug äußerst entspannt, so entspannt, dass ich mal wieder die ganze Fahrt lang geschlafen habe. In Osaka angekommen ging es mit der U-Bahn in den Distrikt Namba zu unserem [Hotel Red Roof Plus](https://www.booking.com/hotel/jp/floral-inn-namba.de.html?aid=1269594). Namba ist ein Vergnügungs- und Geschäftsviertel das selbst für eine japanische Supermetropole seines Gleichen sucht. Kilometerweit erstrecken sich hier die Shoppingstraßen ober- und unterirdisch in alle Himmelsrichtungen. Die schiere Anzahl an Geschäfte und die Größe des Areals wird nur noch von Tokyo übertroffen. Gleichzeitig wird die Atmosphäre in Osaka aber auch durch Kanäle, breite Fußwege, echten Pflanzen und teilweise schön geschmückten Fassaden aufgelockert, was uns wiederum stark an Kyoto erinnerte. Mir ist das leider immer alles zwei Nummern zu viel: Den Trubel und die Konsumgeilheit der Japaner, empfinde ich eher als abstoßend.
+
+<!--more-->
+
 ## Tag 12 - Mit Rehen und Regen
 
 Unser Tag in Hiroshima begann, wie der gestrige zu Ende ging: Mit einem herrlichen Blick über die Stadt. Heute stand ein Ausflug auf die Insel Miyajima an, die etwa zwanzig Kilometer südwestlich von Hiroshima in der Seto-Inlandsee liegt. Die Insel ist bekannt für ihre zahmen und freilaufenden Wildtiere und einem Schrein, der am Strand im Wasser gebaut ist, und wie so vieles in Japan, ebenfalls Teil des UNESCO Weltkulturerbes ist. In der Mitte der Insel thront der Berg Misen 535 Meter über den Meeresspiegel. Auf den Berg führen, neben einer Seilbahn, auch verschieden anspruchsvolle Wanderwege, von denen aus man am besten die Flora und vor allem Fauna der Insel erleben kann. Mit der Fähre ging es in nur 15 Minuten hinüber zur Insel, über der sich schon verdächtig dunkle Wolken gebildet hatten. Aber in Japan ist ja auch Regenzeit und von durchschnittlich zehn Tagen, die es im Juli regnet, haben wir erst einen abbekommen. Das bedeutet leider, dass die Chancen einen weiteren trockenen Tag zu erleben für uns nicht gut stehen.
@@ -36,8 +58,6 @@ Auf der Insel angekommen begrüßte uns direkt eine Herde wild lebender Rehe, di
 </figure>
 
 Morgen wollen wir dann das Friedensmuseum in Hiroshima und den Atombombendom besichtigen, bevor wir weiter nach Osaka fahren - hoffentlich dann wieder trocken.
-
-<!--more-->
 
 ## Tag 11 - Ortswechsel
 
