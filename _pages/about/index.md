@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "Resume"
-permalink: "/cv/"
+title: Resume
+permalink: /cv/
+published: true
 ---
 
 > Fang nie an aufzuhören - höre nie auf anzufangen.
@@ -18,28 +19,28 @@ permalink: "/cv/"
 <dl>
     <dt>Senior Frontend Developer</dt>
     <dd>
-        <a href="http://www.domtain.de" target="_blank">Domtain</a> | 12/2016 - 06/2017
+        <a href="http://www.covus.com" target="_blank">Domtain</a> | 12/2016 - 06/2017
     </dd>
 </dl>
 
 <dl>
     <dt>Frontend Developer</dt>
     <dd>
-        <a href="http://www.domtain.de" target="_blank">Domtain</a> | 09/2014 - 12/2016
+        <a href="http://www.covus.com" target="_blank">Domtain</a> | 09/2014 - 12/2016
     </dd>
 </dl>
 
 <dl>
     <dt>Frontend Developer</dt>
     <dd>
-        <a href="http://www.freemium.com" target="_blank">Freemium</a> | 04/2014 - 08/2014
+        <a href="http://www.covus.com" target="_blank">Freemium</a> | 04/2014 - 08/2014
     </dd>
 </dl>
 
 <dl>
     <dt>Junior Developer</dt>
     <dd>
-        <a href="http://www.covus.de" target="_blank">Covus</a> | 08/2012 - 03/2014
+        <a href="http://www.covus.com" target="_blank">Covus</a> | 08/2012 - 03/2014
     </dd>
 </dl>
 
