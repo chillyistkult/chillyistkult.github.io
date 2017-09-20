@@ -44,13 +44,6 @@ published: true
     </dd>
 </dl>
 
-<dl>
-    <dt>Apprentice</dt>
-    <dd>
-        <a href="http://www.computer-konkret.de" target="_blank">computer konkret AG</a> | 09/2008 - 02/2011
-    </dd>
-</dl>
-
 ## Ausbildung
 
 <dl>
@@ -58,5 +51,13 @@ published: true
     <dd>Angewandte Informatik</dd>
     <dd>
         <a href="http://www.htw-berlin.de" target="_blank">HTW Berlin</a> | 04/2011 - 01/2016
+    </dd>
+</dl>
+
+<dl>
+    <dt>Ausbildung</dt>
+    <dd>Fachinformatiker (IHK): Fachrichtung Anwendungsentwicklung</dd>
+    <dd>
+        <a href="http://www.computer-konkret.de" target="_blank">computer konkret AG</a> | 09/2008 - 02/2011
     </dd>
 </dl>
