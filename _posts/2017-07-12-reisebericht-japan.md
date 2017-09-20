@@ -2,7 +2,7 @@
 layout: post
 date: '2017-07-12 12:09'
 title: 'Reisebericht Japan: Im Land der aufgehenden Sonne'
-description: 'Ein Reise- und Erfahrungsbericht über eine Rundreise durch Japan'
+description: Ein Reise- und Erfahrungsbericht über eine Rundreise durch Japan
 comments: true
 mood: happy
 category:
@@ -16,6 +16,34 @@ tags:
 published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
+
+## Tag 14 - Kaiyukan
+
+Die erste Nacht in Osaka war sehr angenehm. Das Zimmer nicht zu warm, nicht zu kalt, die Klimaanlage angenehm leise und das Bett genau die richtige Härte. Man muss an dieser Stelle einfach mal sagen, dass man sich auf die Bewertungen auf [booking.com](https://www.booking.com/?aid=1269594) echt verlassen kann. Nachdem wir gestern Abend nur ein wenig die Umgebung rund ums Hotel erkundet hatten, ging es heute zu einer echten Attraktion Osakas: Das Kaiyukan (jap. 海遊館). Ihr fragt euch sicher, was das ist? Eines der größten öffentlichen Aquarien der Welt. Nun kann man ja von Aquarien halten was man will. Tierquälerei oder doch alles artgerecht? Ich würde mich da zwischen den Fronten positionieren und behaupten, dass es nicht sein muss, Delfine und andere intelligente Meeressäuger, die sich ihrer Situation sehr wohl bewusst sind, in winzigen Becken zu halten. Trotzdem muss man deshalb aber nicht gleich alles boykottieren.
+
+Bevor es aber zum Aquarium ging, stand das leidige Thema Mittagessen auf dem Programm. Aber mit dem Unterschied, dass wir diesmal einen echten Volltreffer gelandet haben. Ein kleines Restaurant geführt von einem sympathischen Australier, der, wie er uns berichtete, auch schon mal ein paar Wochen in Hamburg gewesen ist, kredenzte uns das beste Chili con Carne, das ich je in meinem Leben gegessen habe. So günstig, so gut und auch noch so reichhaltig, der Traum jedes Sushi hassenden Touristen. Wenn es möglich gewesen wäre, hätte ich mir dort auch für die noch bevorstehenden Tage den Bauch vollgeschlagen.
+
+<figure class="alignleft">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36232812035/in/album-72157686182142915/" title="Aquarium Osaka"><img src="https://farm5.staticflickr.com/4314/36232812035_18980a0b18_n.jpg" width="320" height="213" alt="Aquarium Osaka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Etwas benommen und schwerfällig von den riesen Portionen, waren es bis zum Aquarium zum Glück nur ein paar hundert Meter. Tickets gekauft und rein ins Vergnügen. Eine ewig lange Rolltreppe führte quasi bis unters Dach des Aquariums, wo eine kleine Tropenwelt die Heimat von Ottern, Bibern, Krebsen und vieler kleiner Fische ist. Von dort aus bewegt man sich über einen Rundgang immer tiefer ins Aquarium hinein. Haben wir zu Beginn die Otter noch über Wasser angeschaut, befanden wir uns eine Etage tiefer mit dem Kopf auf Höhe des Wasserspiegels des Beckens und konnte die wahnsinnig flinken Tiere auch Unterwasser bestaunen. So ging es immer weiter: Vorbei an riesigen Becken mit wirklich allen, was das Meer zu bieten hat. Delfinen schossen an den dicken Aquariumsscheiben vorbei und eine Herde Pinguine bekam gerade ihr täglich Fisch. Bei so einer Vielfalt, weiß man gar nicht was man zuerst fotografieren soll. Ein paar Meter weiter erreichten wir dann das unglaublich große Hauptbecken und da waren sie dann auf einmal: Walhaie. Ihr ahnt nicht, wie majestätisch die vier Meter großen, planktonfressenden Riesenfische wirken, wenn sie gefühlte zehn Zentimeter von der Scheibe entfernt an einem vorbeischwimmen. Hier sagt mal wieder ein Bild mehr als tausend Worte:
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36191947676/in/album-72157686182142915/" title="Aquarium Osaka"><img src="https://farm5.staticflickr.com/4292/36191947676_d532dae3cb_z.jpg" width="640" height="427" alt="Aquarium Osaka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+<figure class="alignright">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36191949446/in/album-72157686182142915/" title="Aquarium Osaka"><img src="https://farm5.staticflickr.com/4292/36191949446_78dca2d9f1_n.jpg" width="320" height="213" alt="Aquarium Osaka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Rings um das gewundene Hauptbecken herum führte uns der Weg immer tiefer bis zum Grund des Beckens. Links und rechts gab es immer etwas zu entdecken. Zum Beispiel Schildkröten, Mondfische und japanische Riesenkrabben um nur mal ein paar Highlights zu nennen. Wer sich für Meeresbiologie interessiert, kann hier bestimmt Tage ohne aufkommende Langeweile verbringen. Wir haben das Aquarium aber dann doch nach reichlich 2 1/2 Stunden, mit dem Gefühl wirklich etwas Besonderes erlebt zu haben, verlassen.
+
+<figure class="aligncenter">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/36099721951/in/album-72157686182142915/" title="Santa Maria Ausflugsschiff"><img src="https://farm5.staticflickr.com/4292/36099721951_10255b5d3d_z.jpg" width="640" height="427" alt="Santa Maria Ausflugsschiff"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+Da wir für diesen Tag nichts weiter geplant hatten, entschlossen wir uns noch zu einem spontanen Ausflug mit einem "echten" Piratenschiff durch den Hafen Osakas. Die Sonne stand bereits tief am Horizont und es wehte ein laues Lüftchen. Einfach perfekt, um den Tag so langsam ausklingen zu lassen. Nach einem Chili Cheese Fries Abendbrot und einem ausgiebigen Spaziergang, fielen wir zufrieden und erschöpft in unser Bett und bereiteten uns seelisch und moralisch auf die Rückkehr nach Tokyo vor.
 
 ## Tag 13 - Tokyo + Kyoto = Osaka
 
