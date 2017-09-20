@@ -30,17 +30,7 @@
     <link href="{{ site.favicon }}" rel="shortcut icon" type="image/x-icon" />
     {% endif %}
     
-    <script>
-        var ss = document.createElement( "link" );
-        var ref = document.getElementsByTagName( "script" )[ 0 ];
-        ss.rel = "stylesheet";
-        ss.href = "/assets/css/main.css";
-      
-        ss.media = "only foo";
-        ref.parentNode.insertBefore( ss, ref );
-        // set media back
-        setTimeout( function(){ ss.media = "all"; } );
-    </script>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
