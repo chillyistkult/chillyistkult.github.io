@@ -45,6 +45,8 @@ Rings um das gewundene Hauptbecken herum führte uns der Weg immer tiefer bis zu
 
 Da wir für diesen Tag nichts weiter geplant hatten, entschlossen wir uns noch zu einem spontanen Ausflug mit einem "echten" Piratenschiff durch den Hafen Osakas. Die Sonne stand bereits tief am Horizont und es wehte ein laues Lüftchen. Einfach perfekt, um den Tag so langsam ausklingen zu lassen. Nach einem Chili Cheese Fries Abendbrot und einem ausgiebigen Spaziergang, fielen wir zufrieden und erschöpft in unser Bett und bereiteten uns seelisch und moralisch auf die Rückkehr nach Tokyo vor.
 
+<!--more-->
+
 ## Tag 13 - Tokyo + Kyoto = Osaka
 
 <figure class="alignright">
@@ -64,8 +66,6 @@ Mit einem bedrückenden Gefühl ging es nach dem Museum, das direkt im Friedensp
 </figure>
 
 Es war bereits früher Nachmittag als wir am Bahnhof in Hiroshima unseren Shinkansen Richtung Osaka bestiegen. Wie immer war die Fahrt mit dem Zug äußerst entspannt, so entspannt, dass ich mal wieder die ganze Fahrt lang geschlafen habe. In Osaka angekommen ging es mit der U-Bahn in den Distrikt Namba zu unserem [Hotel Red Roof Plus](https://www.booking.com/hotel/jp/floral-inn-namba.de.html?aid=1269594). Namba ist ein Vergnügungs- und Geschäftsviertel, das selbst für eine japanische Supermetropole seines Gleichen sucht. Kilometerweit erstrecken sich hier die Shoppingstraßen ober- und unterirdisch in alle Himmelsrichtungen. Die schiere Anzahl an Geschäften und die Größe des Areals wird nur noch von Tokyo übertroffen. Gleichzeitig wird die Atmosphäre in Osaka aber auch durch Kanäle, breite Fußwege, echten Pflanzen und teilweise schön geschmückten Fassaden aufgelockert, was uns wiederum stark an Kyoto erinnerte. Mir ist das leider immer alles zwei Nummern zu viel: Den Trubel und die Konsumgeilheit der Japaner, empfinde ich eher als abstoßend.
-
-<!--more-->
 
 ## Tag 12 - Mit Rehen und Regen
 
