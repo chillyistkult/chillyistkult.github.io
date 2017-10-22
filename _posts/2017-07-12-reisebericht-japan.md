@@ -17,8 +17,6 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
-<iframe src="http://autarkierechner.hctm.de/partner/3c09b8e52a4546b36e470549ac8f03747f237b18"></iframe>
-
 ## Tag 14 - Kaiyukan
 
 Die erste Nacht in Osaka war sehr angenehm. Das Zimmer nicht zu warm, nicht zu kalt, die Klimaanlage angenehm leise und das Bett genau die richtige Härte. Man muss an dieser Stelle einfach mal sagen, dass man sich auf die Bewertungen auf [booking.com](https://www.booking.com/?aid=1269594) echt verlassen kann. Nachdem wir gestern Abend nur ein wenig die Umgebung rund ums Hotel erkundet hatten, ging es heute zu einer echten Attraktion Osakas: Das Kaiyukan (jap. 海遊館). Ihr fragt euch sicher, was das ist? Eines der größten öffentlichen Aquarien der Welt. Nun kann man ja von Aquarien halten was man will. Tierquälerei oder doch alles artgerecht? Ich würde mich da zwischen den Fronten positionieren und behaupten, dass es nicht sein muss, Delfine und andere intelligente Meeressäuger, die sich ihrer Situation sehr wohl bewusst sind, in winzigen Becken zu halten. Trotzdem muss man deshalb aber nicht gleich alles boykottieren.
