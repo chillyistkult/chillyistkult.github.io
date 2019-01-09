@@ -10,9 +10,23 @@ published: true
 ## Berufserfahrung
 
 <dl>
+    <dt>Frontend Team Leader</dt>
+    <dd>
+        <a href="http://www.weq.com" target="_blank">WeQ</a> | 12/2018 - heute
+    </dd>
+</dl>
+
+<dl>
     <dt>Software Engineer</dt>
     <dd>
-        <a href="http://www.ocono.de" target="_blank">Ocono</a> | 07/2017 - heute
+        <a href="http://www.weq.com" target="_blank">WeQ</a> | 04/2018 - 12/2018
+    </dd>
+</dl>
+
+<dl>
+    <dt>Software Engineer</dt>
+    <dd>
+        <a href="http://www.ocono.de" target="_blank">Ocono</a> | 07/2017 - 04/2018
     </dd>
 </dl>
 
