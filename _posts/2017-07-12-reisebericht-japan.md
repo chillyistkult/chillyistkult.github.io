@@ -15,23 +15,6 @@ tags:
   - backpacking
 published: true
 ---
----
-layout: post
-date: '2017-07-12 12:09'
-title: 'Reisebericht Japan: Im Land der aufgehenden Sonne'
-description: Ein Reise- und Erfahrungsbericht über eine Rundreise durch Japan
-comments: true
-mood: happy
-category:
-  - Reisen
-  - Asien
-tags:
-  - reisen
-  - asien
-  - japan
-  - backpacking
-published: true
----
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
 ## Tag 14 - Kaiyukan
