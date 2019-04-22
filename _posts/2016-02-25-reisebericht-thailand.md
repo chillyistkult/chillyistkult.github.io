@@ -17,6 +17,23 @@ tags:
   - backpacking
 published: true
 ---
+---
+layout: post
+date: '2016-02-25 19:36'
+title: 'Reisebericht Thailand: Bangkok und das Inselparadies'
+description: 'Ein Reise- und Erfahrungsbericht über ein Backpackingabenteuer in Bangkok und Südthailand'
+comments: true
+mood: happy
+category:
+  - Reisen
+  - Asien
+tags:
+  - reisen
+  - asien
+  - thailand
+  - backpacking
+published: true
+---
 
 Jetzt sind es nur noch 13 Stunden 32 Minuten und 23 Sekunden bis das Abenteuer Thailand für uns endlich losgeht. Die 21 Tage, die wir in Thailand verbringen werden, dokumentieren wir hier in Form eines kleinen Reiseblogs. Geplant ist 
 und die Betonung liegt auf "geplant" jeden Tag ein paar Zeilen zu schreiben und die Highlights, Erlebnisse und Miseren des Tages festzuhalten.
@@ -34,7 +51,7 @@ Also wer immer auf dem Laufenden bleiben möchte kann gerne jeden Tag mal reinsc
 Wir haben es geschafft und die Zeit im Flieger verging auch garnicht mal wie im Flug! Nachdem wir mit einer halben Stunde Verspätung (aufgrund eines Schneetreibens) just in time für unseren Anschlussflug in Amsterdam gelandet sind ging es auch direkt weiter zum Reiseziel unserer Wahl - Bangkok! Ein paar Blockbuster später (zum Glück haben wir "Der Marsianer" nicht im Kino angeschaut) ging auch schon die Sonne über Thailand auf und wir befanden uns im 9.200 Kilometer entfernten Schmelztiegel Bangkok wieder.
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/4uD365" title="Tints of Blue Bangkok"><img src="https://c1.staticflickr.com/1/749/33900452805_36b00071c1_n.jp2" width="240" height="320" alt="Tints of Blue Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/4uD365" title="Tints of Blue Bangkok"><img src="https://c1.staticflickr.com/1/749/33900452805_36b00071c1_n.jpg" width="240" height="320" alt="Tints of Blue Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Da wir beide garnicht mal so gut geschlafen haben, sind wir ohne Umwege in unser [Hotel "Tints of Blue"](http://www.booking.com/hotel/th/tints-of-blue.html?aid=1269594&no_rooms=1&group_adults=2&room1=A%2CA) gefahren. Da ich echt gut im Navigieren bin ging das auch komplett ohne Probleme (und das wohlgemerkt ohne Google Maps und diesen ganzen neumodischen Apps :-).
@@ -46,7 +63,7 @@ sich auch in den Shopping-Malls bemerkbar macht. Also nichts mit Schnäppchen, a
 beherbergt drei riesige Shopping-Malls. Eines davon, das Central World Plaza, ist sogar das größte Südostasiens. Auf den Straßen tummeln sich neben unglaublichen vielen Autos seit den Abendstunden auch viele Händler die Ihre Waren (oder wie wir es nennen: Ramsch) versuchen an den Mann zu bringen.
 
 <figure class="algincenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/c0enZ6" title="Rushhour Bangkok"><img src="https://c1.staticflickr.com/4/3804/33900454045_bda775bc5e_z.jp2" width="640" height="480" alt="Rushhour Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/c0enZ6" title="Rushhour Bangkok"><img src="https://c1.staticflickr.com/4/3804/33900454045_bda775bc5e_z.jpg" width="640" height="480" alt="Rushhour Bangkok"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Für Heute war uns das nach dem langen Flug auch erst einmal genug und morgen gibt es dann die volle Packung Kultur und einen kleinen Abstecher zur Khao San Road am Abend.
@@ -66,7 +83,7 @@ Nach 1,5 Kilometer durch China-Town führte unsere Route weiter in die historisc
 Die nächste Station sollte dann eigentlich das Nationalmuseum von Bangkok sein. Geschlossen am Wochenende...? Jep!
 
 <figure class="alignleft">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/t4w13y" title="Wat Benchamabophit"><img src="https://c1.staticflickr.com/3/2859/33900455265_e782de8208_n.jp2" width="240" height="320" alt="Wat Benchamabophit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/t4w13y" title="Wat Benchamabophit"><img src="https://c1.staticflickr.com/3/2859/33900455265_e782de8208_n.jpg" width="240" height="320" alt="Wat Benchamabophit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Wieder zu Fuß machten wir uns nun auf den Weg zur Khao San Road, der berühmten Vergnügungsmeile! Hier sind hauptsächlich junge und jung gebliebene Touristen unterwegs und dem entsprechend ist das Angebot an Bars, Essen und eben Vergnügen groß. Nach einem gar nicht mal so guten Mittagessen, ging es weiter mit einem Tuk Tuk zu einer kleinen City-Tour. Und ja, Citytouren mit Tuk Tuk´s sind Touristenabzocke! Wir wussten was uns blüht, nach Absprache mit dem Fahrer haben wir uns aber auf einen Kompromiss geeinigt. Die Fahrt war abenteuerlich, aber trotzdem das Highlight des Tages. Am Ende der Tour (wir besuchten die Tempel Wat Intharawihan und Wat Benchamabophit) brachte uns das Tuk Tuk zurück zur Khao San Road, wo wir den Tag gemütlich mit einem Drink ausklingen ließen.
@@ -80,13 +97,13 @@ Geschafft vom Tag und nach einem kleinen Abendessen sind wir nun zurück im Hote
 Nachdem wir gestern einige viele Kilometer zu Fuß zurückgelegt haben, wollten wir es heute mit einer Bootstour etwas ruhiger angehen lassen. Es gibt in Bangkok verschiedene Bootslinien die an verschiedenen Stationen anlegen und für den ganzen Tag 120 Baht (ca. 3 Euro) kosten. Damit ist man als Tourist ziemlich flexibel und kräftesparend unterwegs.
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/t4H6U0" title="Wat Arun"><img src="https://c1.staticflickr.com/3/2938/33890444371_f159e05f03_n.jp2" width="240" height="320" alt="Wat Arun"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/t4H6U0" title="Wat Arun"><img src="https://c1.staticflickr.com/3/2938/33890444371_f159e05f03_n.jpg" width="240" height="320" alt="Wat Arun"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Da wir gestern schon eine Menge Sehenswürdigkeiten abgehakt haben, war das für uns eher Sightseeing für Faule. Eine Attraktion haben wir aber dennoch mitgenommen: Wat Arun den Tempel der Morgenröte. Der Tempel setzt sich aus vielen kleine sogenannten Phrangs zusammen. Das sind pyramidenähnliche Türme. Auf den zentralen 80 Meter hohen Phrang führen steile Treppen wobei das Innere Heiligtum für Touristen verborgen bleibt. Leider wird der Tempel gerade restauriert, sodass er für uns leider nicht in seiner vollen Pracht erstrahlte. Nach ein paar Zwischenstopps hier und da gab es am Abend nochmal ein richtiges Highlight in Form eines Thaifood-Festivals, das vor dem Central World Plaza stattgefunden hat. Die Snacks wurden an vielen unterschiedlichen (auch thematisch) Ständen mit Liebe zum Detail zubereitet und waren ein echter Gaumenschmaus. Ihr könnt euch nicht vorstellen wie lecker mariniert-gekochtes Schweinefleisch sein kann, auch wenn das mit der Schärfedosierung in Thailand einfach nicht so funktioniert wie man sich das als Tourist vorstellt.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/eiuD8J" title="Bangkok Streetfood Festival"><img src="https://c1.staticflickr.com/3/2897/33890309361_aa582686b3_z.jp2" width="640" height="480" alt="Bangkok Streetfood Festival"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/eiuD8J" title="Bangkok Streetfood Festival"><img src="https://c1.staticflickr.com/3/2897/33890309361_aa582686b3_z.jpg" width="640" height="480" alt="Bangkok Streetfood Festival"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Morgen geht es dann mit dem Taxi zum Flughafen und mit Flieger, Bus und Fähre nach Koh Samui. Also stay tuned!
@@ -110,7 +127,7 @@ Jaaaaa, auch hier ist der Straßenverkehr nicht ganz ohne. Benny ist allerdings 
 Heute sah die Wetterlage schon besser aus. Wir starteten nach dem Frühstück zu einer Rollertour Richtung der Na Mueang Wasserfälle. Dort angekommen, und um dem allgemeinen Touristengeplänkel aus dem Weg zu gehen, entschieden wir uns zum höchsten Punkt des Wasserfalls zu wandern. Leider war dieses Vorhaben nicht so einfach wie gedacht.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/aX5d4R" title="Na Mueang Hiking"><img src="https://c1.staticflickr.com/3/2861/33863203882_2d5138f5bd_z.jp2" width="640" height="480" alt="Na Mueang Hiking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/aX5d4R" title="Na Mueang Hiking"><img src="https://c1.staticflickr.com/3/2861/33863203882_2d5138f5bd_z.jpg" width="640" height="480" alt="Na Mueang Hiking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Geschlagene 2 Stunden liefen und kletterten wir auf einem unbefestigten Trampelpfad bergauf durch den heißen und dichten Dschungel. Von unserem Ziel leider keine Spur. Körperlich überanstrengt entschieden wir uns zur Rückkehr. Einen schönen Ort zum entspannen am Wasserfall haben wir dennoch gefunden.
@@ -118,7 +135,7 @@ Geschlagene 2 Stunden liefen und kletterten wir auf einem unbefestigten Trampelp
 Unser verspätetes Mittagessen gab es in der [Bamboo Bar und Grill](https://www.tripadvisor.de/Restaurant_Review-g1182465-d4004252-Reviews-Bamboo_Grill_Bar-Mae_Nam_Ko_Samui_Surat_Thani_Province.html). Das von uns zufällig gewählte Restaurant war die bekannte Lokalität des Auswanderers Matthias Bück von Goodbye Deutschland. Das BBQ war sehr lecker, deutsche Gründlichkeit zieht eben bei deutschen Urlaubern.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/6W7p06" title="Mae Nam Beach"><img src="https://c1.staticflickr.com/3/2887/33863135922_2bf753549a_z.jp2" width="640" height="480" alt="Mae Nam Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/6W7p06" title="Mae Nam Beach"><img src="https://c1.staticflickr.com/3/2887/33863135922_2bf753549a_z.jpg" width="640" height="480" alt="Mae Nam Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Die letzten Sonnenstunden genossen wir am Mae Nam Beach und probierten unsere Hängematte aus. Das funktionierte auch ganz gut und war sehr chillig bei dem Sunset - bis Anni die Palme, an der die Hängematte hing, zerstörte... War todeswitzig!
@@ -130,7 +147,7 @@ Morsche Palme + Hängematte = Popo-Aua!
 Wir haben uns von Koh Samui verabschiedet und sind mit dem Speedboot nach Koh Phangan übergesetzt. Da die Inseln sehr nah beieinander liegen hat das nicht länger als eine halbe Stunde gedauert. In unserem neuen Hotel, das [Cyana Beach Resort](http://www.booking.com/hotel/th/cyana-beach-resort.html?aid=1269594&no_rooms=1&group_adults=1), haben wir erstmal die Lage sondiert und den Nachmittag am Pool verbracht. Am Abend haben wir ein anderes deutsches Paar kennengelernt und noch spontan einen Roller gemietet um das Nightlife zu erkunden.
 
 <figure class="alignleft">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/T2u6R0" title="Thong Sala Night Market"><img src="https://c1.staticflickr.com/4/3846/33177138954_56c4936776_n.jp2" width="240" height="320" alt="Thong Sala Night Market"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/T2u6R0" title="Thong Sala Night Market"><img src="https://c1.staticflickr.com/4/3846/33177138954_56c4936776_n.jpg" width="240" height="320" alt="Thong Sala Night Market"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Unsere Abendtour führte uns als erstes zum Nachtmarkt in Thong Sala, der Hauptstadt der Insel. Dort leben 5000 der 10000 Einwohner der Insel. Der Nachtmarkt war echt klasse - traditionelles Thai-Food gibt es dort an unzähligen Ständen für jeden Geschmack und für umgerechnet nur ein paar Cent. Das wird sicherlich nicht das Letzte mal sein, dass wir dort vorbeischauen.
@@ -152,7 +169,7 @@ Als sich das Inselarchipel des Nationalparks am Horizont abzeichnete war die Vor
 Danach ging es an wunderschönen kleinen Inseln und Stränden vorbei zu unserer nächsten Station, die Insel Koh Mae Koh. Die Insel ist bekannt für ihre Lagune, den Emerald Lake, der ein natürliches Wasserreservoir im Inneren der Insel bildet und aufgrund des stehenden Gewässers und der dadurch einsetzenden Algenbildung in einem Smaragdgrün erstrahlte. Der Aufstieg zur Aussichtsplattform war der erste Workout am heutigen Tag und bestand aus vielen und extrem steilen Stufen.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/0Z36n0" title="Angthong National Marine Park"><img src="https://c1.staticflickr.com/3/2912/33208102743_f61e9e5080_z.jp2" width="640" height="480" alt="Angthong National Marine Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/benjaminschuch/0Z36n0" title="Angthong National Marine Park"><img src="https://c1.staticflickr.com/3/2912/33208102743_f61e9e5080_z.jpg" width="640" height="480" alt="Angthong National Marine Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Nach einer kurzen Abkühlung am Na Tap Beach ging es dann weiter zu unserem letzten Halt auf unserer Tour. Das Koh Wua Talab Island ist einer der größeren Inseln des Archipels mit einem traumhaften Strand flankiert von hohen Bergen und dichtem Jungle. Hier kann man wenn man möchte sogar in einfachen Bungalows direkt im Nationalpark übernachten. Vom Strand aus führte eine abenteuerliche Kletterrute hinauf auf den Berg von wo aus man eine atemberaubende Aussicht auf das gesamte Archipel hatte. Der Aufstieg war extrem steil, mit scharfkantigen Felsen, dichten Dschungel, Stolperfallen und allem was das Abenteuerherz begehrt. Ich habe noch nie in meinem Leben so geschwitzt aber seht selbst was die Belohnung dafür war!
@@ -172,13 +189,13 @@ Auch heute ist es um Benny nicht viel besser bestellt. Es ist sehr heiß bei Tag
 Wir hatten uns für den heutigen Tag eine Rollertour für den Nordosten vorgenommen. Die Insel ist sehr bergig aber durch die vieler Orts neuen Straßen gut befahrbar. Koh Phangang ist im Vergleich zu Koh Samui wirklich eine Wohltat. Es ist weitestgehend sauber und naturbelassen. Links und rechts an den Straßen sieht man den wild wuchernden Dschungel.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515652850/in/album-72157680321616691/" title="Koh Phangan Roads"><img src="https://c1.staticflickr.com/3/2867/33515652850_e52c926d80_z.jp2" width="640" height="480" alt="Koh Phangan Roads"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515652850/in/album-72157680321616691/" title="Koh Phangan Roads"><img src="https://c1.staticflickr.com/3/2867/33515652850_e52c926d80_z.jpg" width="640" height="480" alt="Koh Phangan Roads"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Es gab zwei Strände, an denen wir an diesem Tag unsere Zeit verbracht haben. Als Erstes waren wir am flachen Haad Thong Nai Pan Yai Strand. Große Sandbänke die meilenweit ins Meer hineinragen. Der zweite Strand liegt in dem Ort Haad Than Sadet. In einer kleinen Bucht flankiert von Bergen, zu der nur wenige Touristen ihren Weg finden, war es wie in einer Oase. Einfach Wunderschön! Aber nichts geht ohne etwas Abenteuer: Und das war es, dass Restaurant mit Aussicht hoch oben am Berghang zu der ein recht versteckter Weg über Felsen am Strand führte.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33087519973/in/album-72157680321616691/" title="Haad Than Sadet Beach"><img src="https://c1.staticflickr.com/4/3703/33087519973_bbdca31300_z.jp2" width="640" height="480" alt="Haad Than Sadet Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33087519973/in/album-72157680321616691/" title="Haad Than Sadet Beach"><img src="https://c1.staticflickr.com/4/3703/33087519973_bbdca31300_z.jpg" width="640" height="480" alt="Haad Than Sadet Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Am Abend gab es dann in unserem Resort ein hauseigenes BBQ vom Chef persönlich zubereitet. Sehr lecker wir haben richtig reingehauen.
@@ -194,7 +211,7 @@ Nach unserer Ankunft am Hafen erwarteten uns die üblichen Scharen an Taxifahrer
 Normalerweise muss man in Thailand wenn man als Tourist einen Roller mieten will seinen Reisepass als Kaution hinterlegen. Damit haben dich die Vermieter natürlich am Wickel, da der Reisepass mit Abstand das wichtigste Dokument ist, ohne den man auch nicht mehr ausreisen kann - das wissen die Vermieter natürlich. Nach kurzen Verhandlungen und der Ansage das ich auf keinen Fall meinen Reisepass abgebe, akzeptierte der Vermieter auch 5000 Baht (ca. 130€) und meinen EU-Führerschein als Kaution, was natürlich im Falle das irgendwas schief oder kaputt geht für uns wesentlich günstiger und unkomplizierter ist. Denn die Verträge sind schon heftig, die Roller sind nicht versichert, das heißt du musst für jeden Schaden aufkommen. Bei Diebstahl werden z.B. vertraglich vereinbarte 50000 Baht (ca. 1300€) fällig und selbst ein Kratzer kostet dich schon um die 2500 Baht (ca. 64€).
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257920232/in/dateposted-public/" title="Koh Tao Seaview Resort"><img src="https://c1.staticflickr.com/5/4190/34257920232_b25bc2011b_n.jp2" width="320" height="240" alt="Koh Tao Seaview Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257920232/in/dateposted-public/" title="Koh Tao Seaview Resort"><img src="https://c1.staticflickr.com/5/4190/34257920232_b25bc2011b_n.jpg" width="320" height="240" alt="Koh Tao Seaview Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu viele Sorgen machen. Unser Hotel, das [Koh Tao Seaview Resort](http://www.booking.com/hotel/th/koh-tao-seaview-resort.html?aid=1269594&no_rooms=1&group_adults=1), liegt diesmal nicht am Strand sondern hoch oben in den Bergen. Der Ausblick von unserer kleinen aber feinen Hütte über den dicht bewachsenen Jungle und das Meer ist einfach fantastisch. Wir haben sogar eine Hängematte auf unserem kleinen Balkon!
@@ -202,7 +219,7 @@ Nichtsdestotrotz fährt hier jeder Roller und man muss sich jetzt auch nicht zu 
 Am Abend waren wir noch am Sairee Beach und haben uns das touristische Treiben dort angeschaut. Und wow der Strand macht in den Abendstunden echt was her!
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515653640/in/dateposted-public/" title="Sairee Beach"><img src="https://c1.staticflickr.com/3/2916/33515653640_239482e421_z.jp2" width="640" height="480" alt="Sairee Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515653640/in/dateposted-public/" title="Sairee Beach"><img src="https://c1.staticflickr.com/3/2916/33515653640_239482e421_z.jpg" width="640" height="480" alt="Sairee Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 ## Tag 12 - Sonnenuntergang
@@ -216,7 +233,7 @@ Der kleine Strand bot außerdem eine perfekte Location um unsere Hängematte ern
 Leider mussten wir gegen 16.00 Uhr schon wieder aufbrechen, denn wir hatten heut noch Großes vor: Den Sonnenuntergang auf einem versteckten Aussichtspunkt hoch oben in den Bergen genießen! Um zu dem Aussichtspunkt zu gelangen mussten wir einiges an Offroad-Strecken und Kletterei überwinden aber es hat sich sowas von gelohnt. Zwischen zwei riesigen Felsbrocken hindurchgezwängt befanden wir uns auf einem vorgelagerten Boulder über den Baumkronen und mit einem 200° Panorama-Blick über die Insel. Die untergehende Sonne taucht das Meer in ein rot-gelbe Szenerie und die vielen Boote in der Bucht sahen von hier oben einfach nur winzig aus. Fast schon surreal und einmalig!
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257919582/in/dateposted-public/" title="Koh Tao Panorama"><img src="https://c1.staticflickr.com/5/4162/34257919582_39c75cb95c_z.jp2" width="640" height="142" alt="Koh Tao Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/34257919582/in/dateposted-public/" title="Koh Tao Panorama"><img src="https://c1.staticflickr.com/5/4162/34257919582_39c75cb95c_z.jpg" width="640" height="142" alt="Koh Tao Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 ## Tag 13 - Sonnenbrände
@@ -234,7 +251,7 @@ Am Abend sind wir vom Hafen in Mae Haad zum Ort Sairee am Strand spazieren gegan
 Nach einem ausgewogenen Frühstück mit Toast, Rührei, Bacon, Tee und Orangensaft führte unser Weg zum Hafen die Fährtickets reservieren. Denn morgen geht es in die Provinz Krabi, genauer gesagt nach Ao Nang, gelegen an der Westküste Thailands. Der Trip wird um die sieben Stunden dauern, sodass wir dort erst am frühen Abend ankommen.
 
 <figure class="alignleft">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575198474/in/dateposted-public/" title="Ao Leuk Bay Snorkeling"><img src="https://c1.staticflickr.com/5/4165/33575198474_5039c78dfe_n.jp2" width="320" height="240" alt="Ao Leuk Bay Snorkeling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575198474/in/dateposted-public/" title="Ao Leuk Bay Snorkeling"><img src="https://c1.staticflickr.com/5/4165/33575198474_5039c78dfe_n.jpg" width="320" height="240" alt="Ao Leuk Bay Snorkeling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Den letzten Tag auf Koh Tao haben wir genutzt um den letzten größeren Strand der Insel zu erkunden. Die Ao Leuk Bay, auf die wir jeden Morgen von unserer Frühstücksterasse blicken, ist ein feinsandiger Strand, was für die Insel eher selten ist. Auch die Riffe sind hier anders, irgendwie mehr so wie in Ägypten, Felsen wechseln sich mit feinstem Sand ab und Fische sind schon unmittelbar nach dem betreten des Wassers zu sehen.
@@ -252,7 +269,7 @@ Nachdem wir gestern nach einem Code RED (riesengroße Spinne im Bungalow) recht 
 Nach einem Zwischenstopp in Koh Phangan, wechselten wir in Koh Samui unser Fährboot. Es war wieder mal ein sehr heisser Tag, sodass uns das klimatisierte Speedboot Richtung Donsak Pier gerade recht kam. Benny schlief nach der kurzen Nacht an meiner Schulter ein.
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744082862/in/dateposted-public/" title="Vipa Tropical Resort"><img src="https://c1.staticflickr.com/1/588/33744082862_e8987fe1f6_n.jp2" width="240" height="320" alt="Vipa Tropical Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744082862/in/dateposted-public/" title="Vipa Tropical Resort"><img src="https://c1.staticflickr.com/1/588/33744082862_e8987fe1f6_n.jpg" width="240" height="320" alt="Vipa Tropical Resort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus nach Krabi-City. Wir lernten noch am Busbahnhof ein nettes deutsches Mädel kennen. Mehr Leute als wir drei wollten nicht nach Ao Nang, sodass wir allein in einem 40–Mann Bus abfuhren. In Krabi angekommen gab es dann noch eine kurze Tour mit einem Kleinbus zum Resort - es ist mittlerweile 17:30 Uhr. Das in einem tropischen Garten gelegene [Vipa Tropical Resort](http://www.booking.com/hotel/th/vipa-tropical-resort.html?aid=1269594&no_rooms=1&group_adults=1) ist umgeben von steilen Felsen die bestimmt 300 Meter in den Himmel ragen. Vor unserem sehr sauberen und modernen Bungalow ist ein kleiner Pool gelegen. Diesen haben wir nach einem ausgiebigen Abendessen auch für ein paar Bahnen direkt eingeweiht.
@@ -262,19 +279,19 @@ Angekommen am Donsak–Pier ging es nach kurzem Aufenthalt weiter mit dem Bus na
 Nach einem Langschläferfrühstück ging es direkt an die Planung für den bevorstehenden Tag. Die Provinz Krabi und speziell Ao Nang beherbergt einige der schönsten Strände der Welt. Die meisten von diesen Stränden sind nur mit dem Boot erreichbar, da sie von hunderten Meter hohen Felsen umgeben sind. Aber da Thailand ohnehin bekannt für seine typischen Longtailboote mit den stinkenden und lauten Dieselmotoren ist dürfte das kein Problem werden. Also ging es mit dem hoteleigenen Shuttle zum Strand um die Möglichkeiten abzuchecken. Boote lagen schonmal genug am Strand jetzt nur noch ein Ticket für 100 Baht pro Nase erwerben und warten bis das Boot unserer Wahl voll ist und ab geht es nach Railay.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744084092/in/dateposted-public/" title="Railay Beach"><img src="https://c1.staticflickr.com/3/2932/33744084092_04c1cb21fc_z.jp2" width="640" height="480" alt="Railay Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33744084092/in/dateposted-public/" title="Railay Beach"><img src="https://c1.staticflickr.com/3/2932/33744084092_04c1cb21fc_z.jpg" width="640" height="480" alt="Railay Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Railay ist ausschließlich per Boot erreichbar und beherbergt neben weißen Sandstränden und einer atemberaubenden Kulisse auch die teuersten Resorts der Gegend. Die Überfahrt dauerte nur etwa zehn Minuten und war für sich allein genommen schon ein Erlebnis. Angekommen am Strand Railay West wurde uns schnell klar das auch hier der Massentourismus schon seit vielen Jahren eingezogen ist, aber sei's drum. Unser erstes Ziel war die Kalksteinhöhle Phranang-nai (Diamondcave), da wir aber nicht so gut im Schilder lesen sind, sind wir an der Phranang Cave (Princesscave) am namensgebenden Strand Phranang Beach rausgekommen.
 
 <figure class="alignleft">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900470745/in/dateposted-public/" title="Phra Nang Cave Beach"><img src="https://c1.staticflickr.com/3/2943/33900470745_fe3acabe52_n.jp2" width="240" height="320" alt="Phra Nang Cave Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900470745/in/dateposted-public/" title="Phra Nang Cave Beach"><img src="https://c1.staticflickr.com/3/2943/33900470745_fe3acabe52_n.jpg" width="240" height="320" alt="Phra Nang Cave Beach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Der Weg dort hin führte uns über den Strand Railay East, der nur bei Ebbe begehbar ist, und einen gewunden Pfad vorbei an dutzenden wildlebenden Rhesusaffen. Anders als überall erzählt waren die Affen wenig aggressiv und boten ein super Fotomotiv. Dann entdeckte ich auch noch einen steilen Kletterpfad zu einem Aussichtspunkt und mein Abenteuerdrang war mal wieder geweckt. Oben angekommen fand ich zwar keinen Aussichtspunkt aber eine Kletterroute bergab zu einer im Berg liegenden Lagune. Leider beinhaltete diese Route auch senkrechte Felswände die bis zu sieben Meter hoch waren und mein gesunder Menschenverstand riet mir dann doch davon ab das ohne Sicherung zu klettern.
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900468605/in/dateposted-public/" title="Penis Temple"><img src="https://c1.staticflickr.com/4/3831/33900468605_aedcc5a302_n.jp2" width="320" height="240" alt="Penis Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900468605/in/dateposted-public/" title="Penis Temple"><img src="https://c1.staticflickr.com/4/3831/33900468605_aedcc5a302_n.jpg" width="320" height="240" alt="Penis Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Also ging es wieder zurück und ein paar Windungen später fanden wir uns an einem Phallus-Schrein wieder. Dort liegen hunderte selbst geschnitzte Penisse, die für die Thais wohl so eine Art Fruchtbarkeitsritual darstellen. Ob's hilft wissen wir nicht. Da der Strand an der Höhle mit den vielen Penissen leider viel zu voll war beschlossen wir zurück zum Railay  West Beach zu gehen, der ist sehr weitläufig und die Menschenmassen verteilten sich hier ganz gut. Auf dem Rückweg haben wir dann auch noch zu unserem eigentlichen Ziel der Diamondcave gefunden, die hunderte von Fledermäusen ein Zuhause bietet und bekannt für ihre glänzend, schimmernden Kalksteinformationen ist.Angekommen am Strand machten wir es uns unter ein paar Bäumen gemütlich, installierten die Hängematte und genossen das Panorama und das türkisblaue Wasser.
@@ -288,7 +305,7 @@ Am Abend fuhren wir dann mit einem der vielen Longtailboote zurück nach Ao Nang
 Der heutige Tag hielt zur Abwechslung mal wieder einen Tagesausflug für uns bereit. Drei Stopps mit den klangvollen Namen Hot Springs, Emerald Pool und Tiger Cave Temple standen auf dem Programm.
 
 <figure class="alignright">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515671480/in/dateposted-public/" title="Hot Springs"><img src="https://c1.staticflickr.com/4/3927/33515671480_2999cf1306_n.jp2" width="320" height="240" alt="Hot Springs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515671480/in/dateposted-public/" title="Hot Springs"><img src="https://c1.staticflickr.com/4/3927/33515671480_2999cf1306_n.jpg" width="320" height="240" alt="Hot Springs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 In einem fahrenden Kühlschrank in Form eines Minivans ging es also früh morgens los Richtung Hot Springs. Wie der Name bereits vermuten lässt sind die Hot Springs heiße Quellen die im dichten Urwald eine Art terrassenförmig geformten Wasserfall mit konstant heißem (ca. 38°) Wasser füllen. Den Quellen wird aufgrund des sehr mineralhaltigen Wassers heilende Wirkung nachgesagt. Das baden in dem heißen Wasser empfanden wir zu unserer Überraschung als recht angenehm obwohl die Lufttemperatur wie jeden Tag auch schon morgens 32° anzeigte. Wir haben uns also die Terrassen hinab gebadet und schließlich ein erfrischendes Bad in einem etwas kühleren Fluss genossen. Toller Einstieg in den Tag!
@@ -296,17 +313,17 @@ In einem fahrenden Kühlschrank in Form eines Minivans ging es also früh morgen
 Als nächstes ging es dann zum Emerald Pool. Der Urwald rund um den natürlichen See wurde vor einigen Jahren zum Nationalpark erklärt, was die Thais aber trotzdem nicht davon abhält die Natur durch umfangreiche und für uns fragliche Baumaßnahmen zu zerstören. Alles in allem hat sich das Baden im Emerald Pool durch die Massen an Touristen eher angefühlt wie ein Besuch im Prinzenbad in Berlin, nur ohne Wiese und Currywurst. Etwa 600 Meter entfernt vom Emerald Pool fanden wir noch eine Lagune die ihren Namen alle Ehre macht: Die Blue Lagoon.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515672370/in/dateposted-public/" title="Blue Lagoon"><img src="https://c1.staticflickr.com/4/3726/33515672370_514423f807_z.jp2" width="640" height="480" alt="Blue Lagoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33515672370/in/dateposted-public/" title="Blue Lagoon"><img src="https://c1.staticflickr.com/4/3726/33515672370_514423f807_z.jpg" width="640" height="480" alt="Blue Lagoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 <figure class="alignleft">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900486935/in/dateposted-public/" title="Tiger Cave Temple"><img src="https://c1.staticflickr.com/1/698/33900486935_06e34731b2_n.jp2" width="320" height="240" alt="Tiger Cave Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33900486935/in/dateposted-public/" title="Tiger Cave Temple"><img src="https://c1.staticflickr.com/1/698/33900486935_06e34731b2_n.jpg" width="320" height="240" alt="Tiger Cave Temple"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 Unsere letzte Station hörte auf dem Namen Tiger Cave Temple. Unser Tourguide Apo gab uns zwei Möglichkeiten die Tempelanlage zu erkunden. Option Eins war ein Besuch in besagten Tempel dessen historische und religiöse Bedeutung mir leider entfallen ist (da kann nur noch [Wikipedia](https://en.wikipedia.org/wiki/Tiger_Cave_Temple) aushelfen). Option Nummer Zwei war der Besuch eines Tempels auf einem 600 Meter hohen Berg zu dem geschlagene 1243 Treppenstufen führten. Die Mathematiker unter euch können sich ja ungefähr ausrechnen wie hoch eine Stufe im Durchschnitt sein musste! Natürlich war ich im Angesicht dieses Abenteuers und der voraussichtlich folgenden völligen Erschöpfung direkt Feuer und Flamme für Option Numero Zwei - Anni hat meine Euphorie nicht ganz so geteilt. Letztendlich sind wir bei dem Aufstieg beide an unsere Grenzen gegangen und Chapeau an meine wunderbare Freundin, die sich bei diesem Workout einfach selbst übertroffen hat! Die Belohnung für die Quälerei waren neben einem geschätzten Liter Wasserverlust in Form von Schweiß eine atemberaubende Aussicht über die Provinz Krabi und natürlich das einmalige Gefühl etwas geschafft zu haben, was viele im Angesicht der steilen Treppen nicht einmal versuchen.
 
 <figure class="aligncenter">
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575353754/in/dateposted-public/" title="Tiger Cave Temple Mountain Panorama"><img src="https://c1.staticflickr.com/5/4160/33575353754_b55fc95e0d_z.jp2" width="640" height="142" alt="Tiger Cave Temple Mountain Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/33575353754/in/dateposted-public/" title="Tiger Cave Temple Mountain Panorama"><img src="https://c1.staticflickr.com/5/4160/33575353754_b55fc95e0d_z.jpg" width="640" height="142" alt="Tiger Cave Temple Mountain Panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 ## Tag 18 - Auszeit
