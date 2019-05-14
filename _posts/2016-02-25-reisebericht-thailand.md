@@ -3,8 +3,8 @@ layout: post
 date: '2016-02-25 19:36'
 title: 'Reisebericht Thailand: Bangkok und das Inselparadies'
 description: >-
-  Ein Reise- und Erfahrungsbericht über ein Backpackingabenteuer in Bangkok und
-  Südthailand
+  Ein authentischer Reisebericht über ein Backpackingabenteuer in Thailand.
+  Erfahrt mehr über die schönsten Strände, Hotels und Plätze unseres
 comments: true
 mood: happy
 category:
