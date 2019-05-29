@@ -19,7 +19,7 @@ twitter:
 logo: avatars1.githubusercontent.com/u/1689047
 lang: de_DE
 social:
-  name: Ben Balter
+  name: Benjamin Schuch
   links:
     - https://twitter.com/chillyistkult
     - https://www.facebook.com/benjaminschuch.de
@@ -75,7 +75,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://www.chillyistkult.de"
+url: "chillyistkult.de"
 baseurl: ""
 
 # Includes
