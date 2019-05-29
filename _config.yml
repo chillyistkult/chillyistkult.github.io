@@ -57,7 +57,7 @@ social_networks:
 
 # Modules Settings
 show_categories: 0
-show_tags: 0
+show_tags: 1
 show_mood: 0
 show_email: 1
 show_rss: 1
