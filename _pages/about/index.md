@@ -7,7 +7,7 @@ published: true
 
 > Fang nie an aufzuhören - hör nie auf anzufangen.
 >
-> - Marcus Tullius Cicero
+> — Marcus Tullius Cicero
 
 ## Berufserfahrung
 
