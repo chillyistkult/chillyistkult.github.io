@@ -6,8 +6,7 @@ published: true
 ---
 
 > Fang nie an aufzuhören - hör nie auf anzufangen.
->
-> (Marcus Tullius Cicero, römischer Redner und Staatsmann)
+*(Marcus Tullius Cicero, römischer Redner und Staatsmann)*
 
 ## Berufserfahrung
 
