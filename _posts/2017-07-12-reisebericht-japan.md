@@ -15,9 +15,7 @@ tags:
   - backpacking
 published: true
 ---
-**Die schönsten Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
-
-## Vorwort
+**Die schönsten Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/albums/72157686182142915).**
 
 In vier Stunden starten wir in unser nächstes Abenteuer: Japan! Von Berlin aus fliegen wir über Katar in reichlich 18 Stunden nach Japan. Wir fliegen mit Qatar Airways und ich hoffe wirklich, dass die besseren Tomatensaft als Air Berlin oder Germanwings haben, und vor allem mehr Beinfreiheit! Die Zeitverschiebung zwischen Deutschland und Japan beträgt +7 Stunden. Wir fliegen also in die Zukunft und landen um ca. 23:30 Uhr (lokaler Zeit) in Tokyo. Dort bleiben wir die ersten Tage, erkunden die Stadt, und machen uns mit den überfreundlichen Japanern vertraut. Auf der Karte ist unsere geplante Reiseroute eingezeichnet. Hauptsächlich werden wir per Zug mit dem superschnellen Shinkansen (bis zu 320 km/h) reisen. Dafür haben wir uns eine Flatrate im Form eines Japan Rail Passes gegönnt. Das ist so eine Art "Ich darf alles fahren"-Karte, die das ganze Unterfangen preislich recht erträglich macht.
 
