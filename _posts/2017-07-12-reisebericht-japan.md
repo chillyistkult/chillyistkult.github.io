@@ -117,7 +117,7 @@ Für mich schon eher interessant, waren die Technikläden, wie zum Beispiel Yodo
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35118524394/in/album-72157686182142915/" title="Tokyo Odaiba"><img src="https://farm5.staticflickr.com/4325/35118524394_604046eb6d_m.jpg" width="240" height="160" alt="Tokyo Odaiba"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo. Als beliebtes Unterhaltungs- und Einkaufsgebiet war Odaiba unerwartet ein Ort der Ruhe und Gelassenheit. Weitläufige Parkanlagen, ein echter Sandstrand, entspannte Japaner - alles das was ich an Tokyo bisher so sehr vermisst habe. Von Odaiba über die Bucht von Tokyo führt die Rainbow Bridge, die meiner Meinung nach nicht an einem Regenbogen erinnert, aber seht selbst. 
+Anschließend ging es nach Odaiba, eine künstliche Insel in der Bucht von Tokyo. Als beliebtes Unterhaltungs- und Einkaufsgebiet war Odaiba unerwartet ein Ort der Ruhe und Gelassenheit. Weitläufige Parkanlagen, ein echter Sandstrand, entspannte Japaner - alles das, was ich an Tokyo bisher so sehr vermisst habe. Von Odaiba über die Bucht von Tokyo führt die Rainbow Bridge, die meiner Meinung nach nicht an einem Regenbogen erinnert, aber seht selbst. 
 
 <figure class="aligncenter">
   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/benjaminschuch/35118525844/in/album-72157686182142915/" title="Tokyo Rainbow Bridge"><img src="https://farm5.staticflickr.com/4306/35118525844_567b88a235_z.jpg" width="640" height="427" alt="Tokyo Rainbow Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
