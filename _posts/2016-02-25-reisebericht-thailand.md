@@ -17,6 +17,8 @@ tags:
   - backpacking
 published: true
 ---
+**Die schönsten Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/albums/72157680321616691).**
+
 Jetzt sind es nur noch 13 Stunden 32 Minuten und 23 Sekunden bis das Abenteuer Thailand für uns endlich losgeht. Die 21 Tage, die wir in Thailand verbringen werden, dokumentieren wir hier in Form eines kleinen Reiseblogs. Geplant ist 
 und die Betonung liegt auf "geplant" jeden Tag ein paar Zeilen zu schreiben und die Highlights, Erlebnisse und Miseren des Tages festzuhalten.
 
