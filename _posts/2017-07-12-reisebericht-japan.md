@@ -83,7 +83,7 @@ Deshalb entschieden wir uns auch die 30 Minuten zum Tokyo Skytree zu laufen. Den
 
 - A.) Tickets für clevere Menschen die schon Wochen im vorraus online reservieren 
 - B.) Tickets für Menschen die nicht wussten, dass man online reservieren kann und sich daher eine Stunde lang an der Tageskasse anstellen 
-- C.) Tickets für naive Ausländer die besonders teuer sind, dafür aber immerhin keine Wartezeiten beinhalten
+- C.) Tickets für naive Ausländer, die besonders teuer sind, dafür aber immerhin keine Wartezeiten beinhalten
 
 Wir haben uns mangels weiterer Optionen für Variante C entschieden und haben es nicht bereut:
 
