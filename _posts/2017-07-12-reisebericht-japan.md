@@ -17,6 +17,14 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 16 - Last but not least: Roppongi Hills
+
+Heute um Mitternacht sollte unser Flug zurück nach Berlin gehen. Es blieb also noch ein ganzer Tag, um ein etwas unbekannteres Viertel Tokyos zu erkunden: Roppongi (jap. 六本木, wörtlich: sechs Bäume). Nach einem kontinentalen Frühstück im Hotel ging es gestärkt und zu Fuß in Richtung Roppongi Hills, ein Megakomplex im Zentrum des Distriktes der für 2,5 Milliarden Dollar erbaut wurde. Am besten lässt sich Roppongi Hills als eine Stadt in einer Stadt beschreiben. Der Komplex ist so weitläufig, dass es wirklich schwer war den Überblick zu behalten. Neben der eindrucksvollen vertikalen Bauwerken finden sich hier aber auch weitläufige Flächen, schön angelegte Gärten und ausgiebige Terassen, die zum Entspannen einladen. Das Publikum hier ist eher jung und hip, das spiegelt sich auch in den unzähligen Cafes und Restaurants wider, die so garnicht japanisch daherkommen und eher internationales Publikum anziehen. Warum wurde uns erst später bewusst, denn in unmittelbarer Nähe finden sich zahlreiche Botschaften allerlei Länder.
+
+Die Deutsche Botschaft ist nur ein paar Gehminuten entfernt und der Weg führt durch den Prinz-Arisugawa-Gedächtnispark. Ich glaube wir haben ein Faible für Parks, denn jedes Mal wenn wir einen durchqueren dauert das Stunden. Und so war es bereits früher Abend als wir die deutsche Botschaft erreichten. Keine Ahnung was wir uns erwartet haben, aber so wie wohl jede Botschaft war auch die deutsche durch Mauern abgeschirmt. Aber wie sagt man so schön: Der Weg ist das Ziel.
+
+Auf dem Rückweg hatten wir das Glück noch einmal die Sonne zu genießen, denn es war den ganzen Tag bewölkt und hatte leicht geregnet. Ein atemberaubender Urlaub geht hier zu Ende. Wir freuen uns darauf unsere Erlebnisse mit unserer Familie und Freunden zu Teilen und eins ist klar: Wir kommen wieder!
+
 ## Tag 15 - Back to Tokyo
 
 Unser Japantrip neigte sich langsam dem Ende zu und es ist fast schon zur Gewohnheit geworden, dass wir uns zum Ende unserer Reise noch einmal ein richtig schönes Hotel leisten. Nicht, dass unsere Reise ins Land der aufgehenden Sonne, auch ohne etwas Dekadenz in bester Erinnerung bleiben würde, aber man gönnt sich ja sonst nichts. Unsere Wahl fiel auf das Fünf-Sterne-Hotel [The Prince Park Tower Tokyo](https://www.booking.com/hotel/jp/the-prince-park-tower-tokyo.de.html?aid=1269594), dessen Lage in unmittelbarer Nähe des Tokyo Towers und in Mitten eines ruhigen Parks, auf den ersten Blick etwas (mehr) Ruhe und Entspannung versprach. Im Hotel angekommen, waren wir etwas überrascht, wie viele Leute mit uns einchecken wollten. Das Warten vor der Rezeption hat sich aber gelohnt, denn wer genießt schon nicht gerne den Ausblick aus dem 34. Stock von einem Hotelzimmer größer als die eigene Wohnung.
