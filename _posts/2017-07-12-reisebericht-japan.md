@@ -15,7 +15,7 @@ tags:
   - backpacking
 published: true
 ---
-**Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
+**Die schönsten Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
 ## Vorwort
 
