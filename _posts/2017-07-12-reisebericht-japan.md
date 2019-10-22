@@ -17,6 +17,15 @@ published: true
 ---
 **Alle Bilder unserer Reise gibt es auf [Flickr](https://www.flickr.com/photos/benjaminschuch/sets/72157686182142915/).**
 
+## Tag 15 - Back to Tokyo
+
+Unser Japantrip neigte sich langsam dem Ende zu und es ist fast schon zur Gewohnheit geworden, dass wir uns zum Ende unserer Reise noch einmal ein richtig schönes Hotel leisten. Nicht, dass unsere Reise ins Land der aufgehenden Sonne, auch ohne etwas Dekadenz in bester Erinnerung bleiben würde, aber man gönnt sich ja sonst nichts. Unsere Wahl fiel auf das Fünf-Sterne-Hotel [The Prince Park Tower Tokyo](https://www.booking.com/hotel/jp/the-prince-park-tower-tokyo.de.html?aid=1269594), dessen Lage in unmittelbarer Nähe des Tokyo Towers und in Mitten eines ruhigen Parks, auf den ersten Blick etwas (mehr) Ruhe und Entspannung versprach. Im Hotel angekommen, waren wir etwas überrascht, wie viele Leute mit uns einchecken wollten. Das Warten vor der Rezeption hat sich aber gelohnt, denn wer genießt schon nicht gerne den Ausblick aus dem 34. Stock von einem Hotelzimmer größer als die eigene Wohnung.
+
+Wir waren von der Anreise etwas geschafft und nach einem ausgiebigen Nickerchen ging es auf zu einer Entdeckungstour rund ums Hotel. Der Shiba Park ist ein kleiner, verwinkelter und, aufgrund der Nähe zum Tokyo Tower, eine bei Touristen beliebte Gelegenheit etwas Ruhe im sonst hektischen Treiben zu finden. Vor dem Zojoji-Tempel in der Mitte des Parks fand gerade eine Art Karnevalsveranstaltung statt. Viele tanzende und freudig erregte Japaner jeden Alters verliehen der Szenerie etwas familiäres und luden uns zum Verweilen ein. Das passte mir ohnehin ganz gut, denn hier gab es viele seltene Pokemon zu fangen und mein iPhone hatte immer noch viel zu viel Akku.
+
+Nach einem mittelmäßig guten Abendessen bei einem kleinen indischen Restaurant um die Ecke und einem Absacker an der Hotelbar gingen wir früh ins Bett, um am letzten Tag unserer Japanreise noch einmal richtig was zu erleben.
+
+
 ## Tag 14 - Kaiyukan
 
 Die erste Nacht in Osaka war sehr angenehm. Das Zimmer nicht zu warm, nicht zu kalt, die Klimaanlage angenehm leise und das Bett genau die richtige Härte. Man muss an dieser Stelle einfach mal sagen, dass man sich auf die Bewertungen auf [booking.com](https://www.booking.com/?aid=1269594) echt verlassen kann. Nachdem wir gestern Abend nur ein wenig die Umgebung rund ums Hotel erkundet hatten, ging es heute zu einer echten Attraktion Osakas: Das Kaiyukan (jap. 海遊館). Ihr fragt euch sicher, was das ist? Eines der größten öffentlichen Aquarien der Welt. Nun kann man ja von Aquarien halten was man will. Tierquälerei oder doch alles artgerecht? Ich würde mich da zwischen den Fronten positionieren und behaupten, dass es nicht sein muss, Delfine und andere intelligente Meeressäuger, die sich ihrer Situation sehr wohl bewusst sind, in winzigen Becken zu halten. Trotzdem muss man deshalb aber nicht gleich alles boykottieren.
