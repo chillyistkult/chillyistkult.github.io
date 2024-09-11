@@ -12,30 +12,30 @@ published: true
 ## Berufserfahrung
 
 <dl>
-    <dt>Frontend Team Leader</dt>
+    <dt>Lead Frontend Developer</dt>
     <dd>
         <a href="https://www.swaarm.com" target="_blank">Swaarm</a> | 09/2020 - heute
     </dd>
 </dl>
 
 <dl>
-    <dt>Frontend Team Leader</dt>
+    <dt>Lead Frontend Developer</dt>
     <dd>
         <a href="https://www.weq.com" target="_blank">WeQ</a> | 12/2018 - 08/2020
     </dd>
 </dl>
 
 <dl>
-    <dt>Software Engineer</dt>
+    <dt>Senior Frontend Developer</dt>
     <dd>
         <a href="https://www.weq.com" target="_blank">WeQ</a> | 04/2018 - 12/2018
     </dd>
 </dl>
 
 <dl>
-    <dt>Software Engineer</dt>
+    <dt>Senior Frontend Developer</dt>
     <dd>
-      	<a href="http://www.covus.com" target="_blank">Ocono</a> | 07/2017 - 04/2018
+      	<a href="http://www.ocono.com" target="_blank">Ocono</a> | 07/2017 - 04/2018
     </dd>
 </dl>
 
