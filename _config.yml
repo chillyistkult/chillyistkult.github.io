@@ -11,7 +11,6 @@ disqus: chillyistkult
 
 # SEO
 title: Benjamin Schuch | Software Engineer
-url: chillyistkult.de
 author: Benjamin Schuch
 twitter:
   username: chillyistkult
@@ -94,7 +93,7 @@ markdown: kramdown
 excerpt_separator: <!--more-->
 
 # Plugins
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
