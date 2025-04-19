@@ -31,7 +31,7 @@ social:
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'https://www.facebook.com/benjaminschuch.de' }
+-  { name: facebook, url: '' }
 -  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
@@ -45,14 +45,14 @@ social_networks:
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
 -  { name: youtube, url: '' }
--  { name: vimeo, url: 'https://vimeo.com/chillyistkult' }
+-  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
 -  { name: flickr, url: 'https://www.flickr.com/photos/benjaminschuch/' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
 -  { name: wordpress, url: '' }
--  { name: xing, url: 'https://xing.to/benjaminschuch' }
+-  { name: xing, url: '' }
 
 # Modules Settings
 show_categories: 0
