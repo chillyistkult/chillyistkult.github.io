@@ -12,9 +12,16 @@ published: true
 ## Berufserfahrung
 
 <dl>
+    <dt>Senior Frontend Developer</dt>
+    <dd>
+        <a href="https://www.sap.com" target="_blank">SAP</a> | 12/2024 - heute
+    </dd>
+</dl>
+
+<dl>
     <dt>Lead Frontend Developer</dt>
     <dd>
-        <a href="https://www.swaarm.com" target="_blank">Swaarm</a> | 09/2020 - heute
+        <a href="https://www.swaarm.com" target="_blank">Swaarm</a> | 09/2020 - 06/2024
     </dd>
 </dl>
 
