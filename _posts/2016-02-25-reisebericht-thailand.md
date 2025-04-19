@@ -3,8 +3,7 @@ layout: post
 date: '2016-02-25 19:36'
 title: 'Reisebericht Thailand: Bangkok und das Inselparadies'
 description: >-
-  Ein authentischer Reisebericht über ein Backpackingabenteuer in Thailand.
-  Erfahrt mehr über die schönsten Strände, Hotels und Plätze unseres
+  Begleitet uns auf ein unvergessliches Abenteuer durch Thailand! In diesem Reisebericht teilen wir unsere Erlebnisse aus Bangkoks quirligem Stadtleben, entspannte Tage auf den paradiesischen Inseln Koh Samui, Koh Phangan und Koh Tao sowie spannende Ausflüge zu atemberaubenden Nationalparks. Lasst euch von unseren persönlichen Highlights, Tipps und Geschichten inspirieren – perfekt für alle, die Thailand authentisch erkunden möchten!
 comments: true
 mood: happy
 category:
