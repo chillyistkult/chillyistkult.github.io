@@ -2,7 +2,7 @@
 layout: post
 date: '2017-07-12 12:09'
 title: 'Reisebericht Japan: Im Land der aufgehenden Sonne'
-description: Ein Reise- und Erfahrungsbericht über eine Rundreise durch Japan
+description: Begleitet uns auf unserem unvergesslichen Abenteuer durch Japan! In diesem Reisebericht teilen wir unsere persönlichen Eindrücke, kulturelle Highlights, kulinarische Erlebnisse und praktische Reisetipps – perfekt für alle, die Japan lieben oder eine Reise planen.
 comments: true
 mood: happy
 category:
